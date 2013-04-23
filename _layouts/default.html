@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="author" content="Vu Do" />
+    <meta name="google-site-verification" content="KDVRO6hdZ0Vww31dac2Yomyd7xjmMMFEZw2Fzq5acuY" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/screen.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/GitHubWidget.css">
+    <link href="http://feeds.feedburner.com/richard-huang" rel="alternate" title="RSS" type="application/rss+xml" />
+  </head>
+
+  <body>
+    <div id="header" class="section">
+      <div class="wrapper">
+        <strong id="blog-title">
+          <a href="/" rel="home">A Passion Developer</a>
+        </strong>
+        <p id="blog-description"></p>
+        <div id="navigation">
+          <ul class="nav clearfix">
+            <li class="first-child"><a href="/blog.html">Blog</a></li>            
+            <li><a href="/about.html">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="main" class="section">
+      <div class="wrapper">
+        <div id="content">
+          {{ content }}
+        </div>
+        <div id="sidebar">
+          <div id="carrington-subscribe" class="widget">
+            <h2 class="widget-title">Subscribe</h2>
+            <a class="feed alignright" title="RSS 2.0 feed for posts" rel="alternate" href="http://feeds.feedburner.com/richard-huang">
+              <img src="/images/rss-button.gif" alt="latest posts" title="latest posts">
+            </a>
+          </div>
+          <div id="carrington-about" class="widget">
+            <div class="about">
+              <h2 class="widget-title">About Me</h2>
+              <img class="gravatar" src="https://secure.gravatar.com/avatar/#dohaivu?s=#32">
+              <p>I'm a .NET/Ruby developer who has a strong focus on code quality, server performance and scalability.</p>
+              <a class="more" href="/about.html">more →</a>
+            </div>
+          </div>          
+          <div id="primary-sidebar">
+            <div class="widget">
+              <h2 class="widget-title">Categories</h2>
+              <ul>
+                {% for category in site.categories %}
+                <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <div id="secondary-sidebar">
+            <div class="widget">
+              <h2 class="widget-title">Recent Posts</h2>
+              <ul>
+                {% for post in site.posts limit:10 %}
+                <li>
+                  <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+              <div class="clear"></div>
+            </div>
+            <div class="widget">
+              <h2 class="widget-title">Archives</h2>
+              <ul>
+                {% for monthly_archive in site.monthly_archives reversed %}
+                <li>
+                  <a href="{{ site.baseurl }}/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
+                </li>
+                {% endfor %}
+              </ul>
+              <div class="clear"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" class="section">
+      <div class="wrapper">
+        <a id="generator-link">
+          Proudly powered by
+          <a href="https://github.com/mojombo/jekyll" rel="generator">Jekyll</a>
+          and
+          <a href="http://carringtontheme.com" title="Carrington theme for WordPress">Carrington</a>
+      </div>
+      <div id="developer-link">
+      </div>
+    </div>
+    <a href="https://github.com/dohaivu"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>    
+    
+    <script type="text/javascript">
+      var disqus_shortname = 'richard-huang';
+
+      (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    </script>
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("UA-8561975-1");
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+  </body>
+</html>
