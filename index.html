@@ -17,6 +17,12 @@ title: A Passion Developer
       {% for category in post.categories %}
       <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
       {% endfor %}
+	  
+	  &nbsp;&nbsp;&nbsp;
+		Tags &nbsp;
+		{% for tag in post.tags %}
+			<a href="{{ tag }}/">{{ tag }}</a> &nbsp;
+		{% endfor %}
     </p>
     <p class="comments-link">
       <a href='{{post.url}}#disqus_thread'>Comments</a>

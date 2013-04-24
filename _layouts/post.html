@@ -14,14 +14,13 @@ layout: default
     {% for category in page.categories %}
     <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
     {% endfor %}
-  </p>
-  <p class="alt-font tight">
+	&nbsp;&nbsp;&nbsp;
 	Tags &nbsp;
 	{% for tag in page.tags %}
 		<a href="{{ tag }}/">{{ tag }}</a> &nbsp;
 	{% endfor %}
-	</p>
-	
+  </p>
+  	
   <p class="by-line">
     <span class="date full-date">
       <abbr class="published" title="{{ page.date }}">{{ page.date | date_to_string }}</abbr>
