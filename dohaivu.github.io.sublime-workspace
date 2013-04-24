@@ -1,0 +1,1328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"new_email"
+			],
+			[
+				"gra",
+				"gravatar_id"
+			],
+			[
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"sho",
+				"should"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"user",
+				"user_for_invalid_password"
+			],
+			[
+				"pa",
+				"patfh	path_from_here( .. )"
+			],
+			[
+				"shoul",
+				"should_not"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"passw",
+				"password_confirmation"
+			],
+			[
+				"vali",
+				"VALID_EMAIL_REGEX"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
+				"folo",
+				"followerCount"
+			],
+			[
+				"foll",
+				"followerCount"
+			],
+			[
+				"fo",
+				"followerCount"
+			],
+			[
+				"p",
+				"put"
+			],
+			[
+				"a",
+				"ari	aria-"
+			],
+			[
+				"asser",
+				"assert.equal(actual, expected, message);"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"style",
+				"style	<style>"
+			],
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"meta",
+				"meta	HTML - Meta tags"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"g",
+				"fs.chown(path, uid, gid, callback);"
+			],
+			[
+				"foot",
+				"FOOTER	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"jq",
+				"jq-boilerplate-min	jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"if",
+				"interface"
+			],
+			[
+				"test",
+				"test1"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"fra",
+				"frame"
+			],
+			[
+				"on",
+				"onImageLoad"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 185.0,
+		"selected_items":
+		[
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previw",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"copy",
+				"Markdown Preview: copy to clipboard"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markdow",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Markdown",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"preveiw",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"syntax ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdonw",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Textile"
+			],
+			[
+				"syntax m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"oen",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"test",
+				"RubyTest: Switch between code and test"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"rubytest",
+				"RubyTest: Show Test Panel"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syntax ry",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"upge",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upga",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"merge",
+				"Sublimerge: View Diff"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jaa",
+				"Format: Javascript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Rope: New Project"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"syntax jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"relp",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"rope",
+				"Rope: New Project"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"snippet	",
+				"Snippet: Function"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"update",
+				"Auto Copyright: Update Copyright"
+			],
+			[
+				"righg",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"right",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"cipy",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"tag",
+				"Tag: Remove All Tags in Document"
+			],
+			[
+				"brak",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"filecop",
+				"File: Copy as Tag a"
+			],
+			[
+				"file co",
+				"File: Copy Path"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"br",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"snippet do",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brower",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"forma	",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pakce",
+				"Package Control: Install Package"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"buli",
+				"Build: Build"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet aja	",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"snippet",
+				"Snippet: jQuery change handler"
+			],
+			[
+				"jquery	",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"snipper",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet if",
+				"Snippet: if … else"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"com",
+				"Compile TypeScript"
+			],
+			[
+				"typesc",
+				"Compile TypeScript"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/D/SkyDrive/Writing/[2013.04.24] daily blog.md",
+		"/D/SkyDrive/Writing/[2013.04.23] daily blog.md",
+		"/D/SkyDrive/Writing/template daily blog.md",
+		"/D/Projects/dohaivu.github.io/_layouts/default.html",
+		"/D/Projects/dohaivu.github.io/README.md",
+		"/D/Projects/dohaivu.github.io/index.html",
+		"/D/Projects/dohaivu.github.io/stylesheets/screen.css",
+		"/D/Projects/dohaivu.github.io/_layouts/post.html",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-first-post.markdown",
+		"/D/Projects/haivu.github.io/index.html",
+		"/D/Projects/haivu.github.io/_layouts/default.html",
+		"/D/Projects/haivu.github.io/_posts/2013-04-23-first-post.md",
+		"/D/SkyDrive/Writing/[2013.04.22] daily blog.md",
+		"/D/SkyDrive/Writing/[2013.04.19] Da Nang trip early 2013.md",
+		"/D/SkyDrive/Writing/[2013.04.22] daily blog",
+		"/D/SkyDrive/Writing/[2013.04.21] daily blog.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Markdown Preview/sample.md",
+		"/D/SkyDrive/Writing/notes.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/WordCount/WordCount.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/SkyDrive/Writing/nodes",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/MarkdownPreview.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimePandoc/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimePandoc/Pandoc.sublime-settings",
+		"/D/SkyDrive/Writing/[2013.04.19] daily blog.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/D/SkyDrive/Writing/[2013.04.04] the next ipad mini.md",
+		"/D/SkyDrive/Writing/2013.04.04 the next ipad mini.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SmartMarkdown/Default.sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/QuickRef/README.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Distraction Free.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/QuickRef/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/QuickRef/QuickRef.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Gist/Gist.sublime-settings",
+		"/d/Projects/rails_projects/sample_app/lib/tasks/sample_data.rake",
+		"/d/Projects/rails_projects/sample_app/Gemfile",
+		"/d/Projects/rails_projects/sample_app/spec/factories.rb",
+		"/d/Projects/rails_projects/sample_app/spec/features/user_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/index.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/_user.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130329093347_add_admin_to_users.rb",
+		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
+		"/d/Projects/rails_projects/sample_app/spec/features/authentication_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/edit.html.erb",
+		"/d/Projects/rails_projects/sample_app/spec/controllers/controller_spec.rb",
+		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/d/Projects/rails_projects/sample_app/spec/spec_helper.rb",
+		"/d/Projects/rails_projects/sample_app/sample_app.sublime-workspace",
+		"/d/Projects/rails_projects/sample_app/features/signing_in.feature",
+		"/d/Projects/rails_projects/sample_app/features/step_definitions/authentication_steps.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/assets/javascripts/application.js",
+		"/d/Projects/rails_projects/sample_app/config/routes.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130328140356_add_remember_token_to_users.rb",
+		"/d/Projects/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/d/Projects/rails_projects/sample_app/config/environments/test.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/d/Projects/rails_projects/sample_app/config/environments/production.rb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
+		"/d/Projects/rails_projects/sample_app/db/schema.rb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/d/Projects/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/d/Projects/rails_projects/sample_app/public/index.html",
+		"/d/Projects/rails_projects/sample_app/public/_aaindex.html",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/Default (Windows).sublime-keymap",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/application.css",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/Default.sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/RubyTest.sublime-settings",
+		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/d/Projects/rails_projects/sample_app/.rspec",
+		"/d/Projects/rails_projects/sample_app/Guardfile",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/d/Projects/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/README.md",
+		"/d/Projects/rails_projects/sample_app/public/hello.html",
+		"/d/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/d/Projects/rails_projects/sample_app/config/initializers/mime_types.rb",
+		"/D/Projects/rails_projects/first_app/config/application.rb",
+		"/D/Projects/rails_projects/first_app/public/index.html",
+		"/D/Projects/rails_projects/first_app/app/controllers/users_controller.rb",
+		"/D/Projects/rails_projects/first_app/app/views/users/show.html.erb",
+		"/D/Projects/rails_projects/first_app/config/routes.rb",
+		"/D/Projects/rails_projects/first_app/app/models/micropost.rb",
+		"/D/Projects/rails_projects/first_app/app/models/user.rb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/DetectSyntax/DetectSyntax.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/DetectSyntax.sublime-settings",
+		"/D/Projects/rails_projects/first_app/Gemfile",
+		"/d/Projects/rails_projects/first_app/public/index.html",
+		"/d/Projects/rails_projects/first_app/Gemfile",
+		"/d/Projects/rails_projects/first_app/Gemfile.lock",
+		"/d/Projects/rails_projects/first_app/README.md",
+		"/d/Projects/rails_projects/first_app/.gitignore",
+		"/D/Projects/railsdemo/config/routes.rb",
+		"/D/Projects/railsdemo/app/views/welcome/index.html.erb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Sublimerge/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Base File.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Terminal/Base File.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Projects/gtask/Gruntfile.js",
+		"/D/Projects/gtask/package.json",
+		"/D/Projects/gtask/app/index.html",
+		"/D/Projects/gtask/test/index.html",
+		"/D/Projects/gtask/test/setup.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"Ruby on Rails Tutorial Sample App",
+			"sql",
+			"		.",
+			"private",
+			"False",
+			" >''",
+			"haivu",
+			"haivuvu",
+			"haivu",
+			">",
+			"Student",
+			"pathname",
+			"ctrl+d",
+			"pathname",
+			"path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"useco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"authen",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"usercontr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userhtml",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"usespec",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"fac",
+				"spec/factories.rb"
+			],
+			[
+				"model",
+				"app/models/user.rb"
+			],
+			[
+				"sampledat",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"usespe",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"migradmin",
+				"db/migrate/20130329093347_add_admin_to_users.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"userin",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"userind",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"userpage",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"cuso",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"sesscon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"seshel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"auth",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"sess",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"au",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"usercont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"usepa",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
+			],
+			[
+				"authe",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"utilit",
+				"spec/support/utilities.rb"
+			],
+			[
+				"session",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authenspe",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"usercontro",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userpagesp",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"applijs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"sesshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessionhel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"migrarem",
+				"db/migrate/20130328140356_add_remember_token_to_users.rb"
+			],
+			[
+				"userspec",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"applicontro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"headr",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"sesnew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"consess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"controller",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"controluser",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"spe",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"cusom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"usecontro",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"usershel",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"envipro",
+				"config/environments/production.rb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"usershow",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userspe",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"passo",
+				"db/migrate/20130326112628_add_password_digest_to_users.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"add",
+				"db/migrate/20130326111651_add_index_to_users_email.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"helper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"sta",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"fot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"heae",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"spec",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"hear",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"applay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cu",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"layto",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"ho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"staticpage",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"appl",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"contact",
+				"app/views/static_pages/contact.html.erb"
+			],
+			[
+				"gua",
+				"Guardfile"
+			],
+			[
+				"speche",
+				"spec/spec_helper.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"gur",
+				"Guardfile"
+			],
+			[
+				"control",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"specsta",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"hel",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"help",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"rps",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"rsp",
+				".rspec"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gems",
+				"config/initializers/mime_types.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"gemfi",
+				"first_app/Gemfile"
+			],
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"hom",
+				"views/home.jade"
+			],
+			[
+				"si",
+				"/D/MediaOnline/SourceCode/BoomerangV2/Boomerang.CMS/Content/Site.css"
+			],
+			[
+				"c",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"site",
+				"/D/MediaOnline/SourceCode/BoomerangV2/Boomerang.CMS/Content/Site.css"
+			],
+			[
+				"can",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"ut",
+				"untitled"
+			],
+			[
+				"cna",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"u",
+				"untitled"
+			],
+			[
+				"pro",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"t",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true
+}

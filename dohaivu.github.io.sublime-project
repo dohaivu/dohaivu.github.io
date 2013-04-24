@@ -1,0 +1,24 @@
+{
+ "folders":
+ [
+  {
+   "path": "/D/Projects/dohaivu.github.io",
+   "folder_exclude_patterns": 
+   [
+    "_assets", "_includes","_layouts", "_plugins", 
+    "_site", "images"
+   ],
+   "file_exclude_patterns": 
+   [
+    "_config.yml", ".htaccess", "archive.html", "atom.xml", 
+    "robots.txt", "index.md", "categories.html", "tags.html", 
+    "changelog.md", "pages.html", "Rakefile", "README.md", 
+    "sitemap.txt", "Gemfile", "Gemfile.lock"
+   ]
+  }
+ ],
+ "settings":
+ {
+  "tab_size":2
+ }
+}
