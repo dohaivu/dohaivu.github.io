@@ -1,4 +1,14 @@
 paginate: 10
 pygments: true
 markdown: rdiscount
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
+
+pagination_roots: ["/blog"]
+
+sitename: "Vu Hai Do"
+subtitle: "Senior full-stack .NET developer"
+
+author: "Vu Hai Do"
+email: "dohaivu@gmail.com"
+
+tag_dir: "blog/tag"
