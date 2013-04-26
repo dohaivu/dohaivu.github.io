@@ -64,10 +64,10 @@ task :post do
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts 'description: ""'
-    post.puts "category: "
+    post.puts "categories: []"
     post.puts "tags: []"
-    post.puts "---"
-    post.puts "{% include JB/setup %}"
+	post.puts "published: false"
+    post.puts "---"    
   end
 end # task :post
 

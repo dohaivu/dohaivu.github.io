@@ -151,9 +151,13 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 185.0,
+		"height": 210.0,
 		"selected_items":
 		[
+			[
+				"close",
+				"File: Close All"
+			],
 			[
 				"preview",
 				"Markdown Preview: preview in Browser"
@@ -256,10 +260,6 @@
 			],
 			[
 				"clo",
-				"File: Close All"
-			],
-			[
-				"close",
 				"File: Close All"
 			],
 			[
@@ -612,15 +612,23 @@
 	},
 	"file_history":
 	[
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-cors.md",
+		"/D/Projects/dohaivu.github.io/_layouts/category_index.html",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-welcome-github-pages-jekyll.markdown",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-first-post.markdown",
+		"/D/Projects/dohaivu.github.io/about.html",
+		"/D/Projects/dohaivu.github.io/index.html",
+		"/D/Projects/dohaivu.github.io/categories.rb",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-new-post.md",
+		"/D/Projects/dohaivu.github.io/rss.xml",
+		"/D/Projects/dohaivu.github.io/dohaivu.github.io.sublime-project",
 		"/D/SkyDrive/Writing/[2013.04.24] daily blog.md",
 		"/D/SkyDrive/Writing/[2013.04.23] daily blog.md",
 		"/D/SkyDrive/Writing/template daily blog.md",
 		"/D/Projects/dohaivu.github.io/_layouts/default.html",
 		"/D/Projects/dohaivu.github.io/README.md",
-		"/D/Projects/dohaivu.github.io/index.html",
 		"/D/Projects/dohaivu.github.io/stylesheets/screen.css",
 		"/D/Projects/dohaivu.github.io/_layouts/post.html",
-		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-first-post.markdown",
 		"/D/Projects/haivu.github.io/index.html",
 		"/D/Projects/haivu.github.io/_layouts/default.html",
 		"/D/Projects/haivu.github.io/_posts/2013-04-23-first-post.md",
@@ -731,15 +739,7 @@
 		"/D/Projects/railsdemo/app/views/welcome/index.html.erb",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Sublimerge/Default (Windows).sublime-keymap",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Base File.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Terminal/Base File.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Emmet/Emmet.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Package Control/Package Control.sublime-settings",
-		"/D/Projects/gtask/Gruntfile.js",
-		"/D/Projects/gtask/package.json",
-		"/D/Projects/gtask/app/index.html",
-		"/D/Projects/gtask/test/index.html",
-		"/D/Projects/gtask/test/setup.js"
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
