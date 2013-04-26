@@ -151,23 +151,27 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 210.0,
+		"height": 185.0,
 		"selected_items":
 		[
-			[
-				"close",
-				"File: Close All"
-			],
 			[
 				"preview",
 				"Markdown Preview: preview in Browser"
 			],
 			[
-				"previw",
+				"prview",
 				"Markdown Preview: preview in Browser"
 			],
 			[
 				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"previw",
 				"Markdown Preview: preview in Browser"
 			],
 			[
@@ -612,6 +616,10 @@
 	},
 	"file_history":
 	[
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-enterprise-library-6.md",
+		"/D/Projects/ExploreEnterpriseLibrary6/README.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Markdown Preview/sample.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-how-to-localize-api.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-cors.md",
 		"/D/Projects/dohaivu.github.io/_layouts/category_index.html",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-welcome-github-pages-jekyll.markdown",
@@ -636,7 +644,6 @@
 		"/D/SkyDrive/Writing/[2013.04.19] Da Nang trip early 2013.md",
 		"/D/SkyDrive/Writing/[2013.04.22] daily blog",
 		"/D/SkyDrive/Writing/[2013.04.21] daily blog.md",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Markdown Preview/sample.md",
 		"/D/SkyDrive/Writing/notes.md",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/WordCount/WordCount.sublime-settings",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
@@ -736,10 +743,7 @@
 		"/d/Projects/rails_projects/first_app/README.md",
 		"/d/Projects/rails_projects/first_app/.gitignore",
 		"/D/Projects/railsdemo/config/routes.rb",
-		"/D/Projects/railsdemo/app/views/welcome/index.html.erb",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Sublimerge/Default (Windows).sublime-keymap",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Base File.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap"
+		"/D/Projects/railsdemo/app/views/welcome/index.html.erb"
 	],
 	"find":
 	{
