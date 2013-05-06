@@ -16,7 +16,7 @@ Links:
 
 __What is Enterprise Library?__
 
-Enterprise Library is a collection of application block, each managing a specific crosscutting concern. Crosscutting concerns are task thats you implement in various places in your application. The risk of that is your team will implement differently in your application. Enterprise Library application block make it easy to manage by providing generic and configurable functionality that you can customize and manage.
+Enterprise Library is a collection of application blocks, each aimed at managing specific crosscutting concerns. Crosscutting concerns are task thats you implement in various places in your application. The risk of that is your team will implement differently in your application. Enterprise Library application block make it easy to manage by providing generic and configurable functionality that you can customize and manage.
 
 Enterprise Library 6 contains the following application blocks:
 - Data Access
@@ -29,5 +29,37 @@ Enterprise Library 6 contains the following application blocks:
 - Validation
 
 I will develop a Web app to explore how it work
+
+## Install Enterprise Library 6
+- Reference assemblies to your project if you [downloaded](http://www.microsoft.com/en-us/download/details.aspx?id=38789) and installed it manually .
+- Use NuGet package manager
+
+## Data Access Application Block
+The Data Access Application Block abstracts the actual database you are using, and exposes a series of methods that make it easy to access that database to perform common tasks.
+
+### Configuring the Block and add assemblies
+We can configure the default database in web.config. [Enterprise Library configuration tool](http://www.microsoft.com/en-us/download/details.aspx?id=38789) provide us a GUI interface for easier to config
+
+```xml
+<?xml version="1.0"?>
+<configuration>
+<configSections>
+  <section name="dataConfiguration" type="Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DatabaseSettings, Microsoft.Practices.EnterpriseLibrary.Data" requirePermission="true"/>
+</configSections>
+<dataConfiguration defaultDatabase="BookDatabase"/>
+<connectionStrings>
+  <add name="BookDatabase" connectionString="Server=SqlServer;Database=Book;User Id=sa;Password=Password@123;Connection Timeout=30;" providerName="System.Data.SqlClient" />
+</connectionStrings>
+...
+</configuration>
+```
+### Create database instances
+
+```cs
+//load config from web.config
+DatabaseProviderFactory dbFactory = new DatabaseProviderFactory();
+//create database use default config
+SqlDatabase db = dbFactory.CreateDefault() as SqlDatabase;            
+```
 
 

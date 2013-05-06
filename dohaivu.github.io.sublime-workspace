@@ -147,6 +147,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2013-04-26-enterprise-library-6.md",
+			"settings":
+			{
+				"buffer_size": 2831,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
@@ -156,6 +164,10 @@
 		[
 			[
 				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"preveiw",
 				"Markdown Preview: preview in Browser"
 			],
 			[
@@ -208,10 +220,6 @@
 			],
 			[
 				"Markdown",
-				"Markdown Preview: preview in Browser"
-			],
-			[
-				"preveiw",
 				"Markdown Preview: preview in Browser"
 			],
 			[
@@ -794,8 +802,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2013-04-26-enterprise-library-6.md",
+					"settings":
+					{
+						"buffer_size": 2831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2757,
+								2757
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -848,6 +884,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ente",
+				"_posts/2013-04-26-enterprise-library-6.md"
+			],
 			[
 				"useco",
 				"app/controllers/users_controller.rb"
