@@ -1,6 +1,9 @@
 paginate: 10
-pygments: true
-markdown: rdiscount
+pygments: false
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+  
 permalink: /blog/:year/:month/:day/:title/
 
 pagination_roots: ["/blog"]

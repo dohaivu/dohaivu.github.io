@@ -147,14 +147,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2013-04-26-enterprise-library-6.md",
-			"settings":
-			{
-				"buffer_size": 2831,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
@@ -167,15 +159,35 @@
 				"Markdown Preview: preview in Browser"
 			],
 			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"pri",
+				"Markdown Preview: preview in Browser"
+			],
+			[
 				"preveiw",
 				"Markdown Preview: preview in Browser"
 			],
 			[
 				"prview",
-				"Markdown Preview: preview in Browser"
-			],
-			[
-				"pre",
 				"Markdown Preview: preview in Browser"
 			],
 			[
@@ -185,10 +197,6 @@
 			[
 				"previw",
 				"Markdown Preview: preview in Browser"
-			],
-			[
-				"mark",
-				"Markdown Preview: open Markdown Cheat sheet"
 			],
 			[
 				"syn",
@@ -357,10 +365,6 @@
 			[
 				"inst",
 				"Package Control: Install Package"
-			],
-			[
-				"upg",
-				"Package Control: Upgrade Package"
 			],
 			[
 				"list",
@@ -624,9 +628,15 @@
 	},
 	"file_history":
 	[
-		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-enterprise-library-6.md",
-		"/D/Projects/ExploreEnterpriseLibrary6/README.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-exception-handling-block.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-18-logging-application-block.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-12-unity.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-python-package-installation.md",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Markdown Preview/sample.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-enterprise-library-6.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-new-post.md",
+		"/D/Projects/dohaivu.github.io/_drafts/2013-05-06-test.md",
+		"/D/Projects/ExploreEnterpriseLibrary6/README.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-how-to-localize-api.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-cors.md",
 		"/D/Projects/dohaivu.github.io/_layouts/category_index.html",
@@ -745,13 +755,7 @@
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/DetectSyntax/DetectSyntax.sublime-settings",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/DetectSyntax.sublime-settings",
 		"/D/Projects/rails_projects/first_app/Gemfile",
-		"/d/Projects/rails_projects/first_app/public/index.html",
-		"/d/Projects/rails_projects/first_app/Gemfile",
-		"/d/Projects/rails_projects/first_app/Gemfile.lock",
-		"/d/Projects/rails_projects/first_app/README.md",
-		"/d/Projects/rails_projects/first_app/.gitignore",
-		"/D/Projects/railsdemo/config/routes.rb",
-		"/D/Projects/railsdemo/app/views/welcome/index.html.erb"
+		"/d/Projects/rails_projects/first_app/public/index.html"
 	],
 	"find":
 	{
@@ -802,36 +806,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2013-04-26-enterprise-library-6.md",
-					"settings":
-					{
-						"buffer_size": 2831,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2757,
-								2757
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1575.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -884,6 +860,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"loggi",
+				"_posts/2013-05-18-logging-application-block.md"
+			],
+			[
+				"pytho",
+				"_posts/2013-05-17-python-package-installation.md"
+			],
+			[
+				"uni",
+				"_posts/2013-05-12-unity.md"
+			],
+			[
+				"en",
+				"_posts/2013-04-26-enterprise-library-6.md"
+			],
 			[
 				"ente",
 				"_posts/2013-04-26-enterprise-library-6.md"
