@@ -147,20 +147,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2013-05-12-unity.md",
+			"settings":
+			{
+				"buffer_size": 1236,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Microsoft Windows [Version 6.2.9200]\n(c) 2012 Microsoft Corporation. All rights reserved.\n\nD:\\Projects\\dohaivu.github.io\\_posts>cd ..\n\nD:\\Projects\\dohaivu.github.io>rake post title=\"git mirroring\"\nCreating new post: ./_posts/2013-05-24-git-mirroring.md\n\nD:\\Projects\\dohaivu.github.io>",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Windows",
+				"name": "*REPL* [C:\\Windows\\system32\\cmd.exe]",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_posts/2013-05-24-git-mirroring.md",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 185.0,
+		"height": 210.0,
 		"selected_items":
 		[
 			[
-				"preview",
-				"Markdown Preview: preview in Browser"
-			],
-			[
 				"shell",
 				"SublimeREPL: Shell"
+			],
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
 			],
 			[
 				"upg",
@@ -806,8 +832,120 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2013-05-12-unity.md",
+					"settings":
+					{
+						"buffer_size": 1236,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										1189,
+										1206
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": null,
+							"repl_id": "b55fcb1abf88450f994f72758f194964",
+							"smart_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2013-05-24-git-mirroring.md",
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -860,6 +998,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"mirro",
+				"_posts/2013-05-24-git-mirroring.md"
+			],
 			[
 				"loggi",
 				"_posts/2013-05-18-logging-application-block.md"
