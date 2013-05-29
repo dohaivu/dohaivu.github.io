@@ -12,6 +12,8 @@ The Logging block in Enterprise Library 6 is enhanced with some nice features:
 - Priority filter
 - LoggingEnabled
 
+<!--break-->
+
 ### Purpose of logging
 - Monitoring application performance: errors, failure
 - Providing information: audit user behavior, what tasks are processed, what information are read

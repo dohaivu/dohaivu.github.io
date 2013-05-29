@@ -6,9 +6,11 @@ categories: [guide]
 tags: [python, setup]
 published: true
 ---
+This is a short note how to install package from [PyPi](https://pypi.python.org)
+
+<!--break-->
 
 __Support Python 2.7__
-
 
 ## Install Setuptool
 Download [setuptools](https://pypi.python.org/pypi/setuptools)

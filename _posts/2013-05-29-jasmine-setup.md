@@ -31,6 +31,7 @@ describe("Hello world", function() {
 - Edit file _SpecRunner.html_: include source and spec files in _include source files here_ and _include spec files here_
 - Run the _SpecRunner.html_
 
+Visit Jasmine home for more assert statements.
 
 __References:__
 
