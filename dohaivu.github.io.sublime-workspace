@@ -147,32 +147,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2013-05-12-unity.md",
-			"settings":
-			{
-				"buffer_size": 1236,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Microsoft Windows [Version 6.2.9200]\n(c) 2012 Microsoft Corporation. All rights reserved.\n\nD:\\Projects\\dohaivu.github.io\\_posts>cd ..\n\nD:\\Projects\\dohaivu.github.io>rake post title=\"git mirroring\"\nCreating new post: ./_posts/2013-05-24-git-mirroring.md\n\nD:\\Projects\\dohaivu.github.io>",
-			"settings":
-			{
-				"buffer_size": 290,
-				"line_ending": "Windows",
-				"name": "*REPL* [C:\\Windows\\system32\\cmd.exe]",
-				"scratch": true
-			}
-		},
-		{
-			"file": "_posts/2013-05-24-git-mirroring.md",
-			"settings":
-			{
-				"buffer_size": 316,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
@@ -181,12 +155,16 @@
 		"selected_items":
 		[
 			[
-				"shell",
-				"SublimeREPL: Shell"
+				"close",
+				"File: Close All"
 			],
 			[
 				"preview",
 				"Markdown Preview: preview in Browser"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
 			],
 			[
 				"upg",
@@ -215,10 +193,6 @@
 			[
 				"prview",
 				"Markdown Preview: preview in Browser"
-			],
-			[
-				"close",
-				"File: Close All"
 			],
 			[
 				"previw",
@@ -654,10 +628,15 @@
 	},
 	"file_history":
 	[
-		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-exception-handling-block.md",
-		"/D/Projects/dohaivu.github.io/_posts/2013-05-18-logging-application-block.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-05-12-unity.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-24-git-mirroring.md",
+		"/D/Projects/dohaivu.github.io/index.html",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-18-logging-application-block.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-jekyll-setup.markdown",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-29-jasmine-setup.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-welcome-github-pages-jekyll.markdown",
 		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-python-package-installation.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-exception-handling-block.md",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Markdown Preview/sample.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-enterprise-library-6.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-05-17-new-post.md",
@@ -666,10 +645,8 @@
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-how-to-localize-api.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-cors.md",
 		"/D/Projects/dohaivu.github.io/_layouts/category_index.html",
-		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-welcome-github-pages-jekyll.markdown",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-first-post.markdown",
 		"/D/Projects/dohaivu.github.io/about.html",
-		"/D/Projects/dohaivu.github.io/index.html",
 		"/D/Projects/dohaivu.github.io/categories.rb",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-new-post.md",
 		"/D/Projects/dohaivu.github.io/rss.xml",
@@ -778,10 +755,7 @@
 		"/D/Projects/rails_projects/first_app/config/routes.rb",
 		"/D/Projects/rails_projects/first_app/app/models/micropost.rb",
 		"/D/Projects/rails_projects/first_app/app/models/user.rb",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/DetectSyntax/DetectSyntax.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/DetectSyntax.sublime-settings",
-		"/D/Projects/rails_projects/first_app/Gemfile",
-		"/d/Projects/rails_projects/first_app/public/index.html"
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/DetectSyntax/DetectSyntax.sublime-settings"
 	],
 	"find":
 	{
@@ -832,120 +806,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2013-05-12-unity.md",
-					"settings":
-					{
-						"buffer_size": 1236,
-						"regions":
-						{
-							"TagLint":
-							{
-								"flags": 52,
-								"icon": "dot",
-								"regions":
-								[
-									[
-										1189,
-										1206
-									]
-								],
-								"scope": "variable.parameter"
-							}
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"is_xml": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"settings":
-					{
-						"buffer_size": 290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								290,
-								290
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"auto_indent": false,
-							"detect_indentation": false,
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"gutter": false,
-							"history_arrows": true,
-							"indent_subsequent_lines": false,
-							"line_numbers": false,
-							"repl": true,
-							"repl_external_id": null,
-							"repl_id": "b55fcb1abf88450f994f72758f194964",
-							"smart_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_posts/2013-05-24-git-mirroring.md",
-					"settings":
-					{
-						"buffer_size": 316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								216,
-								216
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"is_xml": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -998,6 +860,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"jasmin",
+				"_posts/2013-05-29-jasmine-setup.md"
+			],
 			[
 				"mirro",
 				"_posts/2013-05-24-git-mirroring.md"
