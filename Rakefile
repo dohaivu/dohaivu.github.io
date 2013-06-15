@@ -67,9 +67,43 @@ task :post do
     post.puts "categories: []"
     post.puts "tags: []"
 	post.puts "published: false"
-    post.puts "---"    
+    post.puts "---"
+	post.puts "<!--break-->"
   end
 end # task :post
+
+# Usage: rake dailyread
+desc "Begin a new post in #{CONFIG['posts']}"
+task :dailyread do
+  abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
+  title = ENV["title"] || "dailyread"  
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  begin
+    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+	longdate = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%A, %B %d %Y')
+  rescue Exception => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+  filename = File.join(CONFIG['posts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"Daily Read - #{longdate}\""
+    post.puts 'description: ""'
+    post.puts "categories: [dailyread]"
+    post.puts "tags: [dailyread]"
+	post.puts "published: false"
+    post.puts "---"
+	post.puts "<!--break-->"
+  end
+end # task :post
+
 
 # Usage: rake page name="about.html"
 # You can also specify a sub-directory path.
