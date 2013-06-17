@@ -162,6 +162,14 @@
 				"buffer_size": 3379,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "_posts/2013-06-17-dailyread.md",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
@@ -644,6 +652,7 @@
 	},
 	"file_history":
 	[
+		"/d/Projects/dohaivu.github.io/.git/COMMIT_EDITMSG",
 		"/D/Projects/dohaivu.github.io/about.html",
 		"/D/Projects/dohaivu.github.io/_posts/2013-06-15-a-look-into-hekaton.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-06-15-dailyread.md",
@@ -770,8 +779,7 @@
 		"/d/Projects/rails_projects/sample_app/config/initializers/mime_types.rb",
 		"/D/Projects/rails_projects/first_app/config/application.rb",
 		"/D/Projects/rails_projects/first_app/public/index.html",
-		"/D/Projects/rails_projects/first_app/app/controllers/users_controller.rb",
-		"/D/Projects/rails_projects/first_app/app/views/users/show.html.erb"
+		"/D/Projects/rails_projects/first_app/app/controllers/users_controller.rb"
 	],
 	"find":
 	{
@@ -822,7 +830,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -884,6 +892,36 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2013-06-17-dailyread.md",
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -938,6 +976,10 @@
 		"selected_items":
 		[
 			[
+				"dai",
+				"_posts/2013-06-17-dailyread.md"
+			],
+			[
 				"heka",
 				"_posts/2013-06-15-a-look-into-hekaton.md"
 			],
@@ -948,10 +990,6 @@
 			[
 				"hek",
 				"_posts/2013-06-15-a-look-into-hekaton.md"
-			],
-			[
-				"dai",
-				"_posts/2013-06-15-dailyread.md"
 			],
 			[
 				"jasmin",
