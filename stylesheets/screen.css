@@ -518,6 +518,12 @@ h1.page-title {
 	padding-bottom: 24px;
 	width: 550px;
 }
+#content-post{
+	float: left;
+	padding-bottom: 24px;
+	width: 960px;
+}
+
 #sidebar {
 	background-color:#e9eaea;
 	float:left;

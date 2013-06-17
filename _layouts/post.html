@@ -1,30 +1,60 @@
----
-layout: default
----
-<div class="full">
-  <h1 class="entry-title">
-    <a href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a>
-  </h1>
-  <div class="entry-content full-content">
-    {{ content }}
-    <div class="clear"></div>
-  </div>
-  <p class="alt-font tight">
-    Posted in&nbsp;
-    {% for category in page.categories %}
-    <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
-    {% endfor %}
-	&nbsp;&nbsp;&nbsp;
-	Tags &nbsp;
-	{% for tag in page.tags %}
-		<a href="/tags/{{ tag }}/">{{ tag }}</a> &nbsp;
-	{% endfor %}
-  </p>
-  	
-  <p class="by-line">
-    <span class="date full-date">
-      <abbr class="published" title="{{ page.date }}">{{ page.date | date_to_string }}</abbr>
-    </span>
-  </p>
-  <div class="clear"></div>
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="author" content="Vu Hai Do" />    
+    <link rel="stylesheet" type="text/css" href="/stylesheets/screen.css">   
+    <link href="http://feeds.feedburner.com/github/dohaivu" rel="alternate" title="RSS" type="application/rss+xml" />
+  </head>
+
+  <body>
+    <div id="header" class="section">
+      <div class="wrapper">
+        <strong id="blog-title">
+          <a href="/" rel="home">A Passion Developer</a>
+        </strong>
+        <p id="blog-description"></p>
+        <div id="navigation">
+          <ul class="nav clearfix">
+            <li class="first-child"><a href="/blog.html">Blog</a></li>            
+            <li><a href="/about.html">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="main" class="section">
+	<div class="wrapper">
+        <div id="content-post">
+		<div class="full">
+		  <h1 class="entry-title">
+			<a href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a>
+		  </h1>
+		  <div class="entry-content">
+			{{ content }}
+			<div class="clear"></div>
+		  </div>
+		  <p class="alt-font tight">
+			Posted in&nbsp;
+			{% for category in page.categories %}
+			<a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
+			{% endfor %}
+			&nbsp;&nbsp;&nbsp;
+			Tags &nbsp;
+			{% for tag in page.tags %}
+				<a href="/tags/{{ tag }}/">{{ tag }}</a> &nbsp;
+			{% endfor %}
+		  </p>
+			
+		  <p class="by-line">
+			<span class="date full-date">
+			  <abbr class="published" title="{{ page.date }}">{{ page.date | date_to_string }}</abbr>
+			</span>
+		  </p>
+		  <div class="clear"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>
