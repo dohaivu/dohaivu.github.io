@@ -24,8 +24,7 @@ In-Memory OLTP removes the issues of waiting locks to be released using a comple
 
 Competitor
 
-Using
-__Create databases__
+### Create database
 Add `MEMORY_OPTIMIZED_DATA` filegroups for checkpoint files.
 
 ```sql
@@ -40,7 +39,7 @@ LOG ON (name = [SampleDB_log], Filename='L:\log\HKDB_log.ldf', size=500MB)
 COLLATE Latin1_General_100_BIN2;
 ```
 
-__Create tables__
+### Create tables
 Support all datatypes except LOB, all rows will be limited to 8060 bytes.
 
 ```sql
@@ -60,21 +59,10 @@ Limitation:
 - A maximum of 8 indexes, including the index supporting the PRIMARY KE
 - No Schema changes, No DDL command(CREATE INDEX, ALTER INDEX,...) 
 
-__Storage__  
-__Memory optimized table__: no need to read from disk. A set of checkpoint files are used for recovery that keep track the changes of data. Transaction log is stored on disk, the same as disk-based tables. If server crash, the rows of data can be created from checkpoint files and transaction logs.
+### Memory optimized table
+It is no need to read from disk. A set of checkpoint files are used for recovery that keep track the changes of data. Transaction log is stored on disk, the same as disk-based tables. If server crash, the rows of data can be created from checkpoint files and transaction logs.
 
 Non-durable table (SCHEMA_ONLY) is only available on memory. It does not require any IO operations, so data will be lost when server shutdown. But it's useful for temp data, caches, web server sessions.
-
-### Indexes on memory-optimized tables: Hash index
-They are not stored as traditional B-trees.
-Memory-optimized tables are never stored as unorganized sets of rows, like a disk-based table heap is stored.  
-Indexes are never stored on disk, operation are not logged. When SQL Server restart, indexes will be rebuilt.
-
-Hash index is an array of hash bucket that is a pointer.  
-In the example below, hash function is the length of name, city column.
-<img src="/images/posts/2013-06-15-a-look-into-hekaton_hash-index.png" />
-
-### Native compiled stored procedures
 
 ### Rows
 Rows are allocated from structures called heaps. Rows for a single table are not necessarily stored near other rows from the same table and the only way SQL Server knows what rows belong to the same table is because they are all connected using the tables’ indexes.
@@ -82,4 +70,28 @@ Rows are allocated from structures called heaps. Rows for a single table are not
 Each row consists of a header and a payload containing the row attributes.
 <img src="/images/posts/2013-06-15-a-look-into-hekaton_rows.png" />
 
-__Data operation__
+### Indexes on memory-optimized tables: Hash index
+They are not stored as traditional B-trees.
+Memory-optimized tables are never stored as unorganized sets of rows, like a disk-based table heap is stored.  
+Indexes are never stored on disk, operation are not logged. When SQL Server restart, indexes will be rebuilt.
+
+Hash index is an array of hash bucket that is a pointer.  
+In the example below, hash function is the length of name, city column. The row with name "Greg" whose length is 4, the hash bucket with value 4 will pointer to this row. Another rows with the same value is linked into the same chain 
+<img src="/images/posts/2013-06-15-a-look-into-hekaton_hash-index.png" />
+
+A pointer is 2 bytes in row header that follows IdxLinkCount
+
+### Native compiled stored procedures
+
+### Interpreted TSQL
+
+### Data operation
+__Commit/End time__:
+__Valid time__:
+__Logical read time__:
+
+### Transaction Isolation levels
+
+- Snapshot
+- Repeatable Read
+- Serializable
