@@ -8,10 +8,14 @@ permalink: /blog/:year/:month/:day/:title/
 
 pagination_roots: ["/blog"]
 
-sitename: "Vu Hai Do"
+title: "A Passion Developer"
 subtitle: "Senior full-stack .NET developer"
 
 author: "Vu Hai Do"
 email: "dohaivu@gmail.com"
 
-tag_dir: "blog/tag"
+tag_dir: "tags"
+category_dir: "categories"
+
+production_url: "dohaivu.github.io"
+rss_path: "/rss.xml"

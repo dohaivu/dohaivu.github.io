@@ -148,6 +148,14 @@
 	"buffers":
 	[
 		{
+			"file": "_posts/2013-06-21-dailyread.md",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "_posts/2013-06-15-a-look-into-hekaton.md",
 			"settings":
 			{
@@ -156,10 +164,34 @@
 			}
 		},
 		{
-			"file": "_posts/2013-06-17-dailyread.md",
+			"file": "dohaivu.github.io.sublime-project",
 			"settings":
 			{
-				"buffer_size": 804,
+				"buffer_size": 555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 477,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_plugins/categories.rb",
+			"settings":
+			{
+				"buffer_size": 2011,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 4648,
 				"line_ending": "Windows"
 			}
 		}
@@ -644,10 +676,21 @@
 	},
 	"file_history":
 	[
-		"/D/Projects/dohaivu.github.io/_posts/2013-06-16-dailyread.md",
-		"/D/Projects/dohaivu.github.io/_posts/2013-06-17-dailyread.md",
-		"/D/Projects/dohaivu.github.io/about.html",
+		"/D/Projects/dohaivu.github.io/_layouts/category_index.html",
+		"/D/Projects/dohaivu.github.io/_layouts/tag_index.html",
+		"/D/Projects/dohaivu.github.io/_layouts/default.html",
+		"/D/Projects/dohaivu.github.io/blog.html",
+		"/D/Projects/dohaivu.github.io/_layouts/rss_index.xml",
+		"/D/Projects/dohaivu.github.io/rss.xml",
+		"/D/Projects/dohaivu.github.io/Rakefile",
+		"/D/Projects/dohaivu.github.io/_posts/2013-06-19-dailyread.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-06-19-i18n-javascript-library.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-06-20-dailyread.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-06-15-a-look-into-hekaton.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-06-18-dailyread.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-06-17-dailyread.md",
+		"/D/Projects/dohaivu.github.io/_posts/2013-06-16-dailyread.md",
+		"/D/Projects/dohaivu.github.io/about.html",
 		"/D/Projects/dohaivu.github.io/_posts/2013-06-15-dailyread.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-06-14-dailyread.md",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/GitGutter/GitGutter.sublime-settings",
@@ -667,16 +710,13 @@
 		"/D/Projects/ExploreEnterpriseLibrary6/README.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-26-how-to-localize-api.md",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-cors.md",
-		"/D/Projects/dohaivu.github.io/_layouts/category_index.html",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-23-first-post.markdown",
 		"/D/Projects/dohaivu.github.io/categories.rb",
 		"/D/Projects/dohaivu.github.io/_posts/2013-04-24-new-post.md",
-		"/D/Projects/dohaivu.github.io/rss.xml",
 		"/D/Projects/dohaivu.github.io/dohaivu.github.io.sublime-project",
 		"/D/SkyDrive/Writing/[2013.04.24] daily blog.md",
 		"/D/SkyDrive/Writing/[2013.04.23] daily blog.md",
 		"/D/SkyDrive/Writing/template daily blog.md",
-		"/D/Projects/dohaivu.github.io/_layouts/default.html",
 		"/D/Projects/dohaivu.github.io/README.md",
 		"/D/Projects/dohaivu.github.io/stylesheets/screen.css",
 		"/D/Projects/dohaivu.github.io/_layouts/post.html",
@@ -763,15 +803,7 @@
 		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
 		"/d/Projects/rails_projects/sample_app/.rspec",
 		"/d/Projects/rails_projects/sample_app/Guardfile",
-		"/d/Projects/rails_projects/sample_app/app/views/static_pages/about.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/static_pages/help.html.erb",
-		"/d/Projects/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
-		"/d/Projects/rails_projects/sample_app/README.md",
-		"/d/Projects/rails_projects/sample_app/public/hello.html",
-		"/d/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
-		"/d/Projects/rails_projects/sample_app/config/initializers/mime_types.rb",
-		"/D/Projects/rails_projects/first_app/config/application.rb",
-		"/D/Projects/rails_projects/first_app/public/index.html"
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/about.html.erb"
 	],
 	"find":
 	{
@@ -789,6 +821,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gsub",
 			"end",
 			"Ruby on Rails Tutorial Sample App",
 			"sql",
@@ -822,11 +855,41 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "_posts/2013-06-21-dailyread.md",
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1379,
+								1379
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 587.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
 					"file": "_posts/2013-06-15-a-look-into-hekaton.md",
 					"settings":
 					{
@@ -837,38 +900,38 @@
 						"selection":
 						[
 							[
-								3591,
-								3591
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"encoding_helper_confidence": 1.0,
+							"encoding_helper_confidence": 0.86507373413,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
 							"is_xml": false,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2258.0,
+						"translation.y": 140.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "_posts/2013-06-17-dailyread.md",
+					"buffer": 2,
+					"file": "dohaivu.github.io.sublime-project",
 					"settings":
 					{
-						"buffer_size": 804,
+						"buffer_size": 555,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								801,
-								801
+								173,
+								173
 							]
 						],
 						"settings":
@@ -876,11 +939,103 @@
 							"encoding_helper_confidence": 1.0,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"is_xml": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_plugins/categories.rb",
+					"settings":
+					{
+						"buffer_size": 2011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 4648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 0.865779039274,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1014.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -938,12 +1093,24 @@
 		"selected_items":
 		[
 			[
-				"dai",
-				"_posts/2013-06-17-dailyread.md"
-			],
-			[
 				"heka",
 				"_posts/2013-06-15-a-look-into-hekaton.md"
+			],
+			[
+				"dai",
+				"_posts/2013-06-21-dailyread.md"
+			],
+			[
+				"da",
+				"_posts/2013-06-20-dailyread.md"
+			],
+			[
+				"i18n",
+				"_posts/2013-06-19-i18n-javascript-library.md"
+			],
+			[
+				"dail",
+				"_posts/2013-06-19-dailyread.md"
 			],
 			[
 				"daily",
@@ -1435,14 +1602,6 @@
 			],
 			[
 				"u",
-				"untitled"
-			],
-			[
-				"pro",
-				"/D/Projects/htmlgame/canvas.html"
-			],
-			[
-				"t",
 				"untitled"
 			]
 		],
