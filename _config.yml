@@ -19,3 +19,5 @@ category_dir: "categories"
 
 production_url: "dohaivu.github.io"
 rss_path: "/rss.xml"
+
+exclude: [Rakefile, Gemfile.lock, Gemfile, dohaivu.github.io.sublime-project, dohaivu.github.io.sublime-workspace]
