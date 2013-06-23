@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Thursday, June 20 2013"
+title: "Daily Reading - Thursday, June 20 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 [Netflix Ice](http://techblog.netflix.com/2013/06/announcing-ice-cloud-spend-and-usage.html)  

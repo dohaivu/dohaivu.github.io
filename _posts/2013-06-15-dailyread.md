@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Saturday, June 15 2013"
+title: "Daily Reading - Saturday, June 15 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 [What's Wrong with the iOS 7 Icons?](https://news.ycombinator.com/item?id=5881746)  

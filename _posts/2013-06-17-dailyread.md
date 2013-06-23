@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Monday, June 17 2013"
+title: "Daily Reading - Monday, June 17 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 [Startup geography](http://www.theatlanticcities.com/jobs-and-economy/2013/06/new-global-start-cities/5144/)  

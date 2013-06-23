@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Tuesday, June 18 2013"
+title: "Daily Reading - Tuesday, June 18 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 [Digg Reader is released in June 26](http://blog.digg.com/post/53203926175/digg-reader-update)

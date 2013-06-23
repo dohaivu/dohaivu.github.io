@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Wednesday, June 19 2013"
+title: "Daily Reading - Wednesday, June 19 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 [TypeScript 0.9 Preview Release](http://blogs.msdn.com/b/typescript/archive/2013/06/18/announcing-typescript-0-9.aspx)  

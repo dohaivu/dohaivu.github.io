@@ -94,10 +94,10 @@ task :dailyread do
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
-    post.puts "title: \"Daily Read - #{longdate}\""
+    post.puts "title: \"Daily Reading - #{longdate}\""
     post.puts 'description: ""'
-    post.puts "categories: [dailyread]"
-    post.puts "tags: [dailyread]"
+    post.puts "categories: [dailyreading]"
+    post.puts "tags: [dailyreading]"
 	post.puts "published: false"
     post.puts "---"
 	post.puts "<!--break-->"

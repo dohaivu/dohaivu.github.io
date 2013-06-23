@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Friday, June 21 2013"
+title: "Daily Reading - Friday, June 21 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 [State of DevOps in 2013](http://architects.dzone.com/articles/state-devops-2013-infographic)  

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Daily Read - Sunday, June 16 2013"
+title: "Daily Reading - Sunday, June 16 2013"
 description: ""
-categories: [dailyread]
-tags: [dailyread]
+categories: [dailyreading]
+tags: [dailyreading]
 published: true
 ---
 
