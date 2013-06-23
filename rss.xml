@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>A Passion Developer</title>
+        <description>A Passion Developer - Vu Hai Do</description>
+        <link>dohaivu.github.io/rss.xml</link>
+        <link>dohaivu.github.io</link>
+        <lastBuildDate>2013-06-23T21:32:28+07:00</lastBuildDate>
+        <pubDate>2013-06-23T21:32:28+07:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Daily Reading - Saturday, June 23 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/be905f64f3cb&quot;&gt;5 little design decisions to admire&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Snapchat’s single button for taking photo + video&lt;/strong&gt;&lt;br&gt;
+Tap to snap. Hold to capture video.It’s intuitive because the thing you want to capture is the same in both instances; what’s different is how long you want to capture it for&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Candy Crush Saga’s “5 more moves.”&lt;/strong&gt;&lt;br&gt;
+Couldn’t finish the puzzle in the allotted number of moves, buy for more 5 moves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Path’s sticker store&lt;/strong&gt;&lt;br&gt;
+The sticker packs are displayed oh-so-prettily on neat little shelves, complete with dramatic spotlight as if this were a museum exhibit of sorts. Tilt the phone, and the stickers swing along, playfully reacting to your movements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spotify’s “Popular” section&lt;/strong&gt;&lt;br&gt;
+For one thing, the discrepancy between the order of the songs and the global plays gives you an indication of what’s popular recently vs. what’s been popular historically, useful if you’re new to an artist. You also get a sense for the difference in popularity between various songs, something a simple sorted list doesn’t give you, so you can tell if the artist is a one-hit wonder or a consistent chart-topper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evernote’s note cards&lt;/strong&gt;&lt;br&gt;
+I’m talking about those little squares that look like white Post-It notes that show you a preview of the note’s content. There’s something about the tangibility and physicality of that design that makes it work so much better for me than a list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.l1ghtm4n.com/post/53259404576/patterns-for-rest-api-bulk-operations&quot;&gt;Patterns for REST API bulk operations&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://usablica.github.io/front-end-frameworks/compare.html&quot;&gt;A collection of best front end frameworks for faster&amp;amp;easier web development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/evolutionary-architecture-stop&quot;&gt;Evolutionary Architecture: Stop Divining Your Architecture, Instead Evolve It&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Shift architectural focus to the things that will result in an Evolutionary Architecture, one capable of evolving with the business.It means don&amp;#39;t spend a lot of time trying to divine the perfect architecture upfront&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/23/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/23/dailyread</guid>
+                <pubDate>2013-06-23T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Friday, June 21 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/state-devops-2013-infographic&quot;&gt;State of DevOps in 2013&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mikehadlow.blogspot.co.uk/2013/05/the-benefits-of-reverse-proxy.html&quot;&gt;The benefits of reverse proxy&lt;/a&gt;&lt;br&gt;
+A reverse proxy is server component that sites between the internet and your web servers. It accepts http requests, provide various services and forward the requests to one or many servers.&lt;br&gt;
+Here are some benefits:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Load balancing: route HTTP request to identical servers.&lt;/li&gt;
+&lt;li&gt;Security: hide your web servers behind DMZ&lt;/li&gt;
+&lt;li&gt;Authentication: single point of authentication for all HTTP requests&lt;/li&gt;
+&lt;li&gt;SSL Termination: handle HTTPS requests.&lt;/li&gt;
+&lt;li&gt;Serve static content&lt;/li&gt;
+&lt;li&gt;Caching: HTTP caching&lt;/li&gt;
+&lt;li&gt;Compression&lt;/li&gt;
+&lt;li&gt;Centralised Logging and Auditing&lt;/li&gt;
+&lt;li&gt;URL Rewriting&lt;/li&gt;
+&lt;li&gt;Aggregating multiple websites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://kripken.github.io/mloc_emscripten_talk/#/&quot;&gt;Big Web App? Compile it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.nodejitsu.com/npm-innovation-through-modularity&quot;&gt;NPM what next&lt;/a&gt;&lt;br&gt;
+Some features on NPM roadmap: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multiple registries&lt;/li&gt;
+&lt;li&gt;CDN-delivered static assets&lt;/li&gt;
+&lt;li&gt;Source code searching and analytics&lt;/li&gt;
+&lt;li&gt;Addressable content&lt;/li&gt;
+&lt;li&gt;Signed packages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.phase2technology.com/blog/practical-lessons-from-rubynation-2013/&quot;&gt;Practical lessons from RubyNation 2013&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/21/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/21/dailyread</guid>
+                <pubDate>2013-06-21T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Thursday, June 20 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://techblog.netflix.com/2013/06/announcing-ice-cloud-spend-and-usage.html&quot;&gt;Netflix Ice&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Netflix/ice&quot;&gt;Ice&lt;/a&gt; help us view our accouts, services, cost and usage,...&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designmodo.com/flat-design-mobile-apps/&quot;&gt;Use of Flat Design in Mobile App Interfaces, Best Examples&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Flat style is famous for its ability of adding extra flair of sophistication, elegance and neatness to any app interface, making it look more spacious and organized. As a rule, plain graphics and common icons skillfully interact with vivid color scheme, recreating flamboyant touches. Simplicity, absence of styles and effects give the design, at the same time, uncomplicated, and slightly intricate appearance. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/big-data-practice-cassandra&quot;&gt;Big data in Practice wiht Cassandra&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jitbit.com/news/185-most-of-your-abtests-will-fail/&quot;&gt;Most A/B test will fail&lt;/a&gt;&lt;br&gt;
+A/B test lessons form Jitbit&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Most of your tests will fail. It’s sad, but it’s okay.&lt;/li&gt;
+&lt;li&gt;Testing insignificant changes is time wasting.&lt;/li&gt;
+&lt;li&gt;Don’t run tests on pages that have a small number of visitors.&lt;/li&gt;
+&lt;li&gt;Don’t finish your tests before you have a statistically significant result. Use this handy calculator.&lt;/li&gt;
+&lt;li&gt;Don’t ever rely on intuition. Test results are unpredictable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bill Spingarn comments:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;However, beyond that I&amp;#39;d just like to point out that ultimately testing is just studying what happens when variables change in a controlled manner. Even if your last ten tests fail, it should not be all for nothing. I can&amp;#39;t stress enough that with each test you should be adding to your body of knowledge about your site/product by taking time to understand the &lt;em&gt;WHY&lt;/em&gt; behind a failed test. Split testing is not a magic bullet, but inch by inch you will see results if you employ the tool in a pragmatic approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://transferwise.com/blog/2013-06/8-must-use-tools-for-an-easy-freelance-life&quot;&gt;Some tips for freelancers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wired.com/wiredenterprise/2013/06/yahoo-amazon-amplab-spark/all/&quot;&gt;Future of BigData, the next Hadoop&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Spark can store data in the memory subsystems of the thousand of servers it pulls together. Hadoop stores its data on good old fashioned hard disks, and grabbing data from memory requires far less time.  &lt;/p&gt;
+
+&lt;p&gt;Hadoop often is used in tandem with Storm and distributed engines such as Hive, which let you slice and dice data via the SQL query language. But Spark is designed to mimic these tools directly, offering myriad possibilities from the same piece of software. Tools called Shark (analogous to Hive) to Spark Streaming (analogous to Storm) already run atop the platform.  &lt;/p&gt;
+
+&lt;p&gt;Machine learning algorithms involve crunching and re-crunching the same data — over and over again — in what’s called a “logistic regression.” With Hadoop, this can be particularly time-consuming because you have to visit the hard disk with each iteration of the algorithm. But with Spark, you can iterate in memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/20/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/20/dailyread</guid>
+                <pubDate>2013-06-20T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Wednesday, June 19 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/typescript/archive/2013/06/18/announcing-typescript-0-9.aspx&quot;&gt;TypeScript 0.9 Preview Release&lt;/a&gt;&lt;br&gt;
+This release provide some new features: Generics, Overloading on Constants, Export =, Enums. The new compiler improves performance, reliably, enhance completion, type information, error report.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lizkeogh.com/2013/06/17/theres-no-such-thing-as-declarative-and-imperative/&quot;&gt;There’s no such thing as Declarative and Imperative&lt;/a&gt;   &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Every Declarative is a chunking-up of something else, and every Imperative is a chunking-down, and you can chunk up and down to different levels of abstraction&lt;/p&gt;
+
+&lt;p&gt;Even Java is a more declarative form of bytecode, and bytecode is a more declarative form of machine language.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lizkeogh.com/2012/03/05/the-myth-of-what-and-how/&quot;&gt;The Myth of “What” and “How”&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The code is how we deliver a story.&lt;br&gt;
+The story is how we deliver a feature.&lt;br&gt;
+The feature is how we give the users the capability to do something.&lt;br&gt;
+The users’ capabilities are how they deliver a business goal.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t really matter much whether we call them features, stories or tasks, as long we appreciate that they’re &lt;strong&gt;how&lt;/strong&gt; we’re delivering to those higher-level &lt;strong&gt;whats&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html&quot;&gt;Scaling Mailbox&lt;/a&gt;&lt;br&gt;
+Some useful lessons of Mailbox from Sean Beausolie&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Keep number of technologies to a minimum&lt;/strong&gt;. They didn&amp;#39;t want to become expert on a lot of different systems, they wanted to focus on the development of their product.&lt;br&gt;
+&lt;strong&gt;Pay attention to what users do&lt;/strong&gt;. Core infrastructure was tweaked, sharded, or removed in response to user usage patterns. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://linqlib.codeplex.com/&quot;&gt;LINQ Extensions Library 1.0.4.2&lt;/a&gt;&lt;br&gt;
+New LINQ Extensions Library release provide custom sort feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765&quot;&gt;Log Parser Studio v2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/top-10-front-end-development-frameworks-part-2&quot;&gt;Top 10 Frontend framework 2&lt;/a&gt;&lt;br&gt;
+A glimpse of Foundation, GroundworkCSS, Gumby, IVORY,..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile&quot;&gt;10 performance tips from LinkedIn Mobile &lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/19/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/19/dailyread</guid>
+                <pubDate>2013-06-19T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, June 18 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blog.digg.com/post/53203926175/digg-reader-update&quot;&gt;Digg Reader is released in June 26&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://priceonomics.com/hotels/&quot;&gt;Hotel vs Airbnb price comparison&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We discovered that Airbnb apartment rentals cost 21.2% less than staying at a hotel. And if you’re on a budget, you can save 49.5% if you decide to stay in a private room at a host’s house instead of staying in a hotel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://viralsweep.com/blog/how-to-get-leads-sales-and-have-your-emails-read/&quot;&gt;Emails marketing tips&lt;/a&gt;&lt;br&gt;
+The author shares his experiences of email marketing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lukechesser.github.io/Popular-UIs/&quot;&gt;Facebook, Heroku, Github PSD&lt;/a&gt;&lt;br&gt;
+Free homepages of Facebook, Heroku, Github PSD for education purpose.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.ploeh.dk/2013/06/17/where-to-put-unit-tests/&quot;&gt;Where to put unit tests&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You should put unit tests in a separate library to give clearer seperation of concern, reduce production code, enhance API design feedback&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nsprogrammer.com/2013/06/logging-to-disk-most-important-part-of.html&quot;&gt;Logging: The Most Important Part of Any Application&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/18/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/18/dailyread</guid>
+                <pubDate>2013-06-18T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Monday, June 17 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.theatlanticcities.com/jobs-and-economy/2013/06/new-global-start-cities/5144/&quot;&gt;Startup geography&lt;/a&gt;&lt;br&gt;
+A look at where startups are located.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;net.tutsplus.com/tutorials/javascript-ajax/building-ribbit-in-meteor/&quot;&gt;Build ribbit in meteor&lt;/a&gt;&lt;br&gt;
+A good introduction tutorial of meteor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/lampepfl/scala-js&quot;&gt;Scala.JS&lt;/a&gt;&lt;br&gt;
+Write javascript in Scala syntax.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/top-10-front-end-development-frameworks&quot;&gt;Bootstrap related frameworks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fastcodesign.com/1672657/google-s-dead-simple-tool-for-making-ux-decisions-2-jars-of-marbles#1&quot;&gt;Google’s Dead-Simple Tool For Making UX Decisions: 2 Jars Of Marbles&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/17/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/17/dailyread</guid>
+                <pubDate>2013-06-17T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Sunday, June 16 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/on-management/4578569760e8&quot;&gt;Outsourcing and Limiting to Core Competencies are Essential&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The leanest companies will identify as few core competencies as possible, and outsource everything else. Instagram’s initial core competencies were (a) software development of image filters, (b) iPhone photo-sharing application development, and (c) driving adoption. 14 employees can handle that. When you throw in the other things I listed above, they’d need at least double the staff—so they outsourced, for example, to Amazon Web Services (server + network administration).  &lt;/p&gt;
+
+&lt;p&gt;85% of all developer time must be spent on business-specific logic&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/16/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/16/dailyread</guid>
+                <pubDate>2013-06-16T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Saturday, June 15 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=5881746&quot;&gt;What&amp;#39;s Wrong with the iOS 7 Icons?&lt;/a&gt;&lt;br&gt;
+Poor choice of color, inconsistent language, weak use of metaphor are comments of iOS 7 icons on HackerNews&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/release-more-less&quot;&gt;Release more with less&lt;/a&gt;&lt;br&gt;
+The author provides some evidences why we should release small changes more frequenly. It will improve cycle time, flow, feedback, risk, overheads, efficiency, ownership.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://t.co/H1c1SbN9fm&quot;&gt;Enterprise 2.0&lt;/a&gt;&lt;br&gt;
+Enterprise will be social, mobile, cloud and big data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/note.php?note_id=10151504075843920&quot;&gt;Wormhole pub/sub system: Moving data through space and time&lt;/a&gt;&lt;br&gt;
+It&amp;#39;s Facebook&amp;#39;s pub/sub system that delivers 1 trillion messages per day. It look like delivery service than message service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://engineering.foursquare.com/2013/06/11/quattroshapes-a-global-polygon-gazetteer-from-foursquare/&quot;&gt;Foursquare&amp;#39;s geographic stack&lt;/a&gt;&lt;br&gt;
+It replies on open sources: PostGIS, GDAL, Shapely, Fiona, QGIS, S2, and JTS. It also relies on open geographic data: OSM, geonames.org, US Census’ TIGER, Canada’s geogratis, Mexico’s INEGI and EuroGeoGraphics&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://decoupledcms.org/index.html&quot;&gt;Decoupled CMS&lt;/a&gt;&lt;br&gt;
+Decoupled CMS is a movement that remove monolithic stacks. It improves collaboration, scalability, flexibility for CMS. It separate the whole stack into 3 independent components: Web Editing tool, Web Framework, and Content Repository. So that we can use SQL Server, CouchDB, MongoDB for repository and Web Framework like Rails, Django, PHP,..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://caliper.io/blog/2013/Performance-Monitoring/&quot;&gt;Monitoring Single Page App&lt;/a&gt;&lt;br&gt;
+Monitoring on the server is not enough. We should monitoring feature load, page load and unresponsiveness on the client. We can use Google Analytics to do that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://download.microsoft.com/download/F/5/0/F5096A71-3C31-4E9F-864E-A6D097A64805/SQL_Server_Hekaton_CTP1_White_Paper.pdf&quot;&gt;SQL Server 2014 Hekaton White paper&lt;/a&gt;&lt;br&gt;
+It&amp;#39;s good read to know how Hekaton store data in memory.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tomtunguz.com/price-discovery&quot;&gt;The Most Effective Price Discovery Question for Your Startup&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/15/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/15/dailyread</guid>
+                <pubDate>2013-06-15T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>A look into SQL Server In-Memory Hekaton engine</title>
+                <description>&lt;p&gt;Introduction
+Hekaton is new in-memory OLTP database engine in SQL Server 2014.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;strong&gt;Why use hekaton&lt;/strong&gt;
+Previous SQL Server stores data on disk, only load data to memory when needed to processing&lt;/p&gt;
+
+&lt;p&gt;Hekaton&amp;#39;s design goals:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;fitting most or all of data required by a workload into main-memory&lt;/li&gt;
+&lt;li&gt;lower latency time for data operations&lt;/li&gt;
+&lt;li&gt;specialized database engines that specific types of workloads need to be tuned just for those workloads &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In-Memory OLTP removes the issues of waiting locks to be released using a completely new type of multi-version optimistic concurrency control.&lt;/p&gt;
+
+&lt;p&gt;Competitor&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_0&quot;&gt;Create database&lt;/h3&gt;
+
+&lt;p&gt;Add &lt;code&gt;MEMORY_OPTIMIZED_DATA&lt;/code&gt; filegroups for checkpoint files.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sql language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DATABASE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HKDB&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HKDB_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;FILENAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Q:\data\HKDB_data.mdf&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;500&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;FILEGROUP&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SampleDB_mod_fg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CONTAINS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MEMORY_OPTIMIZED_DATA&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HKDB_mod_dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FILENAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;R:\data\HKDB_mod_dir&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HKDB_mod_dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FILENAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;S:\data\HKDB_mod_dir&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;LOG&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SampleDB_log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Filename&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;L:\log\HKDB_log.ldf&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;500&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;COLLATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Latin1_General_100_BIN2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_1&quot;&gt;Create tables&lt;/h3&gt;
+
+&lt;p&gt;Support all datatypes except LOB, all rows will be limited to 8060 bytes.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sql language-sql&quot; data-lang=&quot;sql&quot;&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T1&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;varchar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NONCLUSTERED&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HASH&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WITH&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BUCKET_COUNT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1024&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;City&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;varchar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LastModified&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WITH&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MEMORY_OPTIMIZED&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DURABILITY&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SCHEMA_AND_DATA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Limitation:&lt;br&gt;
+- No DML triggers
+- No FOREIGN KEY or CHECK constraints
+- No IDENTITY columns
+- No UNIQUE indexes other than for the PRIMARY KEY
+- A maximum of 8 indexes, including the index supporting the PRIMARY KE
+- No Schema changes, No DDL command(CREATE INDEX, ALTER INDEX,...) &lt;/p&gt;
+
+&lt;h3 id=&quot;toc_2&quot;&gt;Memory optimized table&lt;/h3&gt;
+
+&lt;p&gt;It is no need to read from disk. A set of checkpoint files are used for recovery that keep track the changes of data. Transaction log is stored on disk, the same as disk-based tables. If server crash, the rows of data can be created from checkpoint files and transaction logs.&lt;/p&gt;
+
+&lt;p&gt;Non-durable table (SCHEMA_ONLY) is only available on memory. It does not require any IO operations, so data will be lost when server shutdown. But it&amp;#39;s useful for temp data, caches, web server sessions.&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_3&quot;&gt;Rows&lt;/h3&gt;
+
+&lt;p&gt;Rows are allocated from structures called heaps. Rows for a single table are not necessarily stored near other rows from the same table and the only way SQL Server knows what rows belong to the same table is because they are all connected using the tables’ indexes.&lt;/p&gt;
+
+&lt;p&gt;Each row consists of a header and a payload containing the row attributes.
+&lt;img src=&quot;/images/posts/2013-06-15-a-look-into-hekaton_rows.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_4&quot;&gt;Indexes on memory-optimized tables: Hash index&lt;/h3&gt;
+
+&lt;p&gt;They are not stored as traditional B-trees.
+Memory-optimized tables are never stored as unorganized sets of rows, like a disk-based table heap is stored.&lt;br&gt;
+Indexes are never stored on disk, operation are not logged. When SQL Server restart, indexes will be rebuilt.&lt;/p&gt;
+
+&lt;p&gt;Hash index is an array of hash bucket that is a pointer.&lt;br&gt;
+In the example below, hash function is the length of name, city column. The row with name &amp;quot;Greg&amp;quot; whose length is 4, the hash bucket with value 4 will pointer to this row. Another rows with the same value is linked into the same chain 
+&lt;img src=&quot;/images/posts/2013-06-15-a-look-into-hekaton_hash-index.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A pointer is 2 bytes in row header that follows IdxLinkCount&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_5&quot;&gt;Native compiled stored procedures&lt;/h3&gt;
+
+&lt;h3 id=&quot;toc_6&quot;&gt;Interpreted TSQL&lt;/h3&gt;
+
+&lt;h3 id=&quot;toc_7&quot;&gt;Data operation&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Commit/End time&lt;/strong&gt;:
+&lt;strong&gt;Valid time&lt;/strong&gt;:
+&lt;strong&gt;Logical read time&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Test&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_8&quot;&gt;Transaction Isolation levels&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Snapshot&lt;/li&gt;
+&lt;li&gt;Repeatable Read&lt;/li&gt;
+&lt;li&gt;Serializable&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/15/a-look-into-hekaton/</link>
+                <guid>dohaivu.github.io/blog/2013/06/15/a-look-into-hekaton</guid>
+                <pubDate>2013-06-15T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading Friday, June 14 2013</title>
+                <description>&lt;h2 id=&quot;toc_0&quot;&gt;&lt;a href=&quot;http://devtoolsecrets.com/&quot;&gt;Devtoolsecrets&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A collection of tips &amp;amp; tricks about web debugging&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_1&quot;&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/&quot;&gt;Debug frame rate for better performance&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;toc_2&quot;&gt;&lt;a href=&quot;http://bradfrostweb.com/blog/post/atomic-web-design/&quot;&gt;Atoic Web Design&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Atomic is an approach in web design, it divides into five distinct levels: &lt;strong&gt;atom&lt;/strong&gt;, &lt;strong&gt;molecule&lt;/strong&gt;, &lt;strong&gt;organism&lt;/strong&gt;, &lt;strong&gt;template&lt;/strong&gt;, &lt;strong&gt;page&lt;/strong&gt;. It&amp;#39;s not new, but it defines a clear way of thinking that supports team members, client for better communication, easily traverse from abstract to concrete&lt;/p&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/14/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/14/dailyread</guid>
+                <pubDate>2013-06-14T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Jasmine Setup</title>
+                <description>&lt;p&gt;The first time using Jasmine. This is step by step example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/pivotal/jasmine/downloads&quot;&gt;Download the latest version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Delete files in &lt;em&gt;/src&lt;/em&gt; and &lt;em&gt;/spec&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Add source files to &lt;em&gt;/src&lt;/em&gt;: HelloWorld.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hello World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Add test files to &lt;em&gt;/spec&lt;/em&gt;: HelloWorldSpec.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;describe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Hello world&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;it&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;says hello&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;expect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;toEqual&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Hello world!&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Edit file &lt;em&gt;SpecRunner.html&lt;/em&gt;: include source and spec files in &lt;em&gt;include source files here&lt;/em&gt; and &lt;em&gt;include spec files here&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Run the &lt;em&gt;SpecRunner.html&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Visit Jasmine home for more assert statements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://pivotal.github.io/jasmine/&quot;&gt;Jasmine home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://evanhahn.com/how-do-i-jasmine/&quot;&gt;How do I Jasmine: a tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/pivotal/jasmine/wiki&quot;&gt;Jasmine wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use&quot;&gt;Frontend test - stackoverflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://martinfowler.com/bliki/TestPyramid.html&quot;&gt;Test Pyramid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/05/29/jasmine-setup/</link>
+                <guid>dohaivu.github.io/blog/2013/05/29/jasmine-setup</guid>
+                <pubDate>2013-05-29T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Logging Application Block</title>
+                <description>&lt;p&gt;The Logging block in Enterprise Library 6 is enhanced with some nice features:
+- Support asynchronous
+- JSON formatter
+- Priority filter
+- LoggingEnabled&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;h3 id=&quot;toc_0&quot;&gt;Purpose of logging&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Monitoring application performance: errors, failure&lt;/li&gt;
+&lt;li&gt;Providing information: audit user behavior, what tasks are processed, what information are read&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The logging application block is highly flexible and configurable solution that allow you to create and store log messages in a wide variety of location, categorize and filter messages&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_1&quot;&gt;Configuring the Logging block&lt;/h3&gt;
+
+&lt;p&gt;We can configure logging block by using programmatic configuration or configuring in web.config&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Formatter&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;TextFormatter&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;briefFormatter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TextFormatter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(...);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Trace Listener&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flatFileTraceListener&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FlatFileTraceListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;@&amp;quot;C:\Temp\FlatFile.log&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;----------------------------------------&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;----------------------------------------&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;briefFormatter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Build Configuration&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LoggingConfiguration&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AddLogSource&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;DiskFiles&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SourceLevels&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;All&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AddTraceListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;flatFileTraceListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;LogWriter&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultWriter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LogWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_2&quot;&gt;Logging Asynchronously&lt;/h3&gt;
+
+&lt;p&gt;In this new version, Logging block support asynchronous trace lister. You should you this when you have high volume of trace messages, or performance is critical you.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;databaseTraceListener&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FormattedDatabaseTraceListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;DatabaseFactory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CreateDatabase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;ExampleDatabase&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;WriteLog&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;AddCategory&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;extendedFormatter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AddLogSource&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;AsyncDatabase&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SourceLevels&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;All&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AddAsynchronousTraceListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;databaseTraceListener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;xml language-xml&quot; data-lang=&quot;xml&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;listeners&amp;gt;&lt;/span&gt;
+ &lt;span class=&quot;nt&quot;&gt;&amp;lt;add&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Rolling Flat File Trace Listener&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;...&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;listenerDataType=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;...&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;formatter=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Text Formatter&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rollInterval=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Day&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;asynchronous=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/listeners&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_3&quot;&gt;Log category&lt;/h3&gt;
+
+&lt;p&gt;Categories are the way that Enterprise Library routes events sent to the block to the appropriate target, such as a database, the event log, an e-mail message, and more.&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_4&quot;&gt;Filter&lt;/h3&gt;
+
+&lt;h4 id=&quot;toc_5&quot;&gt;Filter by category&lt;/h4&gt;
+
+&lt;p&gt;Use &lt;strong&gt;CategoryFilter&lt;/strong&gt; class to send log entries to a category. You can add multiple categories to your configuration to manage filtering.&lt;/p&gt;
+
+&lt;h4 id=&quot;toc_6&quot;&gt;Filter by priority&lt;/h4&gt;
+
+&lt;p&gt;This filter has two properties: &lt;strong&gt;Minimum Priority&lt;/strong&gt; and &lt;strong&gt;Maximum Priority&lt;/strong&gt;. Only entry that has priority between two values will be logged. Default value is &lt;strong&gt;-1&lt;/strong&gt;, mean does not block any log entry.&lt;/p&gt;
+
+&lt;h4 id=&quot;toc_7&quot;&gt;Filtering by Severity in a Trace Listener&lt;/h4&gt;
+
+&lt;p&gt;We can filter log entries by severity in listener: Error, Information, Debug, Critical&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_8&quot;&gt;Formatters&lt;/h3&gt;
+
+&lt;p&gt;The Logging log provide some formatter: XmlLogFormatter, JsonFormatter, FlatFileFormatter&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_9&quot;&gt;Capturing Unprocessed Events and Logging Errors&lt;/h3&gt;
+
+&lt;p&gt;Capture log that don&amp;#39;t match any categories. Configure listener for the following categories&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All Events: receives all events&lt;/li&gt;
+&lt;li&gt;Unprocessed Category: receives any log entry that has a category that does not match any configured categories.&lt;/li&gt;
+&lt;li&gt;Logging Errors &amp;amp; Warnings:  receives any log entry that causes an error in the logging process&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;toc_10&quot;&gt;Testing Logging Filter Status&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ShowDetailsAndAddExtraInfo&lt;/strong&gt; shows whether it is block by specific filters and shows how you can obtain information about the way that the Logging block will handle the log entry.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;entry1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LogEntry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(...);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ShowDetailsAndAddExtraInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;ShowDetailsAndAddExtraInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LogEntry&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// Display information about the Trace Sources and Listeners for this LogEntry. &lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;IEnumerable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LogSource&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sources&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetMatchingTraceSources&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;foreach&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LogSource&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;source&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sources&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Log Source name: &amp;#39;{0}&amp;#39;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;foreach&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TraceListener&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;listener&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Listeners&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot; - Listener name: &amp;#39;{0}&amp;#39;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;listener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// Check if any filters will block this LogEntry.&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// This approach allows you to check for specific types of filter.&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// If there are no filters of the specified type configured, the GetFilter &lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// method returns null, so check this before calling the ShouldLog method.&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;CategoryFilter&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;catFilter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Ca&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tegoryFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;();&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;null&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;catFilter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;catFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShouldLog&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Categories&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Category Filter(s) will not block this LogEntry.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;A Category Filter will block this LogEntry.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;PriorityFilter&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;priFilter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PriorityFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;();&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;null&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;priFilter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;priFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShouldLog&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Priority&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Priority Filter(s) will not block this LogEntry.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;A Priority Filter will block this LogEntry.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// Alternatively, a simple approach can be used to check for any type of filter&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;defaultWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShouldLog&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;This LogEntry will not be blocked by config settings.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// Add context information to log entries after checking that the log entry&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// will not be blocked due to configuration settings. See the following&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// section &amp;#39;Adding Additional Context Information&amp;#39; for details.&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;This LogEntry will be blocked by configuration settings.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_11&quot;&gt;Add additional information&lt;/h3&gt;
+
+&lt;p&gt;Collect some useful information from environment. Some helper classes
+- DebugInformationProvider
+- ManagedSecurityContextInformationProvider
+- UnmanagedSecurityContextInformationProvider: user name and process account name
+- ComPlusInformationProvider&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;p&quot;&gt;...&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Create additional context information to add to the LogEntry. &lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Dictionary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Dictionary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;();&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Use the information helper classes to get information about &lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// the environment and add it to the dictionary.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;DebugInformationProvider&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;debugHelper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DebugInformationProvider&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;debugHelper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PopulateDictionary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;ManagedSecurityContextInformationProvider&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;infoHelper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ManagedSecurityContextInformationProvider&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;infoHelper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PopulateDictionary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;UnmanagedSecurityContextInformationProvider&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;secHelper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;UnmanagedSecurityContextInformationProvider&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;secHelper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PopulateDictionary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;ComPlusInformationProvider&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;comHelper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ComPlusInformationProvider&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;comHelper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PopulateDictionary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Get any other information you require and add it to the dictionary.&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;configInfo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ReadAllText&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;@&amp;quot;..\..\App.config&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Config information&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;configInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Set dictionary in the LogEntry and write it using the default LogWriter.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ExtendedProperties&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;defaultWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;....&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_12&quot;&gt;Creating Custom Trace Listeners, Filters, and Formatters&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Custom &lt;strong&gt;Filter&lt;/strong&gt;: implement &lt;strong&gt;ILogFilter&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Custom &lt;strong&gt;Listener&lt;/strong&gt;: inherit from the abstract base class &lt;strong&gt;CustomTraceListener&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Custom &lt;strong&gt;Formatter&lt;/strong&gt;: implement &lt;strong&gt;ILogFormatter&lt;/strong&gt;, or inherit &lt;strong&gt;LogFormatter&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/05/18/logging-application-block/</link>
+                <guid>dohaivu.github.io/blog/2013/05/18/logging-application-block</guid>
+                <pubDate>2013-05-18T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Python Package Installation</title>
+                <description>&lt;p&gt;This is a short note how to install package from &lt;a href=&quot;https://pypi.python.org&quot;&gt;PyPi&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;strong&gt;Support Python 2.7&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_0&quot;&gt;Install Setuptool&lt;/h2&gt;
+
+&lt;p&gt;Download &lt;a href=&quot;https://pypi.python.org/pypi/setuptools&quot;&gt;setuptools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you run Windows 64bit, download and run &lt;code&gt;python ez_setup.py&lt;/code&gt;. It will automatically install easytool.exe in Scripts folder&lt;/p&gt;
+
+&lt;p&gt;Install download package, run this command&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;python&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;py&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_1&quot;&gt;Install package by easy_install&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://peak.telecommunity.com/DevCenter/EasyInstall#using-easy-install&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Install package by name&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SQLObject&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Download a source, automatically build and install it&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;example&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;com&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MyPackage&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;3.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tgz&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Install an already-downloaded .egg file&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;my_downloads&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;OtherPackage&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;3.2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;py2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;3.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;egg&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Upgrade installed package to latest version&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;upgrade&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PyProtocols&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_2&quot;&gt;Upgrade packages&lt;/h3&gt;
+
+&lt;p&gt;Upgrade a specific version&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;SomePackage==2.0&amp;quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Upgrade package that a version greater than&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;SomePackage&amp;gt;2.0&amp;quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Upgrade to latest version on PyPi&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;upgrade&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SomePackage&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_3&quot;&gt;Uninstall packages&lt;/h3&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;easy_install&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mxN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PackageName&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+                <link>dohaivu.github.io/blog/2013/05/17/python-package-installation/</link>
+                <guid>dohaivu.github.io/blog/2013/05/17/python-package-installation</guid>
+                <pubDate>2013-05-17T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Unity 3.0</title>
+                <description>&lt;h2 id=&quot;toc_0&quot;&gt;Service Locator Pattern&lt;/h2&gt;
+
+&lt;p&gt;Dependency Injection adopt push model. Another class is responsible for pushing(injecting) the dependencies into high level client classes at runtime&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_1&quot;&gt;Object composition&lt;/h3&gt;
+
+&lt;p&gt;Dependency Injection will inject your dependencies at runtime. Your application must know when and where to compose objects before performing any task. Example: console app: &lt;strong&gt;Main&lt;/strong&gt;, web app: &lt;strong&gt;Global.asax&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_2&quot;&gt;Object Lifetime&lt;/h3&gt;
+
+&lt;p&gt;Each class will occupy a memory, so you have to determine when to inject objects and how long they will live&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_3&quot;&gt;Type of Injection&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Property Setter Injection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Method call Injection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Constructor Injection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_4&quot;&gt;Dependency Injection with Unity&lt;/h3&gt;
+
+&lt;p&gt;Life cycle: Register, Resolve, Dispose&lt;/p&gt;
+
+&lt;h4 id=&quot;toc_5&quot;&gt;Register&lt;/h4&gt;
+
+&lt;p&gt;Register dependency types that need to be instantiated and injected to a target object.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;n&quot;&gt;UnityContainer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;UnityContainer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RegisterType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;IBookRepository&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BookRepository&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;();&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&quot;toc_6&quot;&gt;Resolve&lt;/h4&gt;
+
+&lt;p&gt;Instantiate object and dependency objects through type mapping.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;controller&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Resolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BooksController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;It will instantiate &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/05/12/unity/</link>
+                <guid>dohaivu.github.io/blog/2013/05/12/unity</guid>
+                <pubDate>2013-05-12T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Enterprise Library 6</title>
+                <description>&lt;p&gt;I&amp;#39;m very excited that &lt;a href=&quot;http://blogs.msdn.com/b/agile/archive/2013/04/25/just-released-microsoft-enterprise-library-6.aspx&quot;&gt;Enterprise Library 6 has released&lt;/a&gt;. I have used this library for a long time. It&amp;#39;s very useful and powerful, it saves me a lot of time.&lt;/p&gt;
+
+&lt;p&gt;I will explore what changes in this release&lt;/p&gt;
+
+&lt;p&gt;Links:
+- &lt;a href=&quot;http://msdn.microsoft.com/en-US/library/dn169621.aspx&quot;&gt;MSDN Enterprise Library 6&lt;/a&gt;
+- &lt;a href=&quot;http://entlib.codeplex.com/wikipage?title=EntLib6&amp;amp;referringTitle=Home&quot;&gt;Enterprise Library 6 Project Home&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is Enterprise Library?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Enterprise Library is a collection of application blocks, each aimed at managing specific crosscutting concerns. Crosscutting concerns are task thats you implement in various places in your application. The risk of that is your team will implement differently in your application. Enterprise Library application block make it easy to manage by providing generic and configurable functionality that you can customize and manage.&lt;/p&gt;
+
+&lt;p&gt;Enterprise Library 6 contains the following application blocks:
+- Data Access
+- Exception Handling
+- Logging
+- Policy Injection
+- Semantic Logging
+- Transient Fault Handling
+- Unity
+- Validation&lt;/p&gt;
+
+&lt;p&gt;I will develop a Web app to explore how it work&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_0&quot;&gt;Install Enterprise Library 6&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reference assemblies to your project if you &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=38789&quot;&gt;downloaded&lt;/a&gt; and installed it manually .&lt;/li&gt;
+&lt;li&gt;Use NuGet package manager&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;toc_1&quot;&gt;Data Access Application Block&lt;/h2&gt;
+
+&lt;p&gt;The Data Access Application Block provide two key advantages: 
+- abstracts the actual database, so you can switch from one database to another
+- easy to write the most commonly used tasks.&lt;/p&gt;
+
+&lt;h3 id=&quot;toc_2&quot;&gt;Configuring the Block and add assemblies&lt;/h3&gt;
+
+&lt;p&gt;We can configure the default database in web.config. &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=38789&quot;&gt;Enterprise Library configuration tool&lt;/a&gt; provide us a GUI interface for easier to config&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;xml language-xml&quot; data-lang=&quot;xml&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot;?&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;configuration&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;configSections&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;section&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;dataConfiguration&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DatabaseSettings, Microsoft.Practices.EnterpriseLibrary.Data&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;requirePermission=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;true&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/configSections&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;dataConfiguration&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;defaultDatabase=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;BookDatabase&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;connectionStrings&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;add&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;BookDatabase&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;connectionString=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Server=SqlServer;Database=Book;User Id=sa;Password=Password@123;Connection Timeout=30;&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;providerName=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;System.Data.SqlClient&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/connectionStrings&amp;gt;&lt;/span&gt;
+...
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/configuration&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_3&quot;&gt;Create database instances&lt;/h3&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;c1&quot;&gt;//load config from web.config&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;DatabaseProviderFactory&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dbFactory&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DatabaseProviderFactory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//create database use default config&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;SqlDatabase&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dbFactory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CreateDefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SqlDatabase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;            
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;toc_4&quot;&gt;Manage connections&lt;/h3&gt;
+
+&lt;p&gt;ADO.NET often holds a pool of connections. ADO.NET automatically retrieves connections from the pool when possible, otherwise it will create a new connection. It also decide when and whether to close the underlying connections and dispose it.&lt;/p&gt;
+
+&lt;p&gt;The Data Access Block helps you manage your database connection automatically.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ExecuteDataSet&lt;/strong&gt; method will open and close connection automatically. In contrast, &lt;strong&gt;ExecuteReader&lt;/strong&gt; open connection, but do not close it automatically. You can change &lt;strong&gt;CommandBahavior&lt;/strong&gt; property by setting it to &lt;strong&gt;CloseConnection&lt;/strong&gt;, so that it will close database connection automatically when you dispose the reader.&lt;/p&gt;
+
+&lt;h4 id=&quot;toc_5&quot;&gt;Transactions&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Connection based transaction&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DbConnection&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CreateConnection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;DbTransaction&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;trans&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BeginTransaction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// execute commands, passing in the current transaction to each one&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ExecuteNonQuery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cmdA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;trans&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ExecuteNonQuery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cmdB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;trans&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;trans&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Commit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// commit the transaction&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;trans&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rollback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// rollback the transaction&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Distributed Transaction&lt;/strong&gt;: access different database as part of the same transaction. Data Access will automatically detect if commands are executed within the scope of a transaction&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;csharp language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TransactionScope&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scope&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TransactionScope&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TransactionScopeOption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RequiresNew&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// perform data access here&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+                <link>dohaivu.github.io/blog/2013/04/26/enterprise-library-6/</link>
+                <guid>dohaivu.github.io/blog/2013/04/26/enterprise-library-6</guid>
+                <pubDate>2013-04-26T00:00:00+07:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A look into SQL Server In-Memory Hekaton engine</title>
+    <meta name="author" content="Vu Hai Do" />    
+    <link rel="stylesheet" type="text/css" href="/stylesheets/screen.css">   
+    <link href="http://feeds.feedburner.com/github/dohaivu" rel="alternate" title="RSS" type="application/rss+xml" />
+  </head>
+
+  <body>
+    <div id="header" class="section">
+      <div class="wrapper">
+        <strong id="blog-title">
+          <a href="/" rel="home">A Passion Developer</a>
+        </strong>
+        <p id="blog-description"></p>
+        <div id="navigation">
+          <ul class="nav clearfix">
+            <li class="first-child"><a href="/blog.html">Blog</a></li>            
+            <li><a href="/about.html">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="main" class="section">
+	<div class="wrapper">
+        <div id="content-post">
+		<div class="full">
+		  <h1 class="entry-title">
+			<a href="/blog/2013/06/15/a-look-into-hekaton/" title="A look into SQL Server In-Memory Hekaton engine" rel="bookmark">A look into SQL Server In-Memory Hekaton engine</a>
+		  </h1>
+		  <div class="entry-content">
+			<p>Introduction
+Hekaton is new in-memory OLTP database engine in SQL Server 2014.</p>
+
+<!--break-->
+
+<p><strong>Why use hekaton</strong>
+Previous SQL Server stores data on disk, only load data to memory when needed to processing</p>
+
+<p>Hekaton&#39;s design goals:</p>
+
+<ul>
+<li>fitting most or all of data required by a workload into main-memory</li>
+<li>lower latency time for data operations</li>
+<li>specialized database engines that specific types of workloads need to be tuned just for those workloads </li>
+</ul>
+
+<p>In-Memory OLTP removes the issues of waiting locks to be released using a completely new type of multi-version optimistic concurrency control.</p>
+
+<p>Competitor</p>
+
+<h3 id="toc_0">Create database</h3>
+
+<p>Add <code>MEMORY_OPTIMIZED_DATA</code> filegroups for checkpoint files.</p>
+<div class="highlight"><pre><code class="sql language-sql" data-lang="sql"><span class="k">CREATE</span> <span class="k">DATABASE</span> <span class="n">HKDB</span>
+<span class="k">ON</span> 
+<span class="k">PRIMARY</span><span class="p">(</span><span class="n">NAME</span> <span class="o">=</span> <span class="p">[</span><span class="n">HKDB_data</span><span class="p">],</span>
+<span class="n">FILENAME</span> <span class="o">=</span> <span class="s1">&#39;Q:\data\HKDB_data.mdf&#39;</span><span class="p">,</span> <span class="k">size</span><span class="o">=</span><span class="mi">500</span><span class="n">MB</span><span class="p">),</span>
+<span class="n">FILEGROUP</span> <span class="p">[</span><span class="n">SampleDB_mod_fg</span><span class="p">]</span> <span class="k">CONTAINS</span> <span class="n">MEMORY_OPTIMIZED_DATA</span>
+<span class="p">(</span><span class="n">NAME</span> <span class="o">=</span> <span class="p">[</span><span class="n">HKDB_mod_dir</span><span class="p">],</span> <span class="n">FILENAME</span> <span class="o">=</span> <span class="s1">&#39;R:\data\HKDB_mod_dir&#39;</span><span class="p">),</span>
+<span class="p">(</span><span class="n">NAME</span> <span class="o">=</span> <span class="p">[</span><span class="n">HKDB_mod_dir</span><span class="p">],</span> <span class="n">FILENAME</span> <span class="o">=</span> <span class="s1">&#39;S:\data\HKDB_mod_dir&#39;</span><span class="p">)</span>
+<span class="n">LOG</span> <span class="k">ON</span> <span class="p">(</span><span class="n">name</span> <span class="o">=</span> <span class="p">[</span><span class="n">SampleDB_log</span><span class="p">],</span> <span class="n">Filename</span><span class="o">=</span><span class="s1">&#39;L:\log\HKDB_log.ldf&#39;</span><span class="p">,</span> <span class="k">size</span><span class="o">=</span><span class="mi">500</span><span class="n">MB</span><span class="p">)</span>
+<span class="k">COLLATE</span> <span class="n">Latin1_General_100_BIN2</span><span class="p">;</span>
+</code></pre></div>
+<h3 id="toc_1">Create tables</h3>
+
+<p>Support all datatypes except LOB, all rows will be limited to 8060 bytes.</p>
+<div class="highlight"><pre><code class="sql language-sql" data-lang="sql"><span class="k">CREATE</span> <span class="k">TABLE</span> <span class="n">T1</span>
+<span class="p">(</span>
+<span class="p">[</span><span class="n">Name</span><span class="p">]</span> <span class="nb">varchar</span><span class="p">(</span><span class="mi">32</span><span class="p">)</span> <span class="k">not</span> <span class="k">null</span> <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="n">NONCLUSTERED</span> <span class="n">HASH</span> <span class="k">WITH</span> <span class="p">(</span><span class="n">BUCKET_COUNT</span> <span class="o">=</span> <span class="mi">1024</span><span class="p">),</span>
+<span class="p">[</span><span class="n">City</span><span class="p">]</span> <span class="nb">varchar</span><span class="p">(</span><span class="mi">32</span><span class="p">)</span> <span class="k">null</span><span class="p">,</span>
+<span class="p">[</span><span class="n">LastModified</span><span class="p">]</span> <span class="n">datetime</span> <span class="k">not</span> <span class="k">null</span><span class="p">,</span>
+<span class="p">)</span> <span class="k">WITH</span> <span class="p">(</span><span class="n">MEMORY_OPTIMIZED</span> <span class="o">=</span> <span class="k">ON</span><span class="p">,</span> <span class="n">DURABILITY</span> <span class="o">=</span> <span class="n">SCHEMA_AND_DATA</span><span class="p">)</span>
+</code></pre></div>
+<p>Limitation:<br>
+- No DML triggers
+- No FOREIGN KEY or CHECK constraints
+- No IDENTITY columns
+- No UNIQUE indexes other than for the PRIMARY KEY
+- A maximum of 8 indexes, including the index supporting the PRIMARY KE
+- No Schema changes, No DDL command(CREATE INDEX, ALTER INDEX,...) </p>
+
+<h3 id="toc_2">Memory optimized table</h3>
+
+<p>It is no need to read from disk. A set of checkpoint files are used for recovery that keep track the changes of data. Transaction log is stored on disk, the same as disk-based tables. If server crash, the rows of data can be created from checkpoint files and transaction logs.</p>
+
+<p>Non-durable table (SCHEMA_ONLY) is only available on memory. It does not require any IO operations, so data will be lost when server shutdown. But it&#39;s useful for temp data, caches, web server sessions.</p>
+
+<h3 id="toc_3">Rows</h3>
+
+<p>Rows are allocated from structures called heaps. Rows for a single table are not necessarily stored near other rows from the same table and the only way SQL Server knows what rows belong to the same table is because they are all connected using the tables’ indexes.</p>
+
+<p>Each row consists of a header and a payload containing the row attributes.
+<img src="/images/posts/2013-06-15-a-look-into-hekaton_rows.png" /></p>
+
+<h3 id="toc_4">Indexes on memory-optimized tables: Hash index</h3>
+
+<p>They are not stored as traditional B-trees.
+Memory-optimized tables are never stored as unorganized sets of rows, like a disk-based table heap is stored.<br>
+Indexes are never stored on disk, operation are not logged. When SQL Server restart, indexes will be rebuilt.</p>
+
+<p>Hash index is an array of hash bucket that is a pointer.<br>
+In the example below, hash function is the length of name, city column. The row with name &quot;Greg&quot; whose length is 4, the hash bucket with value 4 will pointer to this row. Another rows with the same value is linked into the same chain 
+<img src="/images/posts/2013-06-15-a-look-into-hekaton_hash-index.png" /></p>
+
+<p>A pointer is 2 bytes in row header that follows IdxLinkCount</p>
+
+<h3 id="toc_5">Native compiled stored procedures</h3>
+
+<h3 id="toc_6">Interpreted TSQL</h3>
+
+<h3 id="toc_7">Data operation</h3>
+
+<p><strong>Commit/End time</strong>:
+<strong>Valid time</strong>:
+<strong>Logical read time</strong>:</p>
+
+<p>Test</p>
+
+<h3 id="toc_8">Transaction Isolation levels</h3>
+
+<ul>
+<li>Snapshot</li>
+<li>Repeatable Read</li>
+<li>Serializable</li>
+</ul>
+
+			<div class="clear"></div>
+		  </div>
+		  <p class="alt-font tight">
+			Posted in&nbsp;
+			
+			<a href="/categories/database" title="database" rel="category tag">database</a>
+			
+			&nbsp;&nbsp;&nbsp;
+			Tags &nbsp;
+			
+				<a href="/tags/sqlserver/">sqlserver</a> &nbsp;
+			
+		  </p>
+			
+		  <p class="by-line">
+			<span class="date full-date">
+			  <abbr class="published" title="2013-06-15 00:00:00 +0700">15 Jun 2013</abbr>
+			</span>
+		  </p>
+		  <div class="clear"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>

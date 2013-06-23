@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        
+            <title>Category: dailyreading</title>
+           
+        <description>A Passion Developer - Vu Hai Do</description>
+        <link>dohaivu.github.io/rss.xml</link>
+        <link>dohaivu.github.io</link>
+        <lastBuildDate>2013-06-23T21:32:28+07:00</lastBuildDate>
+        <pubDate>2013-06-23T21:32:28+07:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Daily Reading Friday, June 14 2013</title>
+                <description>&lt;h2 id=&quot;toc_0&quot;&gt;&lt;a href=&quot;http://devtoolsecrets.com/&quot;&gt;Devtoolsecrets&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A collection of tips &amp;amp; tricks about web debugging&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_1&quot;&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/&quot;&gt;Debug frame rate for better performance&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;toc_2&quot;&gt;&lt;a href=&quot;http://bradfrostweb.com/blog/post/atomic-web-design/&quot;&gt;Atoic Web Design&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Atomic is an approach in web design, it divides into five distinct levels: &lt;strong&gt;atom&lt;/strong&gt;, &lt;strong&gt;molecule&lt;/strong&gt;, &lt;strong&gt;organism&lt;/strong&gt;, &lt;strong&gt;template&lt;/strong&gt;, &lt;strong&gt;page&lt;/strong&gt;. It&amp;#39;s not new, but it defines a clear way of thinking that supports team members, client for better communication, easily traverse from abstract to concrete&lt;/p&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/14/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/14/dailyread</guid>
+                <pubDate>2013-06-14T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Saturday, June 15 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=5881746&quot;&gt;What&amp;#39;s Wrong with the iOS 7 Icons?&lt;/a&gt;&lt;br&gt;
+Poor choice of color, inconsistent language, weak use of metaphor are comments of iOS 7 icons on HackerNews&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/release-more-less&quot;&gt;Release more with less&lt;/a&gt;&lt;br&gt;
+The author provides some evidences why we should release small changes more frequenly. It will improve cycle time, flow, feedback, risk, overheads, efficiency, ownership.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://t.co/H1c1SbN9fm&quot;&gt;Enterprise 2.0&lt;/a&gt;&lt;br&gt;
+Enterprise will be social, mobile, cloud and big data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/note.php?note_id=10151504075843920&quot;&gt;Wormhole pub/sub system: Moving data through space and time&lt;/a&gt;&lt;br&gt;
+It&amp;#39;s Facebook&amp;#39;s pub/sub system that delivers 1 trillion messages per day. It look like delivery service than message service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://engineering.foursquare.com/2013/06/11/quattroshapes-a-global-polygon-gazetteer-from-foursquare/&quot;&gt;Foursquare&amp;#39;s geographic stack&lt;/a&gt;&lt;br&gt;
+It replies on open sources: PostGIS, GDAL, Shapely, Fiona, QGIS, S2, and JTS. It also relies on open geographic data: OSM, geonames.org, US Census’ TIGER, Canada’s geogratis, Mexico’s INEGI and EuroGeoGraphics&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://decoupledcms.org/index.html&quot;&gt;Decoupled CMS&lt;/a&gt;&lt;br&gt;
+Decoupled CMS is a movement that remove monolithic stacks. It improves collaboration, scalability, flexibility for CMS. It separate the whole stack into 3 independent components: Web Editing tool, Web Framework, and Content Repository. So that we can use SQL Server, CouchDB, MongoDB for repository and Web Framework like Rails, Django, PHP,..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://caliper.io/blog/2013/Performance-Monitoring/&quot;&gt;Monitoring Single Page App&lt;/a&gt;&lt;br&gt;
+Monitoring on the server is not enough. We should monitoring feature load, page load and unresponsiveness on the client. We can use Google Analytics to do that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://download.microsoft.com/download/F/5/0/F5096A71-3C31-4E9F-864E-A6D097A64805/SQL_Server_Hekaton_CTP1_White_Paper.pdf&quot;&gt;SQL Server 2014 Hekaton White paper&lt;/a&gt;&lt;br&gt;
+It&amp;#39;s good read to know how Hekaton store data in memory.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tomtunguz.com/price-discovery&quot;&gt;The Most Effective Price Discovery Question for Your Startup&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/15/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/15/dailyread</guid>
+                <pubDate>2013-06-15T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Sunday, June 16 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/on-management/4578569760e8&quot;&gt;Outsourcing and Limiting to Core Competencies are Essential&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The leanest companies will identify as few core competencies as possible, and outsource everything else. Instagram’s initial core competencies were (a) software development of image filters, (b) iPhone photo-sharing application development, and (c) driving adoption. 14 employees can handle that. When you throw in the other things I listed above, they’d need at least double the staff—so they outsourced, for example, to Amazon Web Services (server + network administration).  &lt;/p&gt;
+
+&lt;p&gt;85% of all developer time must be spent on business-specific logic&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/16/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/16/dailyread</guid>
+                <pubDate>2013-06-16T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Monday, June 17 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.theatlanticcities.com/jobs-and-economy/2013/06/new-global-start-cities/5144/&quot;&gt;Startup geography&lt;/a&gt;&lt;br&gt;
+A look at where startups are located.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;net.tutsplus.com/tutorials/javascript-ajax/building-ribbit-in-meteor/&quot;&gt;Build ribbit in meteor&lt;/a&gt;&lt;br&gt;
+A good introduction tutorial of meteor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/lampepfl/scala-js&quot;&gt;Scala.JS&lt;/a&gt;&lt;br&gt;
+Write javascript in Scala syntax.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/top-10-front-end-development-frameworks&quot;&gt;Bootstrap related frameworks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fastcodesign.com/1672657/google-s-dead-simple-tool-for-making-ux-decisions-2-jars-of-marbles#1&quot;&gt;Google’s Dead-Simple Tool For Making UX Decisions: 2 Jars Of Marbles&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/17/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/17/dailyread</guid>
+                <pubDate>2013-06-17T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, June 18 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blog.digg.com/post/53203926175/digg-reader-update&quot;&gt;Digg Reader is released in June 26&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://priceonomics.com/hotels/&quot;&gt;Hotel vs Airbnb price comparison&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We discovered that Airbnb apartment rentals cost 21.2% less than staying at a hotel. And if you’re on a budget, you can save 49.5% if you decide to stay in a private room at a host’s house instead of staying in a hotel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://viralsweep.com/blog/how-to-get-leads-sales-and-have-your-emails-read/&quot;&gt;Emails marketing tips&lt;/a&gt;&lt;br&gt;
+The author shares his experiences of email marketing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lukechesser.github.io/Popular-UIs/&quot;&gt;Facebook, Heroku, Github PSD&lt;/a&gt;&lt;br&gt;
+Free homepages of Facebook, Heroku, Github PSD for education purpose.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.ploeh.dk/2013/06/17/where-to-put-unit-tests/&quot;&gt;Where to put unit tests&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You should put unit tests in a separate library to give clearer seperation of concern, reduce production code, enhance API design feedback&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nsprogrammer.com/2013/06/logging-to-disk-most-important-part-of.html&quot;&gt;Logging: The Most Important Part of Any Application&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/18/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/18/dailyread</guid>
+                <pubDate>2013-06-18T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Wednesday, June 19 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/typescript/archive/2013/06/18/announcing-typescript-0-9.aspx&quot;&gt;TypeScript 0.9 Preview Release&lt;/a&gt;&lt;br&gt;
+This release provide some new features: Generics, Overloading on Constants, Export =, Enums. The new compiler improves performance, reliably, enhance completion, type information, error report.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lizkeogh.com/2013/06/17/theres-no-such-thing-as-declarative-and-imperative/&quot;&gt;There’s no such thing as Declarative and Imperative&lt;/a&gt;   &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Every Declarative is a chunking-up of something else, and every Imperative is a chunking-down, and you can chunk up and down to different levels of abstraction&lt;/p&gt;
+
+&lt;p&gt;Even Java is a more declarative form of bytecode, and bytecode is a more declarative form of machine language.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lizkeogh.com/2012/03/05/the-myth-of-what-and-how/&quot;&gt;The Myth of “What” and “How”&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The code is how we deliver a story.&lt;br&gt;
+The story is how we deliver a feature.&lt;br&gt;
+The feature is how we give the users the capability to do something.&lt;br&gt;
+The users’ capabilities are how they deliver a business goal.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t really matter much whether we call them features, stories or tasks, as long we appreciate that they’re &lt;strong&gt;how&lt;/strong&gt; we’re delivering to those higher-level &lt;strong&gt;whats&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html&quot;&gt;Scaling Mailbox&lt;/a&gt;&lt;br&gt;
+Some useful lessons of Mailbox from Sean Beausolie&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Keep number of technologies to a minimum&lt;/strong&gt;. They didn&amp;#39;t want to become expert on a lot of different systems, they wanted to focus on the development of their product.&lt;br&gt;
+&lt;strong&gt;Pay attention to what users do&lt;/strong&gt;. Core infrastructure was tweaked, sharded, or removed in response to user usage patterns. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://linqlib.codeplex.com/&quot;&gt;LINQ Extensions Library 1.0.4.2&lt;/a&gt;&lt;br&gt;
+New LINQ Extensions Library release provide custom sort feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765&quot;&gt;Log Parser Studio v2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/top-10-front-end-development-frameworks-part-2&quot;&gt;Top 10 Frontend framework 2&lt;/a&gt;&lt;br&gt;
+A glimpse of Foundation, GroundworkCSS, Gumby, IVORY,..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile&quot;&gt;10 performance tips from LinkedIn Mobile &lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/19/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/19/dailyread</guid>
+                <pubDate>2013-06-19T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Thursday, June 20 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://techblog.netflix.com/2013/06/announcing-ice-cloud-spend-and-usage.html&quot;&gt;Netflix Ice&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Netflix/ice&quot;&gt;Ice&lt;/a&gt; help us view our accouts, services, cost and usage,...&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designmodo.com/flat-design-mobile-apps/&quot;&gt;Use of Flat Design in Mobile App Interfaces, Best Examples&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Flat style is famous for its ability of adding extra flair of sophistication, elegance and neatness to any app interface, making it look more spacious and organized. As a rule, plain graphics and common icons skillfully interact with vivid color scheme, recreating flamboyant touches. Simplicity, absence of styles and effects give the design, at the same time, uncomplicated, and slightly intricate appearance. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/big-data-practice-cassandra&quot;&gt;Big data in Practice wiht Cassandra&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jitbit.com/news/185-most-of-your-abtests-will-fail/&quot;&gt;Most A/B test will fail&lt;/a&gt;&lt;br&gt;
+A/B test lessons form Jitbit&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Most of your tests will fail. It’s sad, but it’s okay.&lt;/li&gt;
+&lt;li&gt;Testing insignificant changes is time wasting.&lt;/li&gt;
+&lt;li&gt;Don’t run tests on pages that have a small number of visitors.&lt;/li&gt;
+&lt;li&gt;Don’t finish your tests before you have a statistically significant result. Use this handy calculator.&lt;/li&gt;
+&lt;li&gt;Don’t ever rely on intuition. Test results are unpredictable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bill Spingarn comments:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;However, beyond that I&amp;#39;d just like to point out that ultimately testing is just studying what happens when variables change in a controlled manner. Even if your last ten tests fail, it should not be all for nothing. I can&amp;#39;t stress enough that with each test you should be adding to your body of knowledge about your site/product by taking time to understand the &lt;em&gt;WHY&lt;/em&gt; behind a failed test. Split testing is not a magic bullet, but inch by inch you will see results if you employ the tool in a pragmatic approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://transferwise.com/blog/2013-06/8-must-use-tools-for-an-easy-freelance-life&quot;&gt;Some tips for freelancers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wired.com/wiredenterprise/2013/06/yahoo-amazon-amplab-spark/all/&quot;&gt;Future of BigData, the next Hadoop&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Spark can store data in the memory subsystems of the thousand of servers it pulls together. Hadoop stores its data on good old fashioned hard disks, and grabbing data from memory requires far less time.  &lt;/p&gt;
+
+&lt;p&gt;Hadoop often is used in tandem with Storm and distributed engines such as Hive, which let you slice and dice data via the SQL query language. But Spark is designed to mimic these tools directly, offering myriad possibilities from the same piece of software. Tools called Shark (analogous to Hive) to Spark Streaming (analogous to Storm) already run atop the platform.  &lt;/p&gt;
+
+&lt;p&gt;Machine learning algorithms involve crunching and re-crunching the same data — over and over again — in what’s called a “logistic regression.” With Hadoop, this can be particularly time-consuming because you have to visit the hard disk with each iteration of the algorithm. But with Spark, you can iterate in memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/20/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/20/dailyread</guid>
+                <pubDate>2013-06-20T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Friday, June 21 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/state-devops-2013-infographic&quot;&gt;State of DevOps in 2013&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mikehadlow.blogspot.co.uk/2013/05/the-benefits-of-reverse-proxy.html&quot;&gt;The benefits of reverse proxy&lt;/a&gt;&lt;br&gt;
+A reverse proxy is server component that sites between the internet and your web servers. It accepts http requests, provide various services and forward the requests to one or many servers.&lt;br&gt;
+Here are some benefits:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Load balancing: route HTTP request to identical servers.&lt;/li&gt;
+&lt;li&gt;Security: hide your web servers behind DMZ&lt;/li&gt;
+&lt;li&gt;Authentication: single point of authentication for all HTTP requests&lt;/li&gt;
+&lt;li&gt;SSL Termination: handle HTTPS requests.&lt;/li&gt;
+&lt;li&gt;Serve static content&lt;/li&gt;
+&lt;li&gt;Caching: HTTP caching&lt;/li&gt;
+&lt;li&gt;Compression&lt;/li&gt;
+&lt;li&gt;Centralised Logging and Auditing&lt;/li&gt;
+&lt;li&gt;URL Rewriting&lt;/li&gt;
+&lt;li&gt;Aggregating multiple websites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://kripken.github.io/mloc_emscripten_talk/#/&quot;&gt;Big Web App? Compile it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.nodejitsu.com/npm-innovation-through-modularity&quot;&gt;NPM what next&lt;/a&gt;&lt;br&gt;
+Some features on NPM roadmap: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multiple registries&lt;/li&gt;
+&lt;li&gt;CDN-delivered static assets&lt;/li&gt;
+&lt;li&gt;Source code searching and analytics&lt;/li&gt;
+&lt;li&gt;Addressable content&lt;/li&gt;
+&lt;li&gt;Signed packages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.phase2technology.com/blog/practical-lessons-from-rubynation-2013/&quot;&gt;Practical lessons from RubyNation 2013&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/21/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/21/dailyread</guid>
+                <pubDate>2013-06-21T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Saturday, June 23 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/be905f64f3cb&quot;&gt;5 little design decisions to admire&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Snapchat’s single button for taking photo + video&lt;/strong&gt;&lt;br&gt;
+Tap to snap. Hold to capture video.It’s intuitive because the thing you want to capture is the same in both instances; what’s different is how long you want to capture it for&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Candy Crush Saga’s “5 more moves.”&lt;/strong&gt;&lt;br&gt;
+Couldn’t finish the puzzle in the allotted number of moves, buy for more 5 moves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Path’s sticker store&lt;/strong&gt;&lt;br&gt;
+The sticker packs are displayed oh-so-prettily on neat little shelves, complete with dramatic spotlight as if this were a museum exhibit of sorts. Tilt the phone, and the stickers swing along, playfully reacting to your movements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spotify’s “Popular” section&lt;/strong&gt;&lt;br&gt;
+For one thing, the discrepancy between the order of the songs and the global plays gives you an indication of what’s popular recently vs. what’s been popular historically, useful if you’re new to an artist. You also get a sense for the difference in popularity between various songs, something a simple sorted list doesn’t give you, so you can tell if the artist is a one-hit wonder or a consistent chart-topper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evernote’s note cards&lt;/strong&gt;&lt;br&gt;
+I’m talking about those little squares that look like white Post-It notes that show you a preview of the note’s content. There’s something about the tangibility and physicality of that design that makes it work so much better for me than a list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.l1ghtm4n.com/post/53259404576/patterns-for-rest-api-bulk-operations&quot;&gt;Patterns for REST API bulk operations&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://usablica.github.io/front-end-frameworks/compare.html&quot;&gt;A collection of best front end frameworks for faster&amp;amp;easier web development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/evolutionary-architecture-stop&quot;&gt;Evolutionary Architecture: Stop Divining Your Architecture, Instead Evolve It&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Shift architectural focus to the things that will result in an Evolutionary Architecture, one capable of evolving with the business.It means don&amp;#39;t spend a lot of time trying to divine the perfect architecture upfront&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/23/dailyread/</link>
+                <guid>dohaivu.github.io/blog/2013/06/23/dailyread</guid>
+                <pubDate>2013-06-23T00:00:00+07:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
