@@ -5,10 +5,27 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-06-24T09:17:55+07:00</lastBuildDate>
-        <pubDate>2013-06-24T09:17:55+07:00</pubDate>
+        <lastBuildDate>2013-06-25T10:02:58+07:00</lastBuildDate>
+        <pubDate>2013-06-25T10:02:58+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Tuesday, June 25 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.c-sharpcorner.com/UploadFile/dacca2/5-tips-to-improve-performance-of-C-Sharp-code/&quot;&gt;5 Tips to Improve Performance of C# Code&lt;/a&gt;  &lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/EvanChan2/cassandra2013-spark-talk-final&quot;&gt;Realtime Analytics with Cassandra, Spark&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/&quot;&gt;Creating a fast and mobile-friendly website with Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/i-m-h-o/a721d44b97be&quot;&gt;Content-first design ain’t herding cats&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/25/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/06/25/dailyreading</guid>
+                <pubDate>2013-06-25T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Monday, June 24 2013</title>
