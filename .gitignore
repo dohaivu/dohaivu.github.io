@@ -3,3 +3,4 @@ _site/**
 _drafts
 _public
 _cache
+*.sublime*
