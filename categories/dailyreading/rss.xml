@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-06-25T10:02:58+07:00</lastBuildDate>
-        <pubDate>2013-06-25T10:02:58+07:00</pubDate>
+        <lastBuildDate>2013-06-26T08:42:30+07:00</lastBuildDate>
+        <pubDate>2013-06-26T08:42:30+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -386,6 +386,37 @@ I’m talking about those little squares that look like white Post-It notes that
                 <link>dohaivu.github.io/blog/2013/06/25/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/06/25/dailyreading</guid>
                 <pubDate>2013-06-25T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, June 26 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/benjaminperkins/archive/2013/06/25/what-s-new-in-iis-8-5.aspx&quot;&gt;What’s new in IIS 8.5&lt;/a&gt;    &lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://matchist.com/blog/how-to-get-advice-from-powerful-people/&quot;&gt;How To Get Advice From Powerful People&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;First of all, don’t be afraid to make initial contact&lt;/strong&gt;&lt;br&gt;
+Whether you read a blog post and hesitate at emailing the writer, or you’re at a conference and are too nervous to talk to a speaker….you’re making a big mistake!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Specificity is king&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up&lt;/strong&gt;&lt;br&gt;
+Follow up twice, every 48 hours. Some people are afraid to follow up because they don’t want to be annoying. The truth is that by following up, you’re being less annoying because you prevent me from feeling bad about forgetting to respond to your initial email. The follow up should be short and ask the question you initially wanted answered without mentioning the person didn’t respond to your previous email&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.google.com/insights/consumersurveys/home&quot;&gt;Google Consumer surveys&lt;/a&gt;&lt;br&gt;
+Add realtime surveys to your website&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.techbubbles.com/aspnet/visual-studio-2013-and-asp-net-preview/&quot;&gt;Visual Studio 2013 and ASP.NET Preview&lt;/a&gt;&lt;br&gt;
+New cool feature &lt;code&gt;Browserlink&lt;/code&gt;, there is no need for LiveReload.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/&quot;&gt;Rails 4.0: Final version released!&lt;/a&gt;  &lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/26/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/06/26/dailyreading</guid>
+                <pubDate>2013-06-26T00:00:00+07:00</pubDate>
         </item>
 
 
