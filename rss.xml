@@ -5,10 +5,50 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-06-26T08:42:30+07:00</lastBuildDate>
-        <pubDate>2013-06-26T08:42:30+07:00</pubDate>
+        <lastBuildDate>2013-06-27T09:42:46+07:00</lastBuildDate>
+        <pubDate>2013-06-27T09:42:46+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Thursday, June 27 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/somasegar/archive/2013/06/26/visual-studio-2013-preview.aspx&quot;&gt;Visual Studio 2013 Preview&lt;/a&gt;&lt;br&gt;
+Cool new features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Energy Consumption tool: estimate how much power their app will cause the device to consume&lt;/li&gt;
+&lt;li&gt;View method return values in the debugger&lt;/li&gt;
+&lt;li&gt;“Edit and Continue” for 64-bit&lt;/li&gt;
+&lt;li&gt;Code Information Indicators&lt;/li&gt;
+&lt;li&gt;Peek Definition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/ie/archive/2013/06/26/introducing-ie11-the-best-way-to-experience-the-web-on-modern-touch-devices.aspx&quot;&gt;Introducing IE11&lt;/a&gt;&lt;br&gt;
+IE11 now supports WebGL, latest video tag, brand new F12 tool and optimize touch performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/windowsazure/archive/2013/06/26/autoscaling-windows-azure-applications.aspx&quot;&gt;Autoscaling Windows Azure Application&lt;/a&gt;&lt;br&gt;
+In the past, we had to use WASABi to scale our applications manually, now Windows Azure released autoscale feature for:  &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cloud Services&lt;/li&gt;
+&lt;li&gt;Virtual Machines&lt;/li&gt;
+&lt;li&gt;Web Sites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Currently, they support 2 metrics
+- CPU percentage
+- Storage queue depth&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/bharry/archive/2013/06/26/a-few-more-visual-studio-2013-preview-features.aspx&quot;&gt;A few more Visual Studio 2013 Preview features&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.geekwire.com/2013/dimension-windows-microsoft-adds-3d-printing-support/&quot;&gt;New dimension for Windows: Microsoft puts 3D printing support directly into OS&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/27/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/06/27/dailyreading</guid>
+                <pubDate>2013-06-27T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Tuesday, June 26 2013</title>
