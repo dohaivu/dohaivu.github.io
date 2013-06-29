@@ -31,13 +31,11 @@
 			<a href="/blog/2013/06/15/a-look-into-hekaton/" title="A look into SQL Server In-Memory Hekaton engine" rel="bookmark">A look into SQL Server In-Memory Hekaton engine</a>
 		  </h1>
 		  <div class="entry-content">
-			<p>Introduction
-Hekaton is new in-memory OLTP database engine in SQL Server 2014.</p>
+			<p>Hekaton is a new in-memory OLTP database engine in SQL Server 2014. It&#39;s inside SQL Server, so it does not require a separate hardware, or seperate database.</p>
 
 <!--break-->
 
-<p><strong>Why use hekaton</strong>
-Previous SQL Server stores data on disk, only load data to memory when needed to processing</p>
+<p>Previous SQL Server stores data on disk, only load data to memory when needed to processing. In Hekaton everything is in memory, it does not need to load data from disk. It also has new HASH INDEX structure, compiled stored procedures. So it&#39;s extremely fast.</p>
 
 <p>Hekaton&#39;s design goals:</p>
 
@@ -49,9 +47,55 @@ Previous SQL Server stores data on disk, only load data to memory when needed to
 
 <p>In-Memory OLTP removes the issues of waiting locks to be released using a completely new type of multi-version optimistic concurrency control.</p>
 
-<p>Competitor</p>
+<h3 id="toc_0">Memory optimized table</h3>
 
-<h3 id="toc_0">Create database</h3>
+<p>It is no need to read from disk. A set of checkpoint files are used for recovery that keep track the changes of data. Transaction log is stored on disk, the same as disk-based tables. If server crash, the rows of data can be created from checkpoint files and transaction logs.</p>
+
+<p>Non-durable table (SCHEMA_ONLY) is only available on memory. It does not require any IO operations, so data will be lost when server shutdown. But it&#39;s useful for temp data, caches, web server sessions.</p>
+
+<h3 id="toc_1">Rows</h3>
+
+<p>Rows are allocated from structures called heaps. Rows for a single table are not necessarily stored near other rows from the same table and the only way SQL Server knows what rows belong to the same table is because they are all connected using the tables’ indexes.</p>
+
+<p>Each row consists of a header and a payload containing the row attributes.
+<img src="/images/posts/2013-06-15-a-look-into-hekaton_rows.png" /></p>
+
+<h3 id="toc_2">Indexes on memory-optimized tables: Hash index</h3>
+
+<p>They are not stored as traditional B-trees.
+Memory-optimized tables are never stored as unorganized sets of rows, like a disk-based table heap is stored.<br>
+Indexes are never stored on disk, operation are not logged. When SQL Server restart, indexes will be rebuilt.</p>
+
+<p>Hash index is an array of hash bucket that is a pointer.<br>
+In the example below, hash function is the length of name, city column. The row with name &quot;Greg&quot; whose length is 4, the hash bucket with value 4 will pointer to this row. Another rows with the same value is linked into the same chain 
+<img src="/images/posts/2013-06-15-a-look-into-hekaton_hash-index.png" /></p>
+
+<p>A pointer is 2 bytes in row header that follows IdxLinkCount.</p>
+
+<h3 id="toc_3">Native compiled stored procedures</h3>
+
+<p>Hekaton translates it to C and then compile it to a DLL. So it does not need compile at run time. Performance improves 10X to 25X time.</p>
+
+<h3 id="toc_4">Interpreted TSQL</h3>
+
+<p>We can access full TSQL but performance is not good as native compiled stored procedures.</p>
+
+<h3 id="toc_5">Transaction Isolation levels</h3>
+
+<p>The following isolation levels are supported for transactions accessing memory-optimized tables</p>
+
+<ul>
+<li>Snapshot</li>
+<li>Repeatable Read</li>
+<li>Serializable</li>
+</ul>
+
+<h3 id="toc_6">Validation</h3>
+
+<p>Prior to the final commit of transactions involving memory-optimized tables, SQL Server performs a validation step. Because no locks are acquired during data modifications, it is possible that the data 
+changes could result in invalid data based on the requested isolation level</p>
+
+<h3 id="toc_7">Create database</h3>
 
 <p>Add <code>MEMORY_OPTIMIZED_DATA</code> filegroups for checkpoint files.</p>
 <div class="highlight"><pre><code class="sql language-sql" data-lang="sql"><span class="k">CREATE</span> <span class="k">DATABASE</span> <span class="n">HKDB</span>
@@ -64,9 +108,9 @@ Previous SQL Server stores data on disk, only load data to memory when needed to
 <span class="n">LOG</span> <span class="k">ON</span> <span class="p">(</span><span class="n">name</span> <span class="o">=</span> <span class="p">[</span><span class="n">SampleDB_log</span><span class="p">],</span> <span class="n">Filename</span><span class="o">=</span><span class="s1">&#39;L:\log\HKDB_log.ldf&#39;</span><span class="p">,</span> <span class="k">size</span><span class="o">=</span><span class="mi">500</span><span class="n">MB</span><span class="p">)</span>
 <span class="k">COLLATE</span> <span class="n">Latin1_General_100_BIN2</span><span class="p">;</span>
 </code></pre></div>
-<h3 id="toc_1">Create tables</h3>
+<h3 id="toc_8">Create tables</h3>
 
-<p>Support all datatypes except LOB, all rows will be limited to 8060 bytes.</p>
+<p>Hekaton support all datatypes except LOB, all rows will be limited to 8060 bytes. Add <strong>MEMORY_OPTIMIZED</strong> and <strong>DURABILITY</strong> hints to the create statement.</p>
 <div class="highlight"><pre><code class="sql language-sql" data-lang="sql"><span class="k">CREATE</span> <span class="k">TABLE</span> <span class="n">T1</span>
 <span class="p">(</span>
 <span class="p">[</span><span class="n">Name</span><span class="p">]</span> <span class="nb">varchar</span><span class="p">(</span><span class="mi">32</span><span class="p">)</span> <span class="k">not</span> <span class="k">null</span> <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="n">NONCLUSTERED</span> <span class="n">HASH</span> <span class="k">WITH</span> <span class="p">(</span><span class="n">BUCKET_COUNT</span> <span class="o">=</span> <span class="mi">1024</span><span class="p">),</span>
@@ -82,50 +126,7 @@ Previous SQL Server stores data on disk, only load data to memory when needed to
 - A maximum of 8 indexes, including the index supporting the PRIMARY KE
 - No Schema changes, No DDL command(CREATE INDEX, ALTER INDEX,...) </p>
 
-<h3 id="toc_2">Memory optimized table</h3>
-
-<p>It is no need to read from disk. A set of checkpoint files are used for recovery that keep track the changes of data. Transaction log is stored on disk, the same as disk-based tables. If server crash, the rows of data can be created from checkpoint files and transaction logs.</p>
-
-<p>Non-durable table (SCHEMA_ONLY) is only available on memory. It does not require any IO operations, so data will be lost when server shutdown. But it&#39;s useful for temp data, caches, web server sessions.</p>
-
-<h3 id="toc_3">Rows</h3>
-
-<p>Rows are allocated from structures called heaps. Rows for a single table are not necessarily stored near other rows from the same table and the only way SQL Server knows what rows belong to the same table is because they are all connected using the tables’ indexes.</p>
-
-<p>Each row consists of a header and a payload containing the row attributes.
-<img src="/images/posts/2013-06-15-a-look-into-hekaton_rows.png" /></p>
-
-<h3 id="toc_4">Indexes on memory-optimized tables: Hash index</h3>
-
-<p>They are not stored as traditional B-trees.
-Memory-optimized tables are never stored as unorganized sets of rows, like a disk-based table heap is stored.<br>
-Indexes are never stored on disk, operation are not logged. When SQL Server restart, indexes will be rebuilt.</p>
-
-<p>Hash index is an array of hash bucket that is a pointer.<br>
-In the example below, hash function is the length of name, city column. The row with name &quot;Greg&quot; whose length is 4, the hash bucket with value 4 will pointer to this row. Another rows with the same value is linked into the same chain 
-<img src="/images/posts/2013-06-15-a-look-into-hekaton_hash-index.png" /></p>
-
-<p>A pointer is 2 bytes in row header that follows IdxLinkCount</p>
-
-<h3 id="toc_5">Native compiled stored procedures</h3>
-
-<h3 id="toc_6">Interpreted TSQL</h3>
-
-<h3 id="toc_7">Data operation</h3>
-
-<p><strong>Commit/End time</strong>:
-<strong>Valid time</strong>:
-<strong>Logical read time</strong>:</p>
-
-<p>Test</p>
-
-<h3 id="toc_8">Transaction Isolation levels</h3>
-
-<ul>
-<li>Snapshot</li>
-<li>Repeatable Read</li>
-<li>Serializable</li>
-</ul>
+<p>Hekaton is very fast database, so it is good to store session data, user profiles, or cached data.</p>
 
 			<div class="clear"></div>
 		  </div>

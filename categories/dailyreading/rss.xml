@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-06-28T08:56:21+07:00</lastBuildDate>
-        <pubDate>2013-06-28T08:56:21+07:00</pubDate>
+        <lastBuildDate>2013-06-29T09:46:13+07:00</lastBuildDate>
+        <pubDate>2013-06-29T09:46:13+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -499,6 +499,27 @@ An overview of DFS technologies: NFS, CIFS, OwFS, HDFS ...&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/06/28/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/06/28/dailyreading</guid>
                 <pubDate>2013-06-28T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Saturday, June 29 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/typescript/archive/2013/06/28/announcing-typescript-0-9-0-1.aspx&quot;&gt;Announcing TypeScript 0.9.0.1&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.technet.com/b/firehose/archive/2013/06/28/skype-team-shares-its-mobile-plans-for-the-road-ahead.aspx&quot;&gt;Skype team shares its mobile plans for the road ahead&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.itwriting.com/blog/7493-visual-c-will-implement-all-of-c-11-and-14-some-of-c99-says-microsoft.html&quot;&gt;Visual C++ will implement all of C++ 11 and C++ 14&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.lessthandot.com/index.php/DataMgmt/business-intelligence-1/sql-2014-ctp1-where-is&quot;&gt;SQL 2014 CTP1, where is my BIDS?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tech.pro/tutorial/1356/an-interview-with-jquery-legend-rey-bango&quot;&gt;An Interview with jQuery Legend Rey Bango&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phonegap.com/blog/2013/06/26/pg-290-released/&quot;&gt;PhoneGap 2.9.0 released&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/29/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/06/29/dailyreading</guid>
+                <pubDate>2013-06-29T00:00:00+07:00</pubDate>
         </item>
 
 
