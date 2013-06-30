@@ -5,10 +5,21 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-06-29T09:46:13+07:00</lastBuildDate>
-        <pubDate>2013-06-29T09:46:13+07:00</pubDate>
+        <lastBuildDate>2013-06-30T08:10:01+07:00</lastBuildDate>
+        <pubDate>2013-06-30T08:10:01+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Sunday, June 30 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://plus.google.com/+ChrisWilson/posts/cs4J6sS9qmJ&quot;&gt;Initial Web MIDI support in Chrome Canary!&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://social.technet.microsoft.com/wiki/contents/articles/18146.windows-azure-telemetry-basics-and-troubleshooting.aspx&quot;&gt;Telemetry Basics and Troubleshooting&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/06/30/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/06/30/dailyreading</guid>
+                <pubDate>2013-06-30T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Saturday, June 29 2013</title>

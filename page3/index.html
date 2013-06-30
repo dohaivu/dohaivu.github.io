@@ -29,6 +29,77 @@
           
   <div class="full">
     <h1 class="entry-title">
+      <a href="/blog/2013/05/12/unity/" title="Unity 3.0" rel="bookmark">Unity 3.0</a>
+    </h1>
+    <div class="entry-content full-content">
+      <h2 id="toc_0">Service Locator Pattern</h2>
+
+<p>Dependency Injection adopt push model. Another class is responsible for pushing(injecting) the dependencies into high level client classes at runtime</p>
+
+<h3 id="toc_1">Object composition</h3>
+
+<p>Dependency Injection will inject your dependencies at runtime. Your application must know when and where to compose objects before performing any task. Example: console app: <strong>Main</strong>, web app: <strong>Global.asax</strong></p>
+
+<h3 id="toc_2">Object Lifetime</h3>
+
+<p>Each class will occupy a memory, so you have to determine when to inject objects and how long they will live</p>
+
+<h3 id="toc_3">Type of Injection</h3>
+
+<p><strong>Property Setter Injection</strong></p>
+
+<p><strong>Method call Injection</strong></p>
+
+<p><strong>Constructor Injection</strong></p>
+
+<h3 id="toc_4">Dependency Injection with Unity</h3>
+
+<p>Life cycle: Register, Resolve, Dispose</p>
+
+<h4 id="toc_5">Register</h4>
+
+<p>Register dependency types that need to be instantiated and injected to a target object.</p>
+<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="n">UnityContainer</span> <span class="n">container</span> <span class="p">=</span> <span class="k">new</span> <span class="n">UnityContainer</span><span class="p">();</span>
+<span class="n">container</span><span class="p">.</span><span class="n">RegisterType</span><span class="p">&lt;</span><span class="n">IBookRepository</span><span class="p">,</span> <span class="n">BookRepository</span><span class="p">&gt;();</span>
+</code></pre></div>
+<h4 id="toc_6">Resolve</h4>
+
+<p>Instantiate object and dependency objects through type mapping.</p>
+<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="kt">var</span> <span class="n">controller</span> <span class="p">=</span> <span class="n">container</span><span class="p">.</span><span class="n">Resolve</span><span class="p">&lt;</span><span class="n">BooksController</span><span class="p">&gt;()</span>
+</code></pre></div>
+<p>It will instantiate </p>
+
+      
+      <div class="clear"></div>
+    </div>
+    <p class="alt-font tight">
+      Posted in&nbsp;
+      
+      <a href="/categories/library" title="library" rel="category tag">library</a>
+      
+	  
+	  &nbsp;&nbsp;&nbsp;
+		Tags &nbsp;
+		
+			<a href="/tags/entlib/">entlib</a> &nbsp;
+		
+			<a href="/tags/unity/">unity</a> &nbsp;
+		
+    </p>
+    <!-- <p class="comments-link">
+      <a href='/blog/2013/05/12/unity/#disqus_thread'>Comments</a>
+    </p> -->
+    <p class="by-line">
+      <span class="date full-date">
+        <abbr class="published" title="2013-05-12 00:00:00 +0700">12 May 2013</abbr>
+      </span>
+    </p>
+    <div class="clear"></div>
+  </div>
+  <div class="rule"><hr/></div>
+
+  <div class="full">
+    <h1 class="entry-title">
       <a href="/blog/2013/04/26/enterprise-library-6/" title="Enterprise Library 6" rel="bookmark">Enterprise Library 6</a>
     </h1>
     <div class="entry-content full-content">
@@ -200,7 +271,7 @@
                 
                 <li><a href="/categories/testing/index.html">testing (1)</a></li>
                 
-                <li><a href="/categories/dailyreading/index.html">dailyreading (15)</a></li>
+                <li><a href="/categories/dailyreading/index.html">dailyreading (16)</a></li>
                 
                 <li><a href="/categories/database/index.html">database (1)</a></li>
                 
@@ -224,7 +295,7 @@
                 
                 <li><a href="/tags/frontend/index.html">frontend (1)</a></li>
                 
-                <li><a href="/tags/dailyreading/index.html">dailyreading (15)</a></li>
+                <li><a href="/tags/dailyreading/index.html">dailyreading (16)</a></li>
                 
                 <li><a href="/tags/sqlserver/index.html">sqlserver (1)</a></li>
                 
@@ -236,6 +307,10 @@
             <div class="widget">
               <h2 class="widget-title">Recent Posts</h2>
               <ul>
+                
+                <li>
+                  <a href="/blog/2013/06/30/dailyreading/" title="Daily Reading - Sunday, June 30 2013" rel="bookmark">Daily Reading - Sunday, June 30 2013</a>
+                </li>
                 
                 <li>
                   <a href="/blog/2013/06/29/dailyreading/" title="Daily Reading - Saturday, June 29 2013" rel="bookmark">Daily Reading - Saturday, June 29 2013</a>
@@ -271,10 +346,6 @@
                 
                 <li>
                   <a href="/blog/2013/06/20/dailyread/" title="Daily Reading - Thursday, June 20 2013" rel="bookmark">Daily Reading - Thursday, June 20 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/19/dailyread/" title="Daily Reading - Wednesday, June 19 2013" rel="bookmark">Daily Reading - Wednesday, June 19 2013</a>
                 </li>
                 
               </ul>
