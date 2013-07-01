@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-06-30T08:10:01+07:00</lastBuildDate>
-        <pubDate>2013-06-30T08:10:01+07:00</pubDate>
+        <lastBuildDate>2013-07-01T08:42:49+07:00</lastBuildDate>
+        <pubDate>2013-07-01T08:42:49+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -531,6 +531,17 @@ An overview of DFS technologies: NFS, CIFS, OwFS, HDFS ...&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/06/30/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/06/30/dailyreading</guid>
                 <pubDate>2013-06-30T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Monday, July 01 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/news/2013/06/economics-of-aws&quot;&gt;Economics of AWS&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.sketchingwithcss.com/samplechapter/&quot;&gt;Mastering CSS layout with Flexbox&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/01/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/01/dailyreading</guid>
+                <pubDate>2013-07-01T00:00:00+07:00</pubDate>
         </item>
 
 
