@@ -34,3 +34,11 @@ In order to make this feature work, ensure that we have configured:
 ...
 ```
 
+[Five Patterns to Help You Tame Asynchronous JavaScript](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript)
+
+- Callbacks
+- Observer Pattern
+- Messaging
+- Promises
+- Finite State Machines
+
