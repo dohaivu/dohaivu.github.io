@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        
+        <title>Tag: visualstudio</title>
+           
+        <description>A Passion Developer - Vu Hai Do</description>
+        <link>dohaivu.github.io/rss.xml</link>
+        <link>dohaivu.github.io</link>
+        <lastBuildDate>2013-07-02T18:36:21+07:00</lastBuildDate>
+        <pubDate>2013-07-02T18:36:21+07:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Cool features of Visual Studio 2013</title>
+                <description>&lt;p&gt;Microsoft has released preview version of Visual Studio 2013 at BUILD. This version is just a year from Visual Studio 2012, but it has some new cool features.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;h2 id=&quot;toc_0&quot;&gt;Map mode in Scrollbar&lt;/h2&gt;
+
+&lt;p&gt;Map of code on scrollbar. Hover over it to review, it&amp;#39;s easy to view your code before jumping to that code.&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_mapmode.png&quot; alt=&quot;map mode&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Enable code map.&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_mapmodeconfig.png&quot; alt=&quot;code map config&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_1&quot;&gt;Code Lens&lt;/h2&gt;
+
+&lt;p&gt;Above classes, methods there is a small text show where they are referenced.&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_codelens.png&quot; alt=&quot;peek defition&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Without looking at Test Explorer we can know test methods passed or not&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_codelensunit.png&quot; alt=&quot;peek defition&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_2&quot;&gt;Peek Definition&lt;/h2&gt;
+
+&lt;p&gt;Put cursor in &lt;strong&gt;BooksContext&lt;/strong&gt;, press &lt;strong&gt;Alt F12&lt;/strong&gt;, it shows a definition window in the current window. It&amp;#39;s very useful to review our code without opening files. In this small window we have code map, line number, promote to normal window if we want.&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_peekdefinition.png&quot; alt=&quot;peek defition&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_3&quot;&gt;Auto brace completion&lt;/h2&gt;
+
+&lt;p&gt;When you type open braces &lt;strong&gt;[, (&lt;/strong&gt;, it will add a close braces &lt;strong&gt;], )&lt;/strong&gt; automatically. This is a small enhancement, but it is very useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_4&quot;&gt;Browser Link&lt;/h2&gt;
+
+&lt;p&gt;This is a great feature for web developer. Press &lt;strong&gt;Ctrl F5&lt;/strong&gt; to launch your web, edit HTML, CSS, then press &lt;strong&gt;Ctrl Alt Enter&lt;/strong&gt; browser will refresh automatically.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_browserlink.png&quot; alt=&quot;Browser link&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_5&quot;&gt;Notification&lt;/h2&gt;
+
+&lt;p&gt;All extension, product, project updates are in a central place.&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_notification.png&quot; alt=&quot;Notification&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_6&quot;&gt;Inline Navigate&lt;/h2&gt;
+
+&lt;p&gt;Press &lt;strong&gt;Ctrl ,&lt;/strong&gt; now it shows a small text box on the top left instead of a central window in VS2012.&lt;br&gt;
+&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_inlinenavigate.png&quot; alt=&quot;Inline Navigate&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;toc_7&quot;&gt;Native git support without extension&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2013-07-01-cool-features-of-visual-studio_git.png&quot; alt=&quot;git&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Beside these cool features, Visual Studio 2013 also enhance performance, icon color... It ships new .NET 4.5.1, ASP.NET MVC 5 and WEB API 2.&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/01/cool-features-of-visual-studio/</link>
+                <guid>dohaivu.github.io/blog/2013/07/01/cool-features-of-visual-studio</guid>
+                <pubDate>2013-07-01T00:00:00+07:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
