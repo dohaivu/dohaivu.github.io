@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: index
 title: A Passion Developer
 ---
 {% for post in paginator.posts %}
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
     </h1>
@@ -20,15 +20,12 @@ title: A Passion Developer
       <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
       {% endfor %}
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		{% for tag in post.tags %}
 			<a href="/tags/{{ tag }}/">{{ tag }}</a> &nbsp;
 		{% endfor %}
-    </p>
-    <!-- <p class="comments-link">
-      <a href='{{post.url}}#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="{{ post.date }}">{{ post.date | date_to_string }}</abbr>

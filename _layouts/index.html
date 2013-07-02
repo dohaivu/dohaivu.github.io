@@ -1,0 +1,53 @@
+---
+layout: default
+title: A Passion Developer
+---
+<div class="about">      
+  <img class="about_gravatar" src="http://www.gravatar.com/avatar/09901d7bfa9c863593d7e6d6ae2ba3f3?s=80">
+  <div class="about_description">My name is Vu Hai Do, a senior full-stack .NET developer who has a strong focus on server performance and scalability.</div>
+  <a class="about_more" href="/about.html">more →</a>
+
+  <br class="clearboth"/> 
+  <div class="social">
+    <ul>
+      <li class="social_item"><a title="RSS 2.0 feed for posts" rel="alternate" href="http://feeds.feedburner.com/github/dohaivu">
+        <img src="/images/rss.png" alt="latest posts" title="latest posts">
+      </a></li>
+      <li class="social_item"><a href="http://twitter.com/vuhaido" target="_blank"><img src="/images/twitter.png" /></a></li>
+      <li class="social_item"><a href="http://github.com/dohaivu" target="_blank"><img src="/images/github.png" /></a></li>
+      <li class="social_item"><a href="http://www.linkedin.com/pub/vu-do/26/374/436" target="_blank"><img src="/images/linkedin.png" /></a></li>
+      <li class="social_item"><a href="mailto:dohaivu@gmail.com" target="_blank"><img src="/images/gmail.png" /></a></li>
+    </ul>
+  </div>      
+</div>    
+
+<div id="main" class="content">      
+  {{ content }}        
+</div>
+
+<div class="category">                                   
+  <div>        
+    <h2 class="widget-title">Recent Posts</h2>
+    <ul>
+      {% for post in site.posts limit:10 %}
+      <li>
+        <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>        
+  </div>
+  <div class="widget">
+    <h2 class="widget-title">Categories</h2>
+    <ul>
+      {% for category in site.categories %}
+      <li><a href="/categories/{{category | first}}/index.html">{{category | first}} ({{category | last | size }})</a></li>
+      {% endfor %}
+    </ul>
+    <h2 class="widget-title">Tags</h2>
+    <ul>
+      {% for tag in site.tags %}
+      <li><a href="/tags/{{tag | first}}/index.html">{{tag | first}} ({{tag | last | size }})</a></li>
+      {% endfor %}
+    </ul>          
+  </div>      
+</div>
