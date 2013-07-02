@@ -2,32 +2,105 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>A Passion Developer</title>
-    <meta name="author" content="Vu Hai Do" />    
-    <link rel="stylesheet" type="text/css" href="/stylesheets/screen.css">   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Vu Hai Do" />
+    <title>A Passion Developer</title>        
+    <link rel="stylesheet" type="text/css" href="/stylesheets/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">  
+    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css">   
     <link href="http://feeds.feedburner.com/github/dohaivu" rel="alternate" title="RSS" type="application/rss+xml" />
   </head>
 
   <body>
-    <div id="header" class="section">
-      <div class="wrapper">
+    <header id="header" class="section">
+      <!-- <div class="wrapper">
         <strong id="blog-title">
           <a href="/" rel="home">A Passion Developer</a>
         </strong>
         <p id="blog-description"></p>
-        <div id="navigation">
-          <ul class="nav clearfix">
-            <li class="first-child"><a href="/blog.html">Blog</a></li>            
-            <li><a href="/about.html">About</a></li>
-          </ul>
-        </div>
-      </div>
+      </div> -->
+    </header>
+    <nav class="navigation">
+      <ul class="">
+        <li class="navigation_menu-item"><a href="/index.html">Home</a></li>            
+        <li class="navigation_menu-item"><a href="/blog.html">Blog</a></li>            
+        <li class="navigation_menu-item"><a href="/about.html">About</a></li>
+      </ul>
+    </nav>
+    <br class="clearboth"/> 
+    <div class="about">      
+  <img class="about_gravatar" src="http://www.gravatar.com/avatar/09901d7bfa9c863593d7e6d6ae2ba3f3?s=80">
+  <div class="about_description">My name is Vu Hai Do, a senior full-stack .NET developer who has a strong focus on server performance and scalability.</div>
+  <a class="about_more" href="/about.html">more →</a>
+
+  <br class="clearboth"/> 
+  <div class="social">
+    <ul>
+      <li class="social_item"><a title="RSS 2.0 feed for posts" rel="alternate" href="http://feeds.feedburner.com/github/dohaivu">
+        <img src="/images/rss.png" alt="latest posts" title="latest posts">
+      </a></li>
+      <li class="social_item"><a href="http://twitter.com/vuhaido" target="_blank"><img src="/images/twitter.png" /></a></li>
+      <li class="social_item"><a href="http://github.com/dohaivu" target="_blank"><img src="/images/github.png" /></a></li>
+      <li class="social_item"><a href="http://www.linkedin.com/pub/vu-do/26/374/436" target="_blank"><img src="/images/linkedin.png" /></a></li>
+      <li class="social_item"><a href="mailto:dohaivu@gmail.com" target="_blank"><img src="/images/gmail.png" /></a></li>
+    </ul>
+  </div>      
+</div>    
+
+<div id="main" class="content">      
+  
+  <div class="entry">
+    <h1 class="entry-title">
+      <a href="/blog/2013/06/21/dailyread/" title="Daily Reading - Friday, June 21 2013" rel="bookmark">Daily Reading - Friday, June 21 2013</a>
+    </h1>
+    <div class="entry-content full-content">
+      <p><a href="http://architects.dzone.com/articles/state-devops-2013-infographic">State of DevOps in 2013</a>  </p>
+
+<p><a href="http://mikehadlow.blogspot.co.uk/2013/05/the-benefits-of-reverse-proxy.html">The benefits of reverse proxy</a><br>
+A reverse proxy is server component that sites between the internet and your web servers. It accepts http requests, provide various services and forward the requests to one or many servers.<br>
+Here are some benefits:</p>
+
+<ul>
+<li>Load balancing: route HTTP request to identical servers.</li>
+<li>Security: hide your web servers behind DMZ</li>
+<li>Authentication: single point of authentication for all HTTP requests</li>
+<li>SSL Termination: handle HTTPS requests.</li>
+<li>Serve static content</li>
+<li>Caching: HTTP caching</li>
+<li>Compression</li>
+<li>Centralised Logging and Auditing</li>
+<li>URL Rewriting</li>
+<li>Aggregating multiple websites</li>
+</ul>
+
+
+      
+        <a href="/blog/2013/06/21/dailyread/">read more</a>
+      
+      <div class="clear"></div>
     </div>
-    <div id="main" class="section">
-      <div class="wrapper">
-        <div id="content">
-          
-  <div class="full">
+    <p class="alt-font tight">
+      Posted in&nbsp;
+      
+      <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
+      
+	  
+	  <!-- &nbsp;&nbsp;&nbsp;
+		Tags &nbsp;
+		
+			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
+		
+    </p> -->    
+    <p class="by-line">
+      <span class="date full-date">
+        <abbr class="published" title="2013-06-21 00:00:00 +0700">21 Jun 2013</abbr>
+      </span>
+    </p>
+    <div class="clear"></div>
+  </div>
+  <div class="rule"><hr/></div>
+
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/20/dailyread/" title="Daily Reading - Thursday, June 20 2013" rel="bookmark">Daily Reading - Thursday, June 20 2013</a>
     </h1>
@@ -52,15 +125,12 @@
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/20/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-20 00:00:00 +0700">20 Jun 2013</abbr>
@@ -70,7 +140,7 @@
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/19/dailyread/" title="Daily Reading - Wednesday, June 19 2013" rel="bookmark">Daily Reading - Wednesday, June 19 2013</a>
     </h1>
@@ -90,15 +160,12 @@ This release provide some new features: Generics, Overloading on Constants, Expo
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/19/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-19 00:00:00 +0700">19 Jun 2013</abbr>
@@ -108,7 +175,7 @@ This release provide some new features: Generics, Overloading on Constants, Expo
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/18/dailyread/" title="Daily Reading - Tuesday, June 18 2013" rel="bookmark">Daily Reading - Tuesday, June 18 2013</a>
     </h1>
@@ -127,15 +194,12 @@ This release provide some new features: Generics, Overloading on Constants, Expo
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/18/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-18 00:00:00 +0700">18 Jun 2013</abbr>
@@ -145,7 +209,7 @@ This release provide some new features: Generics, Overloading on Constants, Expo
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/17/dailyread/" title="Daily Reading - Monday, June 17 2013" rel="bookmark">Daily Reading - Monday, June 17 2013</a>
     </h1>
@@ -165,15 +229,12 @@ A look at where startups are located.</p>
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/17/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-17 00:00:00 +0700">17 Jun 2013</abbr>
@@ -183,7 +244,7 @@ A look at where startups are located.</p>
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/16/dailyread/" title="Daily Reading - Sunday, June 16 2013" rel="bookmark">Daily Reading - Sunday, June 16 2013</a>
     </h1>
@@ -208,15 +269,12 @@ A look at where startups are located.</p>
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/16/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-16 00:00:00 +0700">16 Jun 2013</abbr>
@@ -226,7 +284,7 @@ A look at where startups are located.</p>
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/15/dailyread/" title="Daily Reading - Saturday, June 15 2013" rel="bookmark">Daily Reading - Saturday, June 15 2013</a>
     </h1>
@@ -246,15 +304,12 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/15/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-15 00:00:00 +0700">15 Jun 2013</abbr>
@@ -264,7 +319,7 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/15/a-look-into-hekaton/" title="A look into SQL Server In-Memory Hekaton engine" rel="bookmark">A look into SQL Server In-Memory Hekaton engine</a>
     </h1>
@@ -283,15 +338,12 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
       <a href="/categories/database" title="database" rel="category tag">database</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/sqlserver/">sqlserver</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/15/a-look-into-hekaton/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-15 00:00:00 +0700">15 Jun 2013</abbr>
@@ -301,7 +353,7 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/06/14/dailyread/" title="Daily Reading Friday, June 14 2013" rel="bookmark">Daily Reading Friday, June 14 2013</a>
     </h1>
@@ -328,15 +380,12 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
       <a href="/categories/dailyreading" title="dailyreading" rel="category tag">dailyreading</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/dailyreading/">dailyreading</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/06/14/dailyread/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-06-14 00:00:00 +0700">14 Jun 2013</abbr>
@@ -346,7 +395,7 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="full">
+  <div class="entry">
     <h1 class="entry-title">
       <a href="/blog/2013/05/29/jasmine-setup/" title="Jasmine Setup" rel="bookmark">Jasmine Setup</a>
     </h1>
@@ -397,7 +446,7 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
       <a href="/categories/testing" title="testing" rel="category tag">testing</a>
       
 	  
-	  &nbsp;&nbsp;&nbsp;
+	  <!-- &nbsp;&nbsp;&nbsp;
 		Tags &nbsp;
 		
 			<a href="/tags/testing/">testing</a> &nbsp;
@@ -406,56 +455,10 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
 		
 			<a href="/tags/frontend/">frontend</a> &nbsp;
 		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/05/29/jasmine-setup/#disqus_thread'>Comments</a>
-    </p> -->
+    </p> -->    
     <p class="by-line">
       <span class="date full-date">
         <abbr class="published" title="2013-05-29 00:00:00 +0700">29 May 2013</abbr>
-      </span>
-    </p>
-    <div class="clear"></div>
-  </div>
-  <div class="rule"><hr/></div>
-
-  <div class="full">
-    <h1 class="entry-title">
-      <a href="/blog/2013/05/18/logging-application-block/" title="Logging Application Block" rel="bookmark">Logging Application Block</a>
-    </h1>
-    <div class="entry-content full-content">
-      <p>The Logging block in Enterprise Library 6 is enhanced with some nice features:
-- Support asynchronous
-- JSON formatter
-- Priority filter
-- LoggingEnabled</p>
-
-
-      
-        <a href="/blog/2013/05/18/logging-application-block/">read more</a>
-      
-      <div class="clear"></div>
-    </div>
-    <p class="alt-font tight">
-      Posted in&nbsp;
-      
-      <a href="/categories/library" title="library" rel="category tag">library</a>
-      
-	  
-	  &nbsp;&nbsp;&nbsp;
-		Tags &nbsp;
-		
-			<a href="/tags/entlib/">entlib</a> &nbsp;
-		
-			<a href="/tags/logging/">logging</a> &nbsp;
-		
-    </p>
-    <!-- <p class="comments-link">
-      <a href='/blog/2013/05/18/logging-application-block/#disqus_thread'>Comments</a>
-    </p> -->
-    <p class="by-line">
-      <span class="date full-date">
-        <abbr class="published" title="2013-05-18 00:00:00 +0700">18 May 2013</abbr>
       </span>
     </p>
     <div class="clear"></div>
@@ -476,143 +479,102 @@ Poor choice of color, inconsistent language, weak use of metaphor are comments o
     <a href="/page3/" title="Next Page">Next &raquo;</a>
     
   </span>
+</div>        
 </div>
-        </div>
-        <div id="sidebar">          
-          <div id="carrington-about" class="widget">
-            <div class="about">
-              <h2 class="widget-title">About Me</h2>
-              <img class="gravatar" src="http://www.gravatar.com/avatar/09901d7bfa9c863593d7e6d6ae2ba3f3?s=80">
-              <p>My name is Vu Hai Do, a senior full-stack .NET developer who has a strong focus on server performance and scalability.</p>
-              <a class="more" href="/about.html">more →</a>
-            </div>
-			<div>
-				<ul class="social">
-					<li><a title="RSS 2.0 feed for posts" rel="alternate" href="http://feeds.feedburner.com/github/dohaivu">
-					  <img src="/images/rss.png" alt="latest posts" title="latest posts">
-					</a></li>
-					<li><a href="http://twitter.com/vuhaido" target="_blank"><img src="/images/twitter.png" /></a></li>
-					<li><a href="http://github.com/dohaivu" target="_blank"><img src="/images/github.png" /></a></li>
-					<li><a href="http://www.linkedin.com/pub/vu-do/26/374/436" target="_blank"><img src="/images/linkedin.png" /></a></li>
-					<li><a href="mailto:dohaivu@gmail.com" target="_blank"><img src="/images/gmail.png" /></a></li>
-				</ul>
-			</div>
-          </div>          
-          <div id="primary-sidebar">
-            <div class="widget">
-              <h2 class="widget-title">Categories</h2>
-              <ul>
-                
-                <li><a href="/categories/library/index.html">library (3)</a></li>
-                
-                <li><a href="/categories/guide/index.html">guide (1)</a></li>
-                
-                <li><a href="/categories/testing/index.html">testing (1)</a></li>
-                
-                <li><a href="/categories/dailyreading/index.html">dailyreading (17)</a></li>
-                
-                <li><a href="/categories/database/index.html">database (1)</a></li>
-                
-              </ul>
-              <h2 class="widget-title">Tags</h2>
-              <ul>
-                
-                <li><a href="/tags/entlib/index.html">entlib (3)</a></li>
-                
-                <li><a href="/tags/logging/index.html">logging (2)</a></li>
-                
-                <li><a href="/tags/unity/index.html">unity (2)</a></li>
-                
-                <li><a href="/tags/python/index.html">python (1)</a></li>
-                
-                <li><a href="/tags/setup/index.html">setup (1)</a></li>
-                
-                <li><a href="/tags/testing/index.html">testing (1)</a></li>
-                
-                <li><a href="/tags/jasmine/index.html">jasmine (1)</a></li>
-                
-                <li><a href="/tags/frontend/index.html">frontend (1)</a></li>
-                
-                <li><a href="/tags/dailyreading/index.html">dailyreading (17)</a></li>
-                
-                <li><a href="/tags/sqlserver/index.html">sqlserver (1)</a></li>
-                
-              </ul>
-              
-            </div>
-          </div>
-          <div id="secondary-sidebar">
-            <div class="widget">
-              <h2 class="widget-title">Recent Posts</h2>
-              <ul>
-                
-                <li>
-                  <a href="/blog/2013/07/01/dailyreading/" title="Daily Reading - Monday, July 01 2013" rel="bookmark">Daily Reading - Monday, July 01 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/30/dailyreading/" title="Daily Reading - Sunday, June 30 2013" rel="bookmark">Daily Reading - Sunday, June 30 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/29/dailyreading/" title="Daily Reading - Saturday, June 29 2013" rel="bookmark">Daily Reading - Saturday, June 29 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/28/dailyreading/" title="Daily Reading - Friday, June 28 2013" rel="bookmark">Daily Reading - Friday, June 28 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/27/dailyreading/" title="Daily Reading - Thursday, June 27 2013" rel="bookmark">Daily Reading - Thursday, June 27 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/26/dailyreading/" title="Daily Reading - Tuesday, June 26 2013" rel="bookmark">Daily Reading - Tuesday, June 26 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/25/dailyreading/" title="Daily Reading - Tuesday, June 25 2013" rel="bookmark">Daily Reading - Tuesday, June 25 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/24/dailyreading/" title="Daily Reading - Monday, June 24 2013" rel="bookmark">Daily Reading - Monday, June 24 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/23/dailyread/" title="Daily Reading - Saturday, June 23 2013" rel="bookmark">Daily Reading - Saturday, June 23 2013</a>
-                </li>
-                
-                <li>
-                  <a href="/blog/2013/06/21/dailyread/" title="Daily Reading - Friday, June 21 2013" rel="bookmark">Daily Reading - Friday, June 21 2013</a>
-                </li>
-                
-              </ul>
-              <div class="clear"></div>
-            </div>
-            <!-- <div class="widget">
-              <h2 class="widget-title">Archives</h2>
-              <ul>
-                
-              </ul>
-              <div class="clear"></div>
-            </div> -->
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- <div id="footer" class="section">
-      <div class="wrapper">
-        <a id="generator-link">
-          Proudly powered by
-          <a href="https://github.com/mojombo/jekyll" rel="generator">Jekyll</a>
-          and
-          <a href="http://carringtontheme.com" title="Carrington theme for WordPress">Carrington</a>
-      </div>
-      <div id="developer-link">
-      </div>
-    </div> -->
-    <!-- <a href="https://github.com/dohaivu"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
- -->
+
+<div class="category">                                   
+  <div>        
+    <h2 class="widget-title">Recent Posts</h2>
+    <ul>
+      
+      <li>
+        <a href="/blog/2013/07/02/dailyreading/" title="Daily Reading - Tuesday, July 02 2013" rel="bookmark">Daily Reading - Tuesday, July 02 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/07/01/dailyreading/" title="Daily Reading - Monday, July 01 2013" rel="bookmark">Daily Reading - Monday, July 01 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/30/dailyreading/" title="Daily Reading - Sunday, June 30 2013" rel="bookmark">Daily Reading - Sunday, June 30 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/29/dailyreading/" title="Daily Reading - Saturday, June 29 2013" rel="bookmark">Daily Reading - Saturday, June 29 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/28/dailyreading/" title="Daily Reading - Friday, June 28 2013" rel="bookmark">Daily Reading - Friday, June 28 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/27/dailyreading/" title="Daily Reading - Thursday, June 27 2013" rel="bookmark">Daily Reading - Thursday, June 27 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/26/dailyreading/" title="Daily Reading - Tuesday, June 26 2013" rel="bookmark">Daily Reading - Tuesday, June 26 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/25/dailyreading/" title="Daily Reading - Tuesday, June 25 2013" rel="bookmark">Daily Reading - Tuesday, June 25 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/24/dailyreading/" title="Daily Reading - Monday, June 24 2013" rel="bookmark">Daily Reading - Monday, June 24 2013</a>
+      </li>
+      
+      <li>
+        <a href="/blog/2013/06/23/dailyread/" title="Daily Reading - Saturday, June 23 2013" rel="bookmark">Daily Reading - Saturday, June 23 2013</a>
+      </li>
+      
+    </ul>        
+  </div>
+  <div class="widget">
+    <h2 class="widget-title">Categories</h2>
+    <ul>
+      
+      <li><a href="/categories/library/index.html">library (3)</a></li>
+      
+      <li><a href="/categories/guide/index.html">guide (1)</a></li>
+      
+      <li><a href="/categories/testing/index.html">testing (1)</a></li>
+      
+      <li><a href="/categories/dailyreading/index.html">dailyreading (18)</a></li>
+      
+      <li><a href="/categories/database/index.html">database (1)</a></li>
+      
+    </ul>
+    <h2 class="widget-title">Tags</h2>
+    <ul>
+      
+      <li><a href="/tags/entlib/index.html">entlib (3)</a></li>
+      
+      <li><a href="/tags/logging/index.html">logging (2)</a></li>
+      
+      <li><a href="/tags/unity/index.html">unity (2)</a></li>
+      
+      <li><a href="/tags/python/index.html">python (1)</a></li>
+      
+      <li><a href="/tags/setup/index.html">setup (1)</a></li>
+      
+      <li><a href="/tags/testing/index.html">testing (1)</a></li>
+      
+      <li><a href="/tags/jasmine/index.html">jasmine (1)</a></li>
+      
+      <li><a href="/tags/frontend/index.html">frontend (1)</a></li>
+      
+      <li><a href="/tags/dailyreading/index.html">dailyreading (18)</a></li>
+      
+      <li><a href="/tags/sqlserver/index.html">sqlserver (1)</a></li>
+      
+    </ul>          
+  </div>      
+</div>     
+    
+    <br class="clearboth"/>
+    <footer>
+      Powered by <a href="https://jekyllrb.com" rel="generator">Jekyll</a>
+    </footer>    
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>            
   </body>
 </html>

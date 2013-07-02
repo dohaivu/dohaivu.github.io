@@ -5,10 +5,47 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-01T08:42:49+07:00</lastBuildDate>
-        <pubDate>2013-07-01T08:42:49+07:00</pubDate>
+        <lastBuildDate>2013-07-02T08:36:22+07:00</lastBuildDate>
+        <pubDate>2013-07-02T08:36:22+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Tuesday, July 02 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/nzakas/enough-withthejavascriptalready&quot;&gt;Enough with the JavaScript already!&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://java.dzone.com/articles/design-patterns-after-design&quot;&gt;Design Patterns after Design is Done&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A study on design patterns and software quality at the University of Montreal (2008) found that design patterns in practice do not always improve code quality, reusability and expandability; and often makes code harder to understand. Some patterns are better than others: &lt;strong&gt;Composite&lt;/strong&gt; makes code easier to follow and easier to change. &lt;strong&gt;Abstract Factory&lt;/strong&gt; makes code more modular and reusable, but at the expense of understandability. &lt;strong&gt;Flyweight&lt;/strong&gt; makes code less expandable and reusable, and much harder to follow. Most developers don’t recognize or understand the &lt;strong&gt;Visitor&lt;/strong&gt; pattern. &lt;strong&gt;Observer&lt;/strong&gt; can be difficult to understand as well, although it does make the code more flexible and extendible. &lt;strong&gt;Chain of Responsibility&lt;/strong&gt; makes code harder to follow, and harder to change or fix safely. And &lt;strong&gt;Singleton&lt;/strong&gt;, of course, while simple to recognize and understand, can make code much harder to change.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re designing and writing new code, or changing code, or refactoring code, the best advice is:  &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Don’t use patterns unless you need to.&lt;/li&gt;
+&lt;li&gt;Don’t use patterns that you don’t fully understand.&lt;/li&gt;
+&lt;li&gt;Don’t expect that whoever is going to work on the code in the future to recognize and understand the patterns that you used – stick to common patterns, and make them explicit in comments where you think it is important or necessary.&lt;/li&gt;
+&lt;li&gt;When you’re changing code, take some time to look for and understand the patterns that might be in place, and decide whether it is worth preserving (or restoring) them: whether doing this will really make the code better and more understandable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/webdev/archive/2013/06/28/browser-link-feature-in-visual-studio-preview-2013.aspx&quot;&gt;Browser Link in VS 2013&lt;/a&gt;&lt;br&gt;
+In order to make this feature work, ensure that we have configured:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;xml language-xml&quot; data-lang=&quot;xml&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;appSettings&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;add&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;key=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;vs:EnableBrowserLink&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/appSettings&amp;gt;&lt;/span&gt;
+...
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;compilation&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;debug=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;targetFramework=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;4.5.1&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+...
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;modules&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;runAllManagedModulesForAllRequests=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+                <link>dohaivu.github.io/blog/2013/07/02/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/02/dailyreading</guid>
+                <pubDate>2013-07-02T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Monday, July 01 2013</title>
