@@ -5,8 +5,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-02T08:36:22+07:00</lastBuildDate>
-        <pubDate>2013-07-02T08:36:22+07:00</pubDate>
+        <lastBuildDate>2013-07-02T09:17:05+07:00</lastBuildDate>
+        <pubDate>2013-07-02T09:17:05+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -41,7 +41,17 @@ In order to make this feature work, ensure that we have configured:&lt;/p&gt;
 ...
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;modules&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;runAllManagedModulesForAllRequests=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
 ...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript&quot;&gt;Five Patterns to Help You Tame Asynchronous JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Callbacks&lt;/li&gt;
+&lt;li&gt;Observer Pattern&lt;/li&gt;
+&lt;li&gt;Messaging&lt;/li&gt;
+&lt;li&gt;Promises&lt;/li&gt;
+&lt;li&gt;Finite State Machines&lt;/li&gt;
+&lt;/ul&gt;
+</description>
                 <link>dohaivu.github.io/blog/2013/07/02/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/02/dailyreading</guid>
                 <pubDate>2013-07-02T00:00:00+07:00</pubDate>

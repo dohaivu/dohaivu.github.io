@@ -104,6 +104,10 @@ hr {
   font-size: 1.5em;
   font-weight: bold;
 }
+.navigation ul {
+  margin: 0 auto;
+  width:400px;
+}
 .navigation_menu-item {
   float:left;
   padding-left: 10px;
@@ -118,12 +122,13 @@ hr {
 }
 .about_gravatar {
   float:left;      
+  border-radius: 5px;
 }
 .about_description{
-  float:left;
+  padding: 5px;
 }
 .about_more {
-  float:left;
+  
 }
 /*----SOCIAL----*/
 .social {
@@ -133,8 +138,11 @@ hr {
   float: left;
 }
 /*----CONTENT----*/
+.main {
+  padding: 5px;
+}
 .content {
-  width:960px;
+  
 }
 .entry {
   /*margin-top: 50px;*/
@@ -186,14 +194,18 @@ footer {
     position:static;
     width:auto;
   }
-  
+  .social {
+    display: none;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
-    
+  .social {
+    display: none;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
