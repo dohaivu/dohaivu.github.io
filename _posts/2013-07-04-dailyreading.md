@@ -14,4 +14,19 @@ VS 2013 improves categories and sorting result in code analysis.
 [SQL 2014 In-Memory OLTP ‘Hekaton’: training videos and white papers](http://blogs.msdn.com/b/arvindsh/archive/2013/07/03/sql-2014-in-memory-oltp-hekaton-training-videos-and-white-papers.aspx)  
 A collection of videos and blog posts to get started with Hekaton.
 
+[Why Mac has Command key](http://folklore.org/StoryView.py?story=Swedish_Campground.txt)
+
+[Sizing (Web) components](https://medium.com/front-end-development/8f433689736f)  
+By using __EM__ unit, we can easily change component's size when its font size change.
+
+```css
+.Component {
+  font-size: 16px;
+  
+  width: 5em;
+  height: 2em;
+  border-radius: .5em;
+  border: 1px solid gold;
+}
+```
 
