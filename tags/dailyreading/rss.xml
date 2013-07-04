@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-02T18:36:21+07:00</lastBuildDate>
-        <pubDate>2013-07-02T18:36:21+07:00</pubDate>
+        <lastBuildDate>2013-07-04T09:23:32+07:00</lastBuildDate>
+        <pubDate>2013-07-04T09:23:32+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -589,6 +589,21 @@ In order to make this feature work, ensure that we have configured:&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/07/02/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/02/dailyreading</guid>
                 <pubDate>2013-07-02T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Thursday, July 04 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/visualstudioalm/archive/2013/07/03/what-is-new-in-code-analysis-for-visual-studio-2013.aspx&quot;&gt;What is New in Code Analysis for Visual Studio 2013&lt;/a&gt;&lt;br&gt;
+VS 2013 improves categories and sorting result in code analysis.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/arvindsh/archive/2013/07/03/sql-2014-in-memory-oltp-hekaton-training-videos-and-white-papers.aspx&quot;&gt;SQL 2014 In-Memory OLTP ‘Hekaton’: training videos and white papers&lt;/a&gt;&lt;br&gt;
+A collection of videos and blog posts to get started with Hekaton.&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/04/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/04/dailyreading</guid>
+                <pubDate>2013-07-04T00:00:00+07:00</pubDate>
         </item>
 
 
