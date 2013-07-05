@@ -51,6 +51,40 @@
   
   <div class="entry">
     <h1 class="entry-title">
+      <a href="/blog/2013/06/15/a-look-into-hekaton/" title="A look into SQL Server In-Memory Hekaton engine" rel="bookmark">A look into SQL Server In-Memory Hekaton engine</a>
+    </h1>
+    <div class="entry-content full-content">
+      <p>Hekaton is a new in-memory OLTP database engine in SQL Server 2014. It&#39;s inside SQL Server, so it does not require a separate hardware, or seperate database.</p>
+
+
+      
+        <a href="/blog/2013/06/15/a-look-into-hekaton/">read more</a>
+      
+      <div class="clear"></div>
+    </div>
+    <p class="alt-font tight">
+      Posted in&nbsp;
+      
+      <a href="/categories/database" title="database" rel="category tag">database</a>
+      
+	  
+	  <!-- &nbsp;&nbsp;&nbsp;
+		Tags &nbsp;
+		
+			<a href="/tags/sqlserver/">sqlserver</a> &nbsp;
+		
+    </p> -->    
+    <p class="by-line">
+      <span class="date full-date">
+        <abbr class="published" title="2013-06-15 00:00:00 +0700">15 Jun 2013</abbr>
+      </span>
+    </p>
+    <div class="clear"></div>
+  </div>
+  <div class="rule"><hr/></div>
+
+  <div class="entry">
+    <h1 class="entry-title">
       <a href="/blog/2013/06/14/dailyread/" title="Daily Reading Friday, June 14 2013" rel="bookmark">Daily Reading Friday, June 14 2013</a>
     </h1>
     <div class="entry-content full-content">
@@ -163,46 +197,6 @@
 
   <div class="entry">
     <h1 class="entry-title">
-      <a href="/blog/2013/05/18/logging-application-block/" title="Logging Application Block" rel="bookmark">Logging Application Block</a>
-    </h1>
-    <div class="entry-content full-content">
-      <p>The Logging block in Enterprise Library 6 is enhanced with some nice features:
-- Support asynchronous
-- JSON formatter
-- Priority filter
-- LoggingEnabled</p>
-
-
-      
-        <a href="/blog/2013/05/18/logging-application-block/">read more</a>
-      
-      <div class="clear"></div>
-    </div>
-    <p class="alt-font tight">
-      Posted in&nbsp;
-      
-      <a href="/categories/library" title="library" rel="category tag">library</a>
-      
-	  
-	  <!-- &nbsp;&nbsp;&nbsp;
-		Tags &nbsp;
-		
-			<a href="/tags/entlib/">entlib</a> &nbsp;
-		
-			<a href="/tags/logging/">logging</a> &nbsp;
-		
-    </p> -->    
-    <p class="by-line">
-      <span class="date full-date">
-        <abbr class="published" title="2013-05-18 00:00:00 +0700">18 May 2013</abbr>
-      </span>
-    </p>
-    <div class="clear"></div>
-  </div>
-  <div class="rule"><hr/></div>
-
-  <div class="entry">
-    <h1 class="entry-title">
       <a href="/blog/2013/05/17/python-package-installation/" title="Python Package Installation" rel="bookmark">Python Package Installation</a>
     </h1>
     <div class="entry-content full-content">
@@ -237,199 +231,6 @@
   </div>
   <div class="rule"><hr/></div>
 
-  <div class="entry">
-    <h1 class="entry-title">
-      <a href="/blog/2013/05/12/unity/" title="Unity 3.0" rel="bookmark">Unity 3.0</a>
-    </h1>
-    <div class="entry-content full-content">
-      <h2 id="toc_0">Service Locator Pattern</h2>
-
-<p>Dependency Injection adopt push model. Another class is responsible for pushing(injecting) the dependencies into high level client classes at runtime</p>
-
-<h3 id="toc_1">Object composition</h3>
-
-<p>Dependency Injection will inject your dependencies at runtime. Your application must know when and where to compose objects before performing any task. Example: console app: <strong>Main</strong>, web app: <strong>Global.asax</strong></p>
-
-<h3 id="toc_2">Object Lifetime</h3>
-
-<p>Each class will occupy a memory, so you have to determine when to inject objects and how long they will live</p>
-
-<h3 id="toc_3">Type of Injection</h3>
-
-<p><strong>Property Setter Injection</strong></p>
-
-<p><strong>Method call Injection</strong></p>
-
-<p><strong>Constructor Injection</strong></p>
-
-<h3 id="toc_4">Dependency Injection with Unity</h3>
-
-<p>Life cycle: Register, Resolve, Dispose</p>
-
-<h4 id="toc_5">Register</h4>
-
-<p>Register dependency types that need to be instantiated and injected to a target object.</p>
-<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="n">UnityContainer</span> <span class="n">container</span> <span class="p">=</span> <span class="k">new</span> <span class="n">UnityContainer</span><span class="p">();</span>
-<span class="n">container</span><span class="p">.</span><span class="n">RegisterType</span><span class="p">&lt;</span><span class="n">IBookRepository</span><span class="p">,</span> <span class="n">BookRepository</span><span class="p">&gt;();</span>
-</code></pre></div>
-<h4 id="toc_6">Resolve</h4>
-
-<p>Instantiate object and dependency objects through type mapping.</p>
-<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="kt">var</span> <span class="n">controller</span> <span class="p">=</span> <span class="n">container</span><span class="p">.</span><span class="n">Resolve</span><span class="p">&lt;</span><span class="n">BooksController</span><span class="p">&gt;()</span>
-</code></pre></div>
-<p>It will instantiate </p>
-
-      
-      <div class="clear"></div>
-    </div>
-    <p class="alt-font tight">
-      Posted in&nbsp;
-      
-      <a href="/categories/library" title="library" rel="category tag">library</a>
-      
-	  
-	  <!-- &nbsp;&nbsp;&nbsp;
-		Tags &nbsp;
-		
-			<a href="/tags/entlib/">entlib</a> &nbsp;
-		
-			<a href="/tags/unity/">unity</a> &nbsp;
-		
-    </p> -->    
-    <p class="by-line">
-      <span class="date full-date">
-        <abbr class="published" title="2013-05-12 00:00:00 +0700">12 May 2013</abbr>
-      </span>
-    </p>
-    <div class="clear"></div>
-  </div>
-  <div class="rule"><hr/></div>
-
-  <div class="entry">
-    <h1 class="entry-title">
-      <a href="/blog/2013/04/26/enterprise-library-6/" title="Enterprise Library 6" rel="bookmark">Enterprise Library 6</a>
-    </h1>
-    <div class="entry-content full-content">
-      <p>I&#39;m very excited that <a href="http://blogs.msdn.com/b/agile/archive/2013/04/25/just-released-microsoft-enterprise-library-6.aspx">Enterprise Library 6 has released</a>. I have used this library for a long time. It&#39;s very useful and powerful, it saves me a lot of time.</p>
-
-<p>I will explore what changes in this release</p>
-
-<p>Links:
-- <a href="http://msdn.microsoft.com/en-US/library/dn169621.aspx">MSDN Enterprise Library 6</a>
-- <a href="http://entlib.codeplex.com/wikipage?title=EntLib6&amp;referringTitle=Home">Enterprise Library 6 Project Home</a></p>
-
-<p><strong>What is Enterprise Library?</strong></p>
-
-<p>Enterprise Library is a collection of application blocks, each aimed at managing specific crosscutting concerns. Crosscutting concerns are task thats you implement in various places in your application. The risk of that is your team will implement differently in your application. Enterprise Library application block make it easy to manage by providing generic and configurable functionality that you can customize and manage.</p>
-
-<p>Enterprise Library 6 contains the following application blocks:
-- Data Access
-- Exception Handling
-- Logging
-- Policy Injection
-- Semantic Logging
-- Transient Fault Handling
-- Unity
-- Validation</p>
-
-<p>I will develop a Web app to explore how it work</p>
-
-<h2 id="toc_0">Install Enterprise Library 6</h2>
-
-<ul>
-<li>Reference assemblies to your project if you <a href="http://www.microsoft.com/en-us/download/details.aspx?id=38789">downloaded</a> and installed it manually .</li>
-<li>Use NuGet package manager</li>
-</ul>
-
-<h2 id="toc_1">Data Access Application Block</h2>
-
-<p>The Data Access Application Block provide two key advantages: 
-- abstracts the actual database, so you can switch from one database to another
-- easy to write the most commonly used tasks.</p>
-
-<h3 id="toc_2">Configuring the Block and add assemblies</h3>
-
-<p>We can configure the default database in web.config. <a href="http://www.microsoft.com/en-us/download/details.aspx?id=38789">Enterprise Library configuration tool</a> provide us a GUI interface for easier to config</p>
-<div class="highlight"><pre><code class="xml language-xml" data-lang="xml"><span class="cp">&lt;?xml version=&quot;1.0&quot;?&gt;</span>
-<span class="nt">&lt;configuration&gt;</span>
-<span class="nt">&lt;configSections&gt;</span>
-  <span class="nt">&lt;section</span> <span class="na">name=</span><span class="s">&quot;dataConfiguration&quot;</span> <span class="na">type=</span><span class="s">&quot;Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DatabaseSettings, Microsoft.Practices.EnterpriseLibrary.Data&quot;</span> <span class="na">requirePermission=</span><span class="s">&quot;true&quot;</span><span class="nt">/&gt;</span>
-<span class="nt">&lt;/configSections&gt;</span>
-<span class="nt">&lt;dataConfiguration</span> <span class="na">defaultDatabase=</span><span class="s">&quot;BookDatabase&quot;</span><span class="nt">/&gt;</span>
-<span class="nt">&lt;connectionStrings&gt;</span>
-  <span class="nt">&lt;add</span> <span class="na">name=</span><span class="s">&quot;BookDatabase&quot;</span> <span class="na">connectionString=</span><span class="s">&quot;Server=SqlServer;Database=Book;User Id=sa;Password=Password@123;Connection Timeout=30;&quot;</span> <span class="na">providerName=</span><span class="s">&quot;System.Data.SqlClient&quot;</span> <span class="nt">/&gt;</span>
-<span class="nt">&lt;/connectionStrings&gt;</span>
-...
-<span class="nt">&lt;/configuration&gt;</span>
-</code></pre></div>
-<h3 id="toc_3">Create database instances</h3>
-<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="c1">//load config from web.config</span>
-<span class="n">DatabaseProviderFactory</span> <span class="n">dbFactory</span> <span class="p">=</span> <span class="k">new</span> <span class="n">DatabaseProviderFactory</span><span class="p">();</span>
-<span class="c1">//create database use default config</span>
-<span class="n">SqlDatabase</span> <span class="n">db</span> <span class="p">=</span> <span class="n">dbFactory</span><span class="p">.</span><span class="n">CreateDefault</span><span class="p">()</span> <span class="k">as</span> <span class="n">SqlDatabase</span><span class="p">;</span>            
-</code></pre></div>
-<h3 id="toc_4">Manage connections</h3>
-
-<p>ADO.NET often holds a pool of connections. ADO.NET automatically retrieves connections from the pool when possible, otherwise it will create a new connection. It also decide when and whether to close the underlying connections and dispose it.</p>
-
-<p>The Data Access Block helps you manage your database connection automatically.</p>
-
-<p><strong>ExecuteDataSet</strong> method will open and close connection automatically. In contrast, <strong>ExecuteReader</strong> open connection, but do not close it automatically. You can change <strong>CommandBahavior</strong> property by setting it to <strong>CloseConnection</strong>, so that it will close database connection automatically when you dispose the reader.</p>
-
-<h4 id="toc_5">Transactions</h4>
-
-<p><strong>Connection based transaction</strong></p>
-<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="k">using</span> <span class="p">(</span><span class="n">DbConnection</span> <span class="n">conn</span> <span class="p">=</span> <span class="n">db</span><span class="p">.</span><span class="n">CreateConnection</span><span class="p">())</span>
-<span class="p">{</span>
-  <span class="n">conn</span><span class="p">.</span><span class="n">Open</span><span class="p">();</span>
-  <span class="n">DbTransaction</span> <span class="n">trans</span> <span class="p">=</span> <span class="n">conn</span><span class="p">.</span><span class="n">BeginTransaction</span><span class="p">();</span>
-  <span class="k">try</span>
-  <span class="p">{</span>
-    <span class="c1">// execute commands, passing in the current transaction to each one</span>
-    <span class="n">db</span><span class="p">.</span><span class="n">ExecuteNonQuery</span><span class="p">(</span><span class="n">cmdA</span><span class="p">,</span> <span class="n">trans</span><span class="p">);</span>
-    <span class="n">db</span><span class="p">.</span><span class="n">ExecuteNonQuery</span><span class="p">(</span><span class="n">cmdB</span><span class="p">,</span> <span class="n">trans</span><span class="p">);</span>
-    <span class="n">trans</span><span class="p">.</span><span class="n">Commit</span><span class="p">();</span> <span class="c1">// commit the transaction</span>
-  <span class="p">}</span>
-  <span class="k">catch</span>
-  <span class="p">{</span>
-    <span class="n">trans</span><span class="p">.</span><span class="n">Rollback</span><span class="p">();</span> <span class="c1">// rollback the transaction</span>
-  <span class="p">}</span>
-<span class="p">}</span> 
-</code></pre></div>
-<p><strong>Distributed Transaction</strong>: access different database as part of the same transaction. Data Access will automatically detect if commands are executed within the scope of a transaction</p>
-<div class="highlight"><pre><code class="csharp language-csharp" data-lang="csharp"><span class="k">using</span> <span class="p">(</span><span class="n">TransactionScope</span> <span class="n">scope</span> <span class="p">=</span> <span class="k">new</span> <span class="n">TransactionScope</span><span class="p">(</span><span class="n">TransactionScopeOption</span><span class="p">.</span><span class="n">RequiresNew</span><span class="p">))</span>
-<span class="p">{</span>
-  <span class="c1">// perform data access here</span>
-<span class="p">}</span> 
-</code></pre></div>
-      
-      <div class="clear"></div>
-    </div>
-    <p class="alt-font tight">
-      Posted in&nbsp;
-      
-      <a href="/categories/library" title="library" rel="category tag">library</a>
-      
-	  
-	  <!-- &nbsp;&nbsp;&nbsp;
-		Tags &nbsp;
-		
-			<a href="/tags/entlib/">entlib</a> &nbsp;
-		
-			<a href="/tags/logging/">logging</a> &nbsp;
-		
-			<a href="/tags/unity/">unity</a> &nbsp;
-		
-    </p> -->    
-    <p class="by-line">
-      <span class="date full-date">
-        <abbr class="published" title="2013-04-26 00:00:00 +0700">26 Apr 2013</abbr>
-      </span>
-    </p>
-    <div class="clear"></div>
-  </div>
-  <div class="rule"><hr/></div>
-
 
 <div class="pagination">
   <span class="previous">
@@ -449,6 +250,10 @@
   <div>        
     <h2 class="widget-title">Recent Posts</h2>
     <ul>
+      
+      <li>
+        <a href="/blog/2013/07/05/dailyreading/" title="Daily Reading - Friday, July 05 2013" rel="bookmark">Daily Reading - Friday, July 05 2013</a>
+      </li>
       
       <li>
         <a href="/blog/2013/07/04/dailyreading/" title="Daily Reading - Thursday, July 04 2013" rel="bookmark">Daily Reading - Thursday, July 04 2013</a>
@@ -486,23 +291,17 @@
         <a href="/blog/2013/06/26/dailyreading/" title="Daily Reading - Tuesday, June 26 2013" rel="bookmark">Daily Reading - Tuesday, June 26 2013</a>
       </li>
       
-      <li>
-        <a href="/blog/2013/06/25/dailyreading/" title="Daily Reading - Tuesday, June 25 2013" rel="bookmark">Daily Reading - Tuesday, June 25 2013</a>
-      </li>
-      
     </ul>        
   </div>
   <div class="widget">
     <h2 class="widget-title">Categories</h2>
     <ul>
       
-      <li><a href="/categories/library/index.html">library (3)</a></li>
-      
       <li><a href="/categories/guide/index.html">guide (1)</a></li>
       
       <li><a href="/categories/testing/index.html">testing (1)</a></li>
       
-      <li><a href="/categories/dailyreading/index.html">dailyreading (19)</a></li>
+      <li><a href="/categories/dailyreading/index.html">dailyreading (20)</a></li>
       
       <li><a href="/categories/database/index.html">database (1)</a></li>
       
@@ -511,12 +310,6 @@
     </ul>
     <h2 class="widget-title">Tags</h2>
     <ul>
-      
-      <li><a href="/tags/entlib/index.html">entlib (3)</a></li>
-      
-      <li><a href="/tags/logging/index.html">logging (2)</a></li>
-      
-      <li><a href="/tags/unity/index.html">unity (2)</a></li>
       
       <li><a href="/tags/python/index.html">python (1)</a></li>
       
@@ -528,7 +321,7 @@
       
       <li><a href="/tags/frontend/index.html">frontend (1)</a></li>
       
-      <li><a href="/tags/dailyreading/index.html">dailyreading (19)</a></li>
+      <li><a href="/tags/dailyreading/index.html">dailyreading (20)</a></li>
       
       <li><a href="/tags/sqlserver/index.html">sqlserver (1)</a></li>
       

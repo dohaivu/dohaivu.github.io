@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-04T09:23:32+07:00</lastBuildDate>
-        <pubDate>2013-07-04T09:23:32+07:00</pubDate>
+        <lastBuildDate>2013-07-05T08:57:28+07:00</lastBuildDate>
+        <pubDate>2013-07-05T08:57:28+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -600,10 +600,58 @@ VS 2013 improves categories and sorting result in code analysis.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/arvindsh/archive/2013/07/03/sql-2014-in-memory-oltp-hekaton-training-videos-and-white-papers.aspx&quot;&gt;SQL 2014 In-Memory OLTP ‘Hekaton’: training videos and white papers&lt;/a&gt;&lt;br&gt;
 A collection of videos and blog posts to get started with Hekaton.&lt;/p&gt;
-</description>
+
+&lt;p&gt;&lt;a href=&quot;http://folklore.org/StoryView.py?story=Swedish_Campground.txt&quot;&gt;Why Mac has Command key&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/front-end-development/8f433689736f&quot;&gt;Sizing (Web) components&lt;/a&gt;&lt;br&gt;
+By using &lt;strong&gt;EM&lt;/strong&gt; unit, we can easily change component&amp;#39;s size when its font size change.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;16px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;5em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;radius&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.5em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1px&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;gold&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
                 <link>dohaivu.github.io/blog/2013/07/04/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/04/dailyreading</guid>
                 <pubDate>2013-07-04T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Friday, July 05 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://kraigbrockschmidt.com/blog/?p=961&quot;&gt;Cool New APIs in Windows 8.1 #1: WebView for HTML&lt;/a&gt;&lt;br&gt;
+It allows the app to invoke script within the webview and the webview to raise events to the app. It&amp;#39;s pretty cool. See more &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/windows/apps/windows.ui.xaml.controls.webview.aspx&quot;&gt;msdn WebView&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.markarteaga.com/top-reasons-developers-should-use-windows-azure-mobile-services&quot;&gt;Top Reasons Developers Should Use Windows Azure Mobile Services&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.datastax.com/dev/blog/datastax-csharp-driver-is-now-final&quot;&gt;DataStax&amp;#39;s Cassandra C# Driver is now final&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This C# driver also comes with an ADO.NET module to make it simpler to integrate with existing applications or libraries and a Linq module to improve developer productivity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.microsoft.co.il/blogs/sasha/archive/2013/07/02/visual-studio-2013-heap-view.aspx&quot;&gt;Visual Studio 2013 Heap View&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger&quot;&gt;Puma vs Phusion Passenger&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/news/2013/07/async-await-pitfalls&quot;&gt;Async/Await – Performance Overheads and Other Pitfalls&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/Win8-LOB-Options&quot;&gt;Windows and Line of Business Applications: No Good Options&lt;/a&gt;&lt;br&gt;
+WinRT is not ready, and it&amp;#39;s not full .NET. Silverlight is dead. WPF is no improvement. The future of LOB app is HTML5. WebGL, Canvas, WebSocket, WebWorker... make web site more application friendlier. Typescript, Dart allow to write a large scale web app.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://fi.co/posts/1221&quot;&gt;Elon Musk Explains the Fallacy of Learning from Failure&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Failure sucks. If anyone tells you they learn more from failure than success, then they’re wrong. You learn more from success. There are many more ways to fail than there are to succeed. If you&amp;#39;ve found the one thing that succeeds, that’s great.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/05/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/05/dailyreading</guid>
+                <pubDate>2013-07-05T00:00:00+07:00</pubDate>
         </item>
 
 
