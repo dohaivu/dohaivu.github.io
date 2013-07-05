@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-05T10:42:18+07:00</lastBuildDate>
-        <pubDate>2013-07-05T10:42:18+07:00</pubDate>
+        <lastBuildDate>2013-07-05T22:40:25+07:00</lastBuildDate>
+        <pubDate>2013-07-05T22:40:25+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -643,8 +643,7 @@ It allows the app to invoke script within the webview and the webview to raise e
 &lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/Win8-LOB-Options&quot;&gt;Windows and Line of Business Applications: No Good Options&lt;/a&gt;&lt;br&gt;
 WinRT is not ready, and it&amp;#39;s not full .NET. Silverlight is dead. WPF is no improvement. The future of LOB app is HTML5. WebGL, Canvas, WebSocket, WebWorker... make web site more application friendlier. Typescript, Dart allow to write a large scale web app.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://strongloop.com/community/nodejs-infographic&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;http://fi.co/posts/1221&quot;&gt;Elon Musk Explains the Fallacy of Learning from Failure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fi.co/posts/1221&quot;&gt;Elon Musk Explains the Fallacy of Learning from Failure&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;Failure sucks. If anyone tells you they learn more from failure than success, then they’re wrong. You learn more from success. There are many more ways to fail than there are to succeed. If you&amp;#39;ve found the one thing that succeeds, that’s great.&amp;quot;&lt;/p&gt;
