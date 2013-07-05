@@ -4,7 +4,7 @@ title: "Logging Application Block"
 description: ""
 categories: [library]
 tags: [entlib, logging]
-published: true
+published: false
 ---
 The Logging block in Enterprise Library 6 is enhanced with some nice features:
 - Support asynchronous
