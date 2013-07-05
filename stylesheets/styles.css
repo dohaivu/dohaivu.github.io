@@ -46,7 +46,7 @@ a small {
   display:block;
 }
 
-ul {
+ul, ol {
   list-style-type: none;
   padding: 0px;
 }
@@ -106,7 +106,7 @@ hr {
 }
 .navigation ul {
   margin: 0 auto;
-  width:400px;
+  display: inline-block;
 }
 .navigation_menu-item {
   float:left;
