@@ -5,10 +5,29 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-05T22:50:46+07:00</lastBuildDate>
-        <pubDate>2013-07-05T22:50:46+07:00</pubDate>
+        <lastBuildDate>2013-07-06T09:13:55+07:00</lastBuildDate>
+        <pubDate>2013-07-06T09:13:55+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Saturday, July 06 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/&quot;&gt;DevTools Extensions For Web App Developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/mongodb-limiting-collection&quot;&gt;MongoDB - Limiting Collection Size&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://java.dzone.com/articles/redis-caching-server&quot;&gt;Redis - Caching Server&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.simwood.com/2013/06/real-time-big-data/&quot;&gt;Real-time big-data!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.leadingagile.com/2013/07/how-do-you-know-your-metrics-are-any-good&quot;&gt;How Do You Know Your Metrics Are Any Good&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/06/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/06/dailyreading</guid>
+                <pubDate>2013-07-06T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Getting started with OWIN</title>
