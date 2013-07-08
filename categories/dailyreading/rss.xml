@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-07T08:25:45+07:00</lastBuildDate>
-        <pubDate>2013-07-07T08:25:45+07:00</pubDate>
+        <lastBuildDate>2013-07-08T08:21:29+07:00</lastBuildDate>
+        <pubDate>2013-07-08T08:21:29+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -695,6 +695,27 @@ Share files through WebRTC without need for plug-ins, software.&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/07/07/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/07/dailyreading</guid>
                 <pubDate>2013-07-07T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Monday, July 08 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://startups.fm/2013/07/05/cube26-making-it-possible-for-computers-to-understand-our-emotions.html&quot;&gt;Cube26, making it possible for computers to understand our emotions&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://epf.io/&quot;&gt;Ember.js Persistence Foundation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jhlywa/chess.js&quot;&gt;chess.js A Javascript chess library for chess move generation/validation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/codenvy-interview&quot;&gt;The Technology behind Codenvy. An Interview with Tyler Jewell, CEO&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designmodo.com/ui-principles-interaction-design/&quot;&gt;UI Principles for Great Interaction Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.netmagazine.com/tutorials/accessible-rwd&quot;&gt;Accessible RWD&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/08/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/08/dailyreading</guid>
+                <pubDate>2013-07-08T00:00:00+07:00</pubDate>
         </item>
 
 
