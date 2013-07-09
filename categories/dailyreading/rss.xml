@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-08T18:28:31+07:00</lastBuildDate>
-        <pubDate>2013-07-08T18:28:31+07:00</pubDate>
+        <lastBuildDate>2013-07-09T11:12:55+07:00</lastBuildDate>
+        <pubDate>2013-07-09T11:12:55+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -716,6 +716,39 @@ Share files through WebRTC without need for plug-ins, software.&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/07/08/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/08/dailyreading</guid>
                 <pubDate>2013-07-08T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, July 09 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.office.com/b/office365tech/archive/2013/07/08/what-powers-power-bi-in-office-365.aspx&quot;&gt;What powers Power BI in Office 365?&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Power BI for Office 365 is a new self-service business intelligence (BI) offering enabling businesses to gain insights from their data in powerful new ways within Excel and Office 365. Customers now have the ability to easily search, discover and access data inside and outside of their organization and, with just a few clicks, shape and transform that data. They can also analyze and create stunning interactive visualizations that uncover hidden insights to share and collaborate from virtually anywhere, on nearly any device.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://promisesaplus.com/&quot;&gt;Promises/A+&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This proposal clarifies the behavioral clauses of the Promises/A proposal, extending it to cover de facto behaviors and omitting parts that are underspecified or problematic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.panopticoncentral.net/?p=9821&quot;&gt;Javascript Runtime Hosting&lt;/a&gt;&lt;br&gt;
+With IE11, we can use web technology to develop desktop application beside Win32 and .NET Winform, WPF. It&amp;#39;s cool but there is no document or examples right now. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mikehadlow.blogspot.ca/2012/06/when-should-i-use-orm.html&quot;&gt;When should I use an ORM?&lt;/a&gt;&lt;br&gt;
+We should use ORM when domain model is not complex and throughput is not high.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/&quot;&gt;Signs you&amp;#39;re veering from good API design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://worrydream.com/Tangle/&quot;&gt;tangle -  reactive document library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ericosiu.com/lessons-growth-team-1/&quot;&gt;20 Lessons I Learned Leading A Growth/Marketing Team (Part 1)&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/09/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/09/dailyreading</guid>
+                <pubDate>2013-07-09T00:00:00+07:00</pubDate>
         </item>
 
 
