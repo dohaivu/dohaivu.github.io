@@ -14,7 +14,7 @@ title: A Passion Developer
       {% endif %}
       <div class="clear"></div>
     </div>
-    <p class="alt-font tight">
+    <p class="category">
       Posted in&nbsp;
       {% for category in post.categories %}
       <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
@@ -26,8 +26,8 @@ title: A Passion Developer
 			<a href="/tags/{{ tag }}/">{{ tag }}</a> &nbsp;
 		{% endfor %}
     </p> -->    
-    <p class="by-line">
-      <span class="date full-date">
+    <p>
+      <span class="full-date">
         <abbr class="published" title="{{ post.date }}">{{ post.date | date_to_string }}</abbr>
       </span>
     </p>

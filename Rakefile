@@ -123,17 +123,16 @@ end
 
 desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
-  FileUtils.remove_dir '_public', true
-  FileUtils.mkdir("_public")
-  FileUtils.cp_r "_site/.", "_public"
+  #FileUtils.remove_dir '_public', true
+  #FileUtils.mkdir("_public")
+  #FileUtils.cp_r "_site/.", "_public"
   FileUtils.chdir "_public"
-  puts FileUtils.getwd
-  system "git init"
+  puts FileUtils.getwd  
   system "git add ."  
-  message = "Site updated at #{Time.now.utc}"
   system "git commit -m \"Site updated at #{Time.now.utc}\""
-  system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
-  system "git push origin master --force"
+  system "git push"
+  #system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
+  #system "git push origin master --force"
 end
 
 def ask(message, valid_options)

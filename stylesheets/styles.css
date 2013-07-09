@@ -4,18 +4,18 @@ body {
   max-width: 1024px;
   margin: 0 auto;  
   font:1.2em/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#555;
   font-weight:300;
   min-height: 800px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#444;
   margin:0 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
@@ -75,7 +75,7 @@ pre {
 
 
 strong {
-  color:#222;
+  color:#444;
   font-weight:700;
 }
 
@@ -115,6 +115,9 @@ hr {
 .navigation li:first-child {  
   padding-left: 0px;
 }
+.navigation a {
+  color: rgb(153, 153, 153);
+}
 
 /*----ABOUT----*/
 .about {
@@ -152,8 +155,18 @@ hr {
   list-style-type: disc;
   padding-left: 20px;
 }
+.entry .category {
+  font-size: 0.8em;
+}
+.full-date .published {
+  font-size: 0.8em;
+}
 /*----CATEGORY----*/
-
+.category_full-date {
+  float:right;
+  padding-right: 300px;
+  font-size: 0.8em;
+}
 /*----FOOTER----*/
 footer {
   margin: 0 auto;
