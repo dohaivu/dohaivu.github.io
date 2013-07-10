@@ -5,10 +5,56 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-09T11:12:55+07:00</lastBuildDate>
-        <pubDate>2013-07-09T11:12:55+07:00</pubDate>
+        <lastBuildDate>2013-07-10T08:26:13+07:00</lastBuildDate>
+        <pubDate>2013-07-10T08:26:13+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Wednesday, July 10 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://feeds.hanselman.com/%7E/43282970/0/scotthanselman%7ECrossPlatform-Portable-Class-Libraries-with-NET-are-Happening.aspx&quot;&gt;Cross-Platform Portable Class Libraries with .NET are Happening&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.chromium.org/2013/07/richer-access-to-google-services-and.html&quot;&gt;Richer access to Google services and better OS integration in Chrome packaged apps&lt;/a&gt;&lt;br&gt;
+We can use Identity API, In App Payments API, Analytics API, Bluetooth API, Native Messaging API to develop desktop-like Chrome packaged app.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://aws.typepad.com/aws/2013/07/resource-permissions-for-ec2-and-rds-resources.html&quot;&gt;Resource-Level Permissions for EC2 and RDS Resources&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://skofo.github.io/blog/why-ruby-rocks/&quot;&gt;Why Ruby rocks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/&quot;&gt;Web Audio API comes to Firefox&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Here are some examples of the features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scheduling events to happen at exact times during audio playbacks&lt;/li&gt;
+&lt;li&gt;Various types of audio filters to create effects such as echo, noise cancellation, etc.&lt;/li&gt;
+&lt;li&gt;Sound synthesis to create electronic music&lt;/li&gt;
+&lt;li&gt;3D positional audio to simulate effects such as a sound source moving around the scene in a game&lt;/li&gt;
+&lt;li&gt;Integration for WebRTC to apply effects to sound coming in from external input (a WebRTC call, a guitar plugged in to your device, etc.) or to sound which is transmitted to the other party in a WebRTC call&lt;/li&gt;
+&lt;li&gt;Analysing the audio data in order to create sound visualizers, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html&quot;&gt;TIOBE Programming Community Index for July 2013&lt;/a&gt;&lt;br&gt;
+PHP is raising again.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best&quot;&gt;How to Work Remotely and Still Be the Best&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Getting started with remote work can be quite an adjustment, both for you and the client. I’ve had it go very right, and very wrong. But, when it goes right, it can be an excellent way for clients or employeers to solve the “talent crunch” problem, and create a wider range of opportunities for developers who live outside major technological centers or “startup” hubs. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pauloortins.com/lessons-unit-tests/&quot;&gt;12 Lessons I learned using unit tests/TDD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.brentozar.com/archive/2013/07/cassandra-and-net&quot;&gt;Cassandra and .NET&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/10/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/10/dailyreading</guid>
+                <pubDate>2013-07-10T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Tuesday, July 09 2013</title>
