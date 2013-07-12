@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-11T17:22:21+07:00</lastBuildDate>
-        <pubDate>2013-07-11T17:22:21+07:00</pubDate>
+        <lastBuildDate>2013-07-12T08:43:20+07:00</lastBuildDate>
+        <pubDate>2013-07-12T08:43:20+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -829,6 +829,31 @@ It&amp;#39;s going to be not a fiction any more. There is a company building it.
                 <link>dohaivu.github.io/blog/2013/07/11/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/11/dailyreading</guid>
                 <pubDate>2013-07-11T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Friday, July 12 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-name-your-sass-variables-modularly/&quot;&gt;Quick Tip: Name Your SASS Variables Modularly&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://thetechblock.com/150-sites-free-fonts/&quot;&gt;15 sites to find free fonts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/webdev/archive/2013/07/11/enable-edit-and-continue-debugging-option-is-now-on-by-default-for-new-web-applications-in-vs2013-preview.aspx&quot;&gt;“Enable Edit and Continue” is now on by Default&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/interoperability/archive/2013/07/11/new-open-source-releases-reactive-extensions-rx-libraries-for-python-and-ruby.aspx&quot;&gt;Reactive Extensions (Rx) libraries for Python and Ruby&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ng-newsletter.com/posts/validations.html&quot;&gt;Form validation with AngularJS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://odiseo.net/javascript/front-end-optimizations-you-can-do-right-now-on-your-existing-code&quot;&gt;Frontend Optimizations you can do right now&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/inattention-blindness-maybe-users-really-dont-see&quot;&gt;Inattention Blindness – Maybe Users Really Don’t See&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designerfund.com/bridge/interviewing-with-startups-tips-for-designers/&quot;&gt;Interviewing with Startups: Tips for Designers&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/12/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/12/dailyreading</guid>
+                <pubDate>2013-07-12T00:00:00+07:00</pubDate>
         </item>
 
 
