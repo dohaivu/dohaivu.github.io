@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-12T08:43:20+07:00</lastBuildDate>
-        <pubDate>2013-07-12T08:43:20+07:00</pubDate>
+        <lastBuildDate>2013-07-13T15:24:19+07:00</lastBuildDate>
+        <pubDate>2013-07-13T15:24:19+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -854,6 +854,19 @@ It&amp;#39;s going to be not a fiction any more. There is a company building it.
                 <link>dohaivu.github.io/blog/2013/07/12/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/12/dailyreading</guid>
                 <pubDate>2013-07-12T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Saturday, July 13 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://seravo.fi/2013/javascript-the-winning-style&quot;&gt;JavaScript, the winning style&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/nuodb-architecture-1&quot;&gt;Exploring the Architecture of the NuoDB Database&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/13/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/13/dailyreading</guid>
+                <pubDate>2013-07-13T00:00:00+07:00</pubDate>
         </item>
 
 
