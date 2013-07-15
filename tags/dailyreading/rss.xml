@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-13T15:24:19+07:00</lastBuildDate>
-        <pubDate>2013-07-13T15:24:19+07:00</pubDate>
+        <lastBuildDate>2013-07-15T12:02:22+07:00</lastBuildDate>
+        <pubDate>2013-07-15T12:02:22+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -867,6 +867,37 @@ It&amp;#39;s going to be not a fiction any more. There is a company building it.
                 <link>dohaivu.github.io/blog/2013/07/13/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/13/dailyreading</guid>
                 <pubDate>2013-07-13T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Monday, July 15 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://paulgraham.com/ds.html&quot;&gt;Do Things that Don&amp;#39;t Scale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://net.tutsplus.com/tutorials/javascript-ajax/eight-cool-features-coming-in-es6/&quot;&gt;Eight Cool Features Coming in ES6&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.judegomila.com/post/55386351452/beyond-helium&quot;&gt;Beyond Helium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/ie11-developer-tools/&quot;&gt;What’s New in IE11′s Developer Tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.10gen.com/blog/post/top-5-slides-and-videos-mongonyc&quot;&gt;Top 5 Slides and Videos from MongoNYC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://williampeng.com/post/55394072385/push-vs-pull-design&quot;&gt;Push vs. Pull Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://techcrunch.com/2013/07/14/the-art-and-science-of-youtube-networks/&quot;&gt;The Art And Science Of YouTube Network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html&quot;&gt;Store Is Tracking Your Cell&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/gildas-lormeau/zip.js&quot;&gt;JavaScript library to zip and unzip files&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.timseverien.nl/promin&quot;&gt;Break forms into smaller chunks&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nicolas.perriault.net/code/2013/why_javascript/&quot;&gt;Why JavaScript?&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/15/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/15/dailyreading</guid>
+                <pubDate>2013-07-15T00:00:00+07:00</pubDate>
         </item>
 
 
