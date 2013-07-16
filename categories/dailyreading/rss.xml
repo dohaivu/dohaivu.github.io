@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-16T13:19:15+07:00</lastBuildDate>
-        <pubDate>2013-07-16T13:19:15+07:00</pubDate>
+        <lastBuildDate>2013-07-16T13:24:24+07:00</lastBuildDate>
+        <pubDate>2013-07-16T13:24:24+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -898,6 +898,33 @@ It&amp;#39;s going to be not a fiction any more. There is a company building it.
                 <link>dohaivu.github.io/blog/2013/07/15/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/15/dailyreading</guid>
                 <pubDate>2013-07-15T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, July 16 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://techcrunch.com/2013/07/13/why-behavior-change-apps-fail-to-change-behavior/&quot;&gt;Why Behavior Change Apps Fail To Change Behavior&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;To change behavior, products must ensure the user feels in control. People must want to use the service, not feel they have to.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/blog/1559-github-s-on-your-phone&quot;&gt;GitHub&amp;#39;s on your phone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/AnalogJ/dropstore-ng&quot;&gt;Dropbox Datastore bindings for AngularJS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.burnsidedigital.com/2013/07/whats-a-rest-api/&quot;&gt;What’s a (Good) REST API?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tech.kinja.com/my-experience-with-typescript-710191610&quot;&gt;My experience with TypeScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.patrickmeenan.com/2013/07/measuring-performance-of-user-experience.html&quot;&gt;Measuring performance of the user experience&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.teamtreehouse.com/responsive-design-patterns&quot;&gt;Responsive Design Patterns&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/16/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/16/dailyreading</guid>
+                <pubDate>2013-07-16T00:00:00+07:00</pubDate>
         </item>
 
 
