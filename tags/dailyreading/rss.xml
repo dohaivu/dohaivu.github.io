@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-16T13:27:03+07:00</lastBuildDate>
-        <pubDate>2013-07-16T13:27:03+07:00</pubDate>
+        <lastBuildDate>2013-07-17T14:46:31+07:00</lastBuildDate>
+        <pubDate>2013-07-17T14:46:31+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -925,6 +925,38 @@ It&amp;#39;s going to be not a fiction any more. There is a company building it.
                 <link>dohaivu.github.io/blog/2013/07/16/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/16/dailyreading</guid>
                 <pubDate>2013-07-16T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Wednesday, July 17 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/visualstudio/archive/2013/07/16/javascript-editor-improvements-in-visual-studio-2013-preview.aspx&quot;&gt;JavaScript Editor Improvements in Visual Studio 2013 Preview&lt;/a&gt;&lt;br&gt;
+2 useful enhancement for JS editor: identifier hightlight and navigation bar.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/07/16/authentic-design/&quot;&gt;Authentic Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.javacodegeeks.com/2013/07/practical-nosql-experiences-with-apache-cassandra.html&quot;&gt;Practical NoSQL experiences with Apache Cassandra&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Identify data access patterns, then the model data to support those access patterns. The database is optimized for key-oriented data access and data model must be denormalized&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.datastax.com/dev/blog/the-five-minute-interview-outbrain-touches-over-80-of-all-us-online-users-with-help-from-cassandra&quot;&gt;Outbrain touches over 80% of all US online users with help from Cassandra&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We look at how the data will be queried, its size, and how it needs to be distributed. We might use things like MySQL for historical reasons and MongoDB for smaller tasks, and then Cassandra for situations where data doesn’t all fit into memory or where it spans multiple machines and possibly data centers.&lt;/p&gt;
+
+&lt;p&gt;The primary thing is to do your data modeling in a way that fits with Cassandra. Don’t treat it like MySQL, Mongo, or a pure KV store and you’ll get the full benefits of it’s replication and caching models.  Get that right and your management and maintenance isn’t hard&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://analytics.blogspot.com/2013/07/re-imagining-segmentation-in-analytics.html&quot;&gt;Re-imagining Segmentation In Analytics To Help You Make Better Decisions, Faster&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://devcenter.heroku.com/articles/how-heroku-works&quot;&gt;How Heroku Works&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/17/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/17/dailyreading</guid>
+                <pubDate>2013-07-17T00:00:00+07:00</pubDate>
         </item>
 
 
