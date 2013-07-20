@@ -5,10 +5,65 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-17T15:32:56+07:00</lastBuildDate>
-        <pubDate>2013-07-17T15:32:56+07:00</pubDate>
+        <lastBuildDate>2013-07-20T10:20:49+07:00</lastBuildDate>
+        <pubDate>2013-07-20T10:20:49+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Saturday, July 20 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.download-free-games.com/infographics/how-is-candy-crush-raking-in-the-millions&quot;&gt;How is Candy Crush Saga Raking in the Millions?&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/cdnstudents/archive/2013/07/18/visual-studio-tips-for-html-web-or-windows-developers-zencoding.aspx&quot;&gt;ZenCoding in Visual Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.converser.io/free-mobile-apps/&quot;&gt;What Really Makes Free Mobile Apps So Profitable?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/blog/1564-code-search-api&quot;&gt;Github Code Search API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/news/2013/07/dont-tell-them-its-rest&quot;&gt;Don&amp;#39;t Tell Them its REST&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;start with the README&amp;quot; to build a minimal initial API and then evolve it based on usage experience. Don&amp;#39;t attempt to include too many features up front.&lt;br&gt;
+&amp;quot;mocking&amp;quot; is a bad practice, the problem with mocking is that your tests are detached from reality, we should populate a local database with live data to perform continuous integration testing without resorting to mock&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.codinghorror.com/blog/2013/07/rule-of-three.html&quot;&gt;Rule of Three&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The solution we constructed in Discourse was a decent start, but woefully incomplete – even wrong in some areas. The only way we can figure this out is by &lt;code&gt;slowly running the solution through its paces with our three partners&lt;/code&gt;, to live in the same house of software they do as roommates, to walk alongside them as they grow their discussion communities and do everything we can to help build it into a community we enjoy as much as everyone else does. And when there were only one set of footsteps in the sand, well … that&amp;#39;s because we were carrying you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jeffnolan.com/wp/2013/07/18/startup-lessons-dynamic-org-structures/&quot;&gt;Startup Lessons: Dynamic Org Structures&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/20/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/20/dailyreading</guid>
+                <pubDate>2013-07-20T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Thursday, July 18 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.2ality.com/2013/07/hello-polymer.html&quot;&gt;Q&amp;amp;A with Google’s Polymer team&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ankursethi.in/2013/07/simulating-a-slow-internet-connection/&quot;&gt;Simulating a Slow Internet Connection&lt;/a&gt;&lt;br&gt;
+Fiddler on Windows and Network Link Conditioner (&lt;a href=&quot;http://www.neglectedpotential.com/2012/05/slow-your-apps-roll/&quot;&gt;SLOW YOUR APP’S ROLL&lt;/a&gt; )on Mac are good methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pothibo.com/2013/07/responsive-javascript-in-rails/&quot;&gt;Responsive JavaScript in Rails&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dotnetcurry.com/ShowArticle.aspx?ID=915&quot;&gt;OWIN, Katana and SignalR&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/rogerwang/node-webkit&quot;&gt;node-webkit develop desktop apps using NodeJS and HTML5&lt;/a&gt;&lt;br&gt;
+It&amp;#39;s cool, just using web technology to develop desktop apps without learning Win32, .NET, or Object-C. Microsoft also has a similar technology &lt;code&gt;Javascript Runtime Hosting&lt;/code&gt; based on IE11, but there is no document about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.helpscout.net/blog/psychology-of-color/&quot;&gt;The Psychology of Color in Marketing and Branding&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/18/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/18/dailyreading</guid>
+                <pubDate>2013-07-18T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Wednesday, July 17 2013</title>
