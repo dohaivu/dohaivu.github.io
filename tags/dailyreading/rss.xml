@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-20T10:20:49+07:00</lastBuildDate>
-        <pubDate>2013-07-20T10:20:49+07:00</pubDate>
+        <lastBuildDate>2013-07-23T10:55:36+07:00</lastBuildDate>
+        <pubDate>2013-07-23T10:55:36+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1016,6 +1016,27 @@ It&amp;#39;s cool, just using web technology to develop desktop apps without lea
                 <link>dohaivu.github.io/blog/2013/07/20/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/20/dailyreading</guid>
                 <pubDate>2013-07-20T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, July 23 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://tech.pro/tutorial/1419/10-things-in-sql-server-which-don-t-work-as-expected&quot;&gt;10 things in SQL Server which don&amp;#39;t work as expected&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.brentozar.com/archive/2013/07/alwayson-availability-groups-real-life-lessons-learned-video/&quot;&gt;AlwaysOn Availability Groups Real-Life Lessons Learned&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gaslight.co/blog/angular-the-component-orientedness-it-makes-me-happy-and-why&quot;&gt;Angular - the Component Orientedness It make me Happy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/fatdb&quot;&gt;Building Scalable Applications in .NET: Introducing the FatDB Distributed Computing Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.fogus.me/2013/07/22/fp-vs-oo-from-the-trenches/&quot;&gt;FP vs. OO, from the trenches&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/&quot;&gt;An MVP is not a Cheaper Product, It’s about Smart Learning&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/23/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/23/dailyreading</guid>
+                <pubDate>2013-07-23T00:00:00+07:00</pubDate>
         </item>
 
 
