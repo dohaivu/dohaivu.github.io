@@ -14,7 +14,7 @@ CONFIG = {
   'theme_package_version' => "0.1.0"
 }
 
-# Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
+# Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
 desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
@@ -122,7 +122,7 @@ end
 
 
 desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
+task :publish do
   #FileUtils.remove_dir '_public', true
   #FileUtils.mkdir("_public")
   #FileUtils.cp_r "_site/.", "_public"

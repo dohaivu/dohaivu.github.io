@@ -12,27 +12,20 @@ title: A Passion Developer
       {% if post.content contains '<!--break-->' %}
         <a href="{{ post.url }}">read more</a>
       {% endif %}
-      <div class="clear"></div>
+      <div class="clearboth"></div>
     </div>
     <p class="category">
       Posted in&nbsp;
       {% for category in post.categories %}
       <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
-      {% endfor %}
-	  
-	  <!-- &nbsp;&nbsp;&nbsp;
-		Tags &nbsp;
-		{% for tag in post.tags %}
-			<a href="/tags/{{ tag }}/">{{ tag }}</a> &nbsp;
-		{% endfor %}
-    </p> -->    
+      {% endfor %}  
     <p>
       <span class="full-date">
         <abbr class="published" title="{{ post.date }}">{{ post.date | date_to_string }}</abbr>
       </span>
-    </p>
-    <div class="clear"></div>
+    </p>    
   </div>
+  <div class="clearboth"></div>
   <div class="rule"><hr/></div>
 {% endfor %}
 
