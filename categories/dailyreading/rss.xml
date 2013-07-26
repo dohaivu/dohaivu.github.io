@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-25T21:57:01+07:00</lastBuildDate>
-        <pubDate>2013-07-25T21:57:01+07:00</pubDate>
+        <lastBuildDate>2013-07-26T09:41:02+07:00</lastBuildDate>
+        <pubDate>2013-07-26T09:41:02+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1053,6 +1053,27 @@ A lightweight reactive dom instead of heavy framework EmberJS, AngularJS&lt;/p&g
                 <link>dohaivu.github.io/blog/2013/07/25/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/25/dailyreading</guid>
                 <pubDate>2013-07-25T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Friday, July 26 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://twitter.github.io/zipkin/&quot;&gt;Zipkin A distributed tracing system, from Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.asana.com/2013/07/marketing-with-asana/&quot;&gt;Marketing with Asana: The Tools We Use&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://insideintercom.io/shipping-is-the-beginning/&quot;&gt;Shipping Is The Beginning Of A Process&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://entrendipity.blogspot.com.au/2013/07/cross-development-common-code-base-for.html&quot;&gt;Cross-Development: Common code base for Node and the Browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bone.io/&quot;&gt;Bone.io Realtime HTML5 Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jointjs.com/&quot;&gt;JointJS JavaScript Diagramming Library&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/26/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/26/dailyreading</guid>
+                <pubDate>2013-07-26T00:00:00+07:00</pubDate>
         </item>
 
 
