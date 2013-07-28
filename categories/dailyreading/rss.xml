@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-26T09:41:02+07:00</lastBuildDate>
-        <pubDate>2013-07-26T09:41:02+07:00</pubDate>
+        <lastBuildDate>2013-07-28T09:59:40+07:00</lastBuildDate>
+        <pubDate>2013-07-28T09:59:40+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1074,6 +1074,25 @@ A lightweight reactive dom instead of heavy framework EmberJS, AngularJS&lt;/p&g
                 <link>dohaivu.github.io/blog/2013/07/26/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/26/dailyreading</guid>
                 <pubDate>2013-07-26T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Sunday, July 28 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://github.com/eventstore/eventstore/wiki/Event-Sourcing-Basics&quot;&gt;What is an Event Store?&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/wg/wrk&quot;&gt;Modern HTTP benchmarking tool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.vanseodesign.com/web-design/so-dont-do-that/&quot;&gt;So, Don’t Do That&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Design is about making tradeoffs. Any decision to optimize in one place in the design usually means the opposite for another place. All design involves compromise, where something is favored at the expense of something else.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/28/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/28/dailyreading</guid>
+                <pubDate>2013-07-28T00:00:00+07:00</pubDate>
         </item>
 
 
