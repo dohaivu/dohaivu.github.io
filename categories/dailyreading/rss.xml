@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-30T10:34:38+07:00</lastBuildDate>
-        <pubDate>2013-07-30T10:34:38+07:00</pubDate>
+        <lastBuildDate>2013-07-31T10:02:26+07:00</lastBuildDate>
+        <pubDate>2013-07-31T10:02:26+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1116,6 +1116,30 @@ A lightweight reactive dom instead of heavy framework EmberJS, AngularJS&lt;/p&g
                 <link>dohaivu.github.io/blog/2013/07/30/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/30/dailyreading</guid>
                 <pubDate>2013-07-30T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Wednesday, July 31 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/news/2013/07/appcelerator_survey_mobile_dev&quot;&gt;Appcelerator Survey on Mobile Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat&quot;&gt;Your app makes me fat&lt;/a&gt;&lt;br&gt;
+A very good post of cognitive resource.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.gqueues.com/2013/07/android-vs-ios-comparing-development.html&quot;&gt;Android vs. iOS: Comparing the Development Process of the GQueues Mobile Apps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pandodaily.com/2013/07/30/dial-up-why-startups-should-use-the-phone/&quot;&gt;Dial up: Why startups should use the phone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.2ality.com/2013/07/meta-style-guide.html&quot;&gt;A meta style guide for JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.codeproject.com/Reference/628210/An-Overview-of-the-NuGet-Ecosystem&quot;&gt;An Overview of the NuGet Ecosystem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.jongallant.com/2013/07/origin-not-allowed-angular-resource.html&quot;&gt;Origin is not allowed by Access-Control-Allow-Origin with AngularJS&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/07/31/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/07/31/dailyreading</guid>
+                <pubDate>2013-07-31T00:00:00+07:00</pubDate>
         </item>
 
 
