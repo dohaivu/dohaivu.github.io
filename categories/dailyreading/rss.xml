@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-07-31T10:02:26+07:00</lastBuildDate>
-        <pubDate>2013-07-31T10:02:26+07:00</pubDate>
+        <lastBuildDate>2013-08-02T09:16:42+07:00</lastBuildDate>
+        <pubDate>2013-08-02T09:16:42+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1140,6 +1140,25 @@ A very good post of cognitive resource.&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/07/31/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/07/31/dailyreading</guid>
                 <pubDate>2013-07-31T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Thursday, August 02 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/my-ranked-list-priorities&quot;&gt;My ranked list of priorities for Backend Web Programming: Scalability &amp;gt; Maintainable code &amp;gt; performance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sethrobertson.github.io/GitBestPractices/&quot;&gt;Git Best Practices&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://developers.google.com/speed/pagespeed/insights/&quot;&gt;Pagespeed Insights for devices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.alexmaccaw.com/javascript-wake-event&quot;&gt;JS Wake Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dotnetcurry.com/ShowArticle.aspx?ID=923&quot;&gt;A Glimpse into the Gut of your ASP.NET application&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/02/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/02/dailyreading</guid>
+                <pubDate>2013-08-02T00:00:00+07:00</pubDate>
         </item>
 
 
