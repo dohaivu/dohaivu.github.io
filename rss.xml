@@ -5,10 +5,29 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-02T09:16:42+07:00</lastBuildDate>
-        <pubDate>2013-08-02T09:16:42+07:00</pubDate>
+        <lastBuildDate>2013-08-03T09:43:30+07:00</lastBuildDate>
+        <pubDate>2013-08-03T09:43:30+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Saturday, August 03 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.sencha.com/blog/5-myths-about-mobile-web-performance/&quot;&gt;5 Myths About Mobile Web Performance&lt;/a&gt;&lt;br&gt;
+Javascript CPU performance does not affect mobile app performance as DOM Interaction, SVG, Canvas&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.startup-marketing.com/chasing-problems/&quot;&gt;Chasing Problems?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://architects.dzone.com/articles/solr-action-solr-features&quot;&gt;Solr in Action: Solr Features&lt;/a&gt;&lt;br&gt;
+New Solr 4 book.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://t.co/BuPGota74n&quot;&gt;The highest ROI way to increase signups: Make a minimal homepage&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/03/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/03/dailyreading</guid>
+                <pubDate>2013-08-03T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Thursday, August 02 2013</title>
@@ -23,6 +42,10 @@
 &lt;p&gt;&lt;a href=&quot;http://blog.alexmaccaw.com/javascript-wake-event&quot;&gt;JS Wake Event&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.dotnetcurry.com/ShowArticle.aspx?ID=923&quot;&gt;A Glimpse into the Gut of your ASP.NET application&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tikalk.com/js/week-bootstrap-3&quot;&gt;A Week with Bootstrap 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://antjanus.com/blog/web-design-tips/web-design-elements/best-new-features-in-bootstrap-3-0/&quot;&gt;Best New Features in Bootstrap 3.0&lt;/a&gt;&lt;/p&gt;
 </description>
                 <link>dohaivu.github.io/blog/2013/08/02/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/08/02/dailyreading</guid>
