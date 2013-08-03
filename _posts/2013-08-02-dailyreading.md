@@ -17,3 +17,7 @@ published: true
 [JS Wake Event](http://blog.alexmaccaw.com/javascript-wake-event)
 
 [A Glimpse into the Gut of your ASP.NET application](http://www.dotnetcurry.com/ShowArticle.aspx?ID=923)
+
+[A Week with Bootstrap 3](http://www.tikalk.com/js/week-bootstrap-3)
+
+[Best New Features in Bootstrap 3.0](http://antjanus.com/blog/web-design-tips/web-design-elements/best-new-features-in-bootstrap-3-0/)
