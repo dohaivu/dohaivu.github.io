@@ -5,10 +5,31 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-03T09:43:30+07:00</lastBuildDate>
-        <pubDate>2013-08-03T09:43:30+07:00</pubDate>
+        <lastBuildDate>2013-08-06T11:48:21+07:00</lastBuildDate>
+        <pubDate>2013-08-06T11:48:21+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Tuesday, August 06 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/&quot;&gt;Some AngularJS pitfalls&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.2ality.com/2013/08/javascript-resource-directories.html&quot;&gt;Directories for JavaScript resources&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.barrelny.com/blog/taking-control-of-imageloading/&quot;&gt;Taking Control of Image Loading&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.avc.com/a_vc/2013/08/focus.html&quot;&gt;Focus&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Focus is critical when you are three people, when you are twenty-five people, five hundred people, and ten thousand people. You can always get farther faster by saying no to too many projects and too many priorities. Pick your shots carefully and hit them. That&amp;#39;s what Jobs did to turn around Apple and that&amp;#39;s what you can do with your company too.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/06/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/06/dailyreading</guid>
+                <pubDate>2013-08-06T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Saturday, August 03 2013</title>
