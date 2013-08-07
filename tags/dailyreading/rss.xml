@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-06T13:08:37+07:00</lastBuildDate>
-        <pubDate>2013-08-06T13:08:37+07:00</pubDate>
+        <lastBuildDate>2013-08-07T16:44:25+07:00</lastBuildDate>
+        <pubDate>2013-08-07T16:44:25+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1208,6 +1208,31 @@ A big collection of JS patterns. It&amp;#39;s worth reading&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/08/06/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/08/06/dailyreading</guid>
                 <pubDate>2013-08-06T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Wednesday, August 07 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blog.programmableweb.com/2013/08/06/w3c-web-storage-api-now-in-recommendation-status/&quot;&gt;W3C Web Storage API Now In Recommendation Status&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://weblogs.asp.net/dwahlin/archive/2013/08/05/The-JavaScript-Cheese-is-Moving_3A00_-Data_2D00_Oriented-vs.-Control_2D00_Oriented-Programming.aspx&quot;&gt;The JavaScript Cheese is Moving: Data-Oriented vs. Control-Oriented Programming&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hacks.mozilla.org/2011/11/insertadjacenthtml-enables-faster-html-snippet-injection/&quot;&gt;insertAdjacentHTML&lt;/a&gt;&lt;br&gt;
+A useful method, I don&amp;#39;t know it exist yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/visualstudiouk/archive/2013/08/05/well-i-like-team-foundation-server-and-i-like-git-but-which-is-better.aspx&quot;&gt;Well, I like Team Foundation Server and I like Git, but which is better?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designirvana.com/popular-web-design-trends-to-watch-for/&quot;&gt;Top 15 most talked-about web design trends&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://t.co/5Ok652jrFV&quot;&gt;10 simple things you can do today that will make you happier &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/Leananalytics/lean-analytics-five-lessons-beyond-the-basics-august-6-2013-webinar-abridged&quot;&gt;Lean analytics: Five lessons beyond the basics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://furbo.org/2013/06/28/the-origin-of-tweet/&quot;&gt;The Origin of Tweet&lt;/a&gt;&lt;br&gt;
+A interesting story of the verb &amp;#39;tweet&amp;#39;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/07/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/07/dailyreading</guid>
+                <pubDate>2013-08-07T00:00:00+07:00</pubDate>
         </item>
 
 
