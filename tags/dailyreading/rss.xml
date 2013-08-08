@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-08T08:40:58+07:00</lastBuildDate>
-        <pubDate>2013-08-08T08:40:58+07:00</pubDate>
+        <lastBuildDate>2013-08-08T12:30:55+07:00</lastBuildDate>
+        <pubDate>2013-08-08T12:30:55+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1190,7 +1190,7 @@ New Solr 4 book.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.2ality.com/2013/08/javascript-resource-directories.html&quot;&gt;Directories for JavaScript resources&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://shichuan.github.io/javascript-patterns/&quot;&gt;Javascript Patterns&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://shichuan.github.io/javascript-patterns/&quot;&gt;Javascript Patterns&lt;/a&gt;&lt;br&gt;
 A big collection of JS patterns. It&amp;#39;s worth reading&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://flippinawesome.org/2013/08/05/animating-with-angularjs/&quot;&gt;Animating with AngularJS&lt;/a&gt;&lt;/p&gt;
@@ -1233,6 +1233,27 @@ An interesting story of the verb &amp;#39;tweet&amp;#39;&lt;/p&gt;
                 <link>dohaivu.github.io/blog/2013/08/07/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/08/07/dailyreading</guid>
                 <pubDate>2013-08-07T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Thursday, August 08 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://blog.statuspage.io/5-steps-to-5000-in-monthly-recurring-revenue&quot;&gt;5 Steps to $5,000 in Monthly Recurring Revenue&lt;/a&gt;&lt;br&gt;
+A good story of StatusPage.io from idea to revenue.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/zainnab/archive/2013/08/07/visual-studio-2013-insert-a-line.aspx&quot;&gt;Visual Studio 2013: Insert a Line&lt;/a&gt;&lt;br&gt;
+Useful feature, just press CTRL+ENTER or CTRL+SHIFT+ENTER to insert a line above or below the cursor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thevine.com.au/life/tech/the-single-most-reckless-idiotic-wonderful-app-ever-is-here/&quot;&gt;The single most reckless, idiotic, wonderful app ever is here!&lt;/a&gt;&lt;br&gt;
+This app is brilliant idea. Throw your phone as high as you can, then it uploads your height to a leaderboard to compare with other height. It&amp;#39;s thrilled game, but it&amp;#39;s fun.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Mamady/green-slate&quot;&gt;Green Slate&lt;/a&gt;&lt;br&gt;
+Make your github&amp;#39;s contribution green by an automated push everyday. It&amp;#39;s just fun but meaningless&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/08/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/08/dailyreading</guid>
+                <pubDate>2013-08-08T00:00:00+07:00</pubDate>
         </item>
 
 
