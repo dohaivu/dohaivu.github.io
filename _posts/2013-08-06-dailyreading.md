@@ -10,7 +10,7 @@ published: true
 
 [Directories for JavaScript resources](http://www.2ality.com/2013/08/javascript-resource-directories.html)
 
-[Javascript Patterns](http://shichuan.github.io/javascript-patterns/)
+[Javascript Patterns](http://shichuan.github.io/javascript-patterns/)  
 A big collection of JS patterns. It's worth reading
 
 [Animating with AngularJS](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
