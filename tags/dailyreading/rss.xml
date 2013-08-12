@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-08T12:30:55+07:00</lastBuildDate>
-        <pubDate>2013-08-08T12:30:55+07:00</pubDate>
+        <lastBuildDate>2013-08-12T09:29:32+07:00</lastBuildDate>
+        <pubDate>2013-08-12T09:29:32+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1254,6 +1254,35 @@ Make your github&amp;#39;s contribution green by an automated push everyday. It&
                 <link>dohaivu.github.io/blog/2013/08/08/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/08/08/dailyreading</guid>
                 <pubDate>2013-08-08T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Friday, August 12 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.strathweb.com/2013/08/message-handlers-scoped-per-route-in-asp-net-web-api/&quot;&gt;Message handlers scoped per route in ASP.NET Web API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.getglimpse.com/2013/08/08/glimpse-1-6-0-released&quot;&gt;Glimpse 1.6.0 released&lt;/a&gt;&lt;br&gt;
+Add server clock time to HUD, sometime there is a difference between client and server time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.impressivewebs.com/language-wide-features-css/&quot;&gt;Language Wide Features CSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx&quot;&gt;Group and Display Data with Underscore and AngularJS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://analytics.blogspot.com/2013/08/easily-ab-test-your-websites-call-to.html&quot;&gt;Easily A/B Test Your Website&amp;#39;s Call-to-Action Using Content Experiments API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mashable.com/2013/08/11/teens-facebook/&quot;&gt;I&amp;#39;m 13 and None of My Friends Use Facebook&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In the end, Facebook has been trying too hard. Teens hate it when people try too hard; it pushes them away. It’s like if my mom told me not to do something — I immediately need to do it. When she forces something on me, I really don’t want to do it.&lt;br&gt;
+Teens just like to join in on their own. If you’re all up in their faces about the new features on Facebook, they’ll get annoyed and find a new social media.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.bothsidesofthetable.com/2013/08/10/the-importance-of-realism-in-startups/&quot;&gt;The Importance of Realism in Startups&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/&quot;&gt;95 Ways to find your first customers for customer development or your first sale&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/12/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/12/dailyreading</guid>
+                <pubDate>2013-08-12T00:00:00+07:00</pubDate>
         </item>
 
 
