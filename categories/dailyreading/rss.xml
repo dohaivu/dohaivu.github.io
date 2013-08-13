@@ -7,8 +7,8 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-12T09:29:32+07:00</lastBuildDate>
-        <pubDate>2013-08-12T09:29:32+07:00</pubDate>
+        <lastBuildDate>2013-08-13T11:25:20+07:00</lastBuildDate>
+        <pubDate>2013-08-13T11:25:20+07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1283,6 +1283,31 @@ Teens just like to join in on their own. If you’re all up in their faces about
                 <link>dohaivu.github.io/blog/2013/08/12/dailyreading/</link>
                 <guid>dohaivu.github.io/blog/2013/08/12/dailyreading</guid>
                 <pubDate>2013-08-12T00:00:00+07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Daily Reading - Tuesday, August 13 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/archive/2013/08/12/windows-azure-general-availability-of-sql-server-always-on-support-and-notification-hubs-autoscale-improvements-more.aspx&quot;&gt;Windows Azure: SQL Server Always On Support and Notification Hubs, AutoScale&lt;/a&gt;&lt;br&gt;
+With SQL Server AlwaysOn within Windows Azure VM, we can use a single connection to connect to the Availability Group Listener endpoint. The load balancer will route requests to primary or secondaries replica.&lt;br&gt;
+New &lt;strong&gt;Schedule AutoScale&lt;/strong&gt; feature allows us to scale instances with a specific time frame. We can setup our website to scale up in the morning and scale down in the evening automatically.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/productivity-design/b65f0e76074a&quot;&gt;Why are we attracted to beautiful things?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.owasp.org/index.php/Top_10_2013-Table_of_Contents&quot;&gt;OWASP Top Ten Security Risk in 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://adeelraza.co/blog/can-a-software-developer-be-a-successful-entrepreneur/&quot;&gt;Can a software developer be a successful entrepreneur?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mdswanson.com/blog/2013/08/11/write-things-tell-people.html&quot;&gt;Do things, write about it&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;you need to do only two things to put yourself in a position to encounter interesting work: make something cool and then tell people about it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Inspiring me, this is exact what I am trying to do. Write some useful posts, push them to Github pages.&lt;/p&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/13/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/13/dailyreading</guid>
+                <pubDate>2013-08-13T00:00:00+07:00</pubDate>
         </item>
 
 
