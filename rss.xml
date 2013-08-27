@@ -5,10 +5,35 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-08-13T11:25:20+07:00</lastBuildDate>
-        <pubDate>2013-08-13T11:25:20+07:00</pubDate>
+        <lastBuildDate>2013-08-27T10:44:37+07:00</lastBuildDate>
+        <pubDate>2013-08-27T10:44:37+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Monday, August 27 2013</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html&quot;&gt;Paul Graham on Building Companies for Fast Growth&lt;/a&gt;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The way you&amp;#39;ll get big ideas in, say, health care is by starting out with small ideas. If you try to do some big thing, you don&amp;#39;t just need it to be big; you need it to be good. And it&amp;#39;s really hard to do big and good simultaneously. So, what that means is you can either do something small and good and then gradually make it bigger, or do something big and bad and gradually make it better. And you know what? Empirically, starting big just does not work. That&amp;#39;s the way the government does things. They do something really big that&amp;#39;s really bad, and they think, Well, we&amp;#39;ll make it better, and then it never gets better.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://martinfowler.com/bliki/GivenWhenThen.html&quot;&gt;Martin Fowler - GivenWhenThen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sencha.com/blog/offline-techniques-sencha-touch&quot;&gt;Offline Techniques &amp;amp; Sencha Touch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html&quot;&gt;Reddit: Lessons Learned From Mistakes Made Scaling To 1 Billion Pageviews A Month&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Give users a little bit of power, see what they do with it, and turn the good stuff into features&lt;/strong&gt;. One of the biggest revelations for me was how much reddit learns from its users and how much it relies on users to make the site run smoothly. Users are going to tell you a lot of things you don’t know&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2013/08/27/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2013/08/27/dailyreading</guid>
+                <pubDate>2013-08-27T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Tuesday, August 13 2013</title>
