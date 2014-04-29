@@ -5,10 +5,28 @@
         <description>A Passion Developer - Vu Hai Do</description>
         <link>dohaivu.github.io/rss.xml</link>
         <link>dohaivu.github.io</link>
-        <lastBuildDate>2013-10-06T18:14:51+07:00</lastBuildDate>
-        <pubDate>2013-10-06T18:14:51+07:00</pubDate>
+        <lastBuildDate>2014-04-29T07:38:21+07:00</lastBuildDate>
+        <pubDate>2014-04-29T07:38:21+07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Daily Reading - Tuesday, April 29 2014</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://tapity.com/tutorial-getting-started-with-pop/&quot;&gt;Tutorial: getting started with Pop&lt;/a&gt;&lt;br&gt;
+Pop is an extensible animation engine for iOS and OS X. In addition to basic static animations, it supports spring and decay dynamic animations, making it useful for building realistic, physics-based interactions. It&amp;#39;s a mature and well-tested framework that drives all the animations and transitions in &lt;a href=&quot;http://www.facebook.com/paper&quot;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ben-evans.com/benedictevans/2014/4/25/ipad-growth&quot;&gt;iPads and tablet growth&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;looking at tablets and smartphones as mobile devices in a new category that competes with PCs may be the wrong comparison - in fact, it may be better to think of tablets, laptops and desktops as one &amp;#39;big screen&amp;#39; segment, all of which compete with smartphones, and for which the opportunity is just smaller than that for smartphones. And so tablets will over time eat away at laptop and desktop sales just as laptops ate away at desktop sales, but the truly transformative new category is the smartphone. Maybe &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--break--&gt;
+</description>
+                <link>dohaivu.github.io/blog/2014/04/29/dailyreading/</link>
+                <guid>dohaivu.github.io/blog/2014/04/29/dailyreading</guid>
+                <pubDate>2014-04-29T00:00:00+07:00</pubDate>
+        </item>
 
         <item>
                 <title>Daily Reading - Monday, August 27 2013</title>
